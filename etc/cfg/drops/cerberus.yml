@@ -1,0 +1,131 @@
+---
+npc_id: 5862
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+  - name: "key master teleport"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "coins"
+    minimum: 250000
+    maximum: 1250000
+  - name: "unholy symbol"
+    minimum: 1
+    maximum: 1
+  - name: "summer pie"
+    minimum: 3
+    maximum: 3
+  - name: "ashes noted"
+    minimum: 50
+    maximum: 100
+  - name: "dragon bones noted"
+    minimum: 20
+    maximum: 100
+  - name: "wine of zamorak noted"
+    minimum: 15
+    maximum: 80
+  - name: "fire orb noted"
+    minimum: 20
+    maximum: 90
+  - name: "uncut diamond noted"
+    minimum: 5
+    maximum: 45
+  - name: "coal noted"
+    minimum: 120
+    maximum: 180
+  - name: "super restore4"
+    minimum: 2
+    maximum: 2
+  - name: "pure essence noted"
+    minimum: 300
+    maximum: 500
+  - name: "fire rune"
+    minimum: 300
+    maximum: 1500
+  - name: "death rune"
+    minimum: 100
+    maximum: 700
+  - name: "soul rune"
+    minimum: 100
+    maximum: 600
+  - name: "lava battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "battlestaff noted"
+    minimum: 6
+    maximum: 75
+  - name: "key master teleport"
+    minimum: 1
+    maximum: 3
+uncommon:
+  accessibility: 2
+  items:
+  - name: "rune 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "rune halberd"
+    minimum: 1
+    maximum: 1
+  - name: "black dhide body"
+    minimum: 1
+    maximum: 1
+  - name: "rune full helm"
+    minimum: 1
+    maximum: 1
+  - name: "rune axe"
+    minimum: 1
+    maximum: 1
+  - name: "rune pickaxe"
+    minimum: 1
+    maximum: 1
+  - name: "rune chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "rune platebody"
+    minimum: 1
+    maximum: 1
+  - name: "runite ore noted"
+    minimum: 5
+    maximum: 25
+  - name: "torstol noted"
+    minimum: 6
+    maximum: 6
+  - name: "torstol seed"
+    minimum: 3
+    maximum: 3
+  - name: "blood rune"
+    minimum: 60
+    maximum: 60
+  - name: "runite bolts unf"
+    minimum: 40
+    maximum: 40
+rare:
+  accessibility: 100
+  items:
+  - name: "jar of souls"
+    minimum: 1
+    maximum: 1
+  - name: "shield left half"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 100
+  items:
+  - name: "primordial crystal"
+    minimum: 1
+    maximum: 1
+  - name: "eternal crystal"
+    minimum: 1
+    maximum: 1
+  - name: "pegasian crystal"
+    minimum: 1
+    maximum: 1
+  - name: "smouldering stone"
+    minimum: 1
+    maximum: 1

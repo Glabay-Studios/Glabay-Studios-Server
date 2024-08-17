@@ -1,0 +1,59 @@
+---
+npc_id: 2206
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "steel dart"
+    minimum: 95
+    maximum: 100
+  - name: "law rune"
+    minimum: 7
+    maximum: 10
+  - name: "steel arrow"
+    minimum: 97
+    maximum: 100
+  - name: "coins"
+    minimum: 1300
+    maximum: 225000
+  - name: "snape grass noted"
+    minimum: 5
+    maximum: 5
+uncommon:
+  accessibility: 15
+  items:
+  - name: "ranarr weed"
+    minimum: 1
+    maximum: 1
+  - name: "unicorn horn noted"
+    minimum: 6
+    maximum: 6
+  - name: "monkfish"
+    minimum: 3
+    maximum: 3
+  - name: "runite crossbow u"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 150
+  items:
+  - name: "godsword shard 1"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 2"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 3"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 700
+  items:
+  - name: "saradomin sword"
+    minimum: 1
+    maximum: 1

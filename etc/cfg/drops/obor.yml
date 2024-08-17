@@ -1,0 +1,95 @@
+---
+npc_id: 7416
+constant:
+  accessibility: 0
+  items:
+    - name: "big bones"
+      minimum: 1
+      maximum: 1
+    - name: "Ensouled giant head"
+      minimum: 1
+      maximum: 1
+common:
+  accessibility: 20
+  items:
+    - name: "Law rune"
+      minimum: 50
+      maximum: 99
+    - name: "Cosmic rune"
+      minimum: 60
+      maximum: 119
+    - name: "Chaos rune"
+      minimum: 100
+      maximum: 199
+    - name: "Death rune"
+      minimum: 40
+      maximum: 79
+    - name: "Nature rune"
+      minimum: 40
+      maximum: 79
+    - name: "LIMPWURT_ROOT_NOTED"
+      minimum: 20
+      maximum: 20
+    - name: "BIG_BONES_NOTED"
+      minimum: 50
+      maximum: 50
+    - name: "UNCUT_DIAMOND_NOTED"
+      minimum: 5
+      maximum: 5
+    - name: "UNCUT_RUBY_NOTED"
+      minimum: 5
+      maximum: 5
+    - name: "Rune full helm"
+      minimum: 1
+      maximum: 1
+    - name: "Rune med helm"
+      minimum: 1
+      maximum: 1
+    - name: "Rune longsword"
+      minimum: 1
+      maximum: 1
+    - name: "Coins"
+      minimum: 10000
+      maximum: 20000
+    - name: "Giant key"
+      minimum: 1
+      maximum: 1
+uncommon:
+  accessibility: 40
+  items:
+    - name: "Rune kiteshield"
+      minimum: 1
+      maximum: 1
+    - name: "Rune chainbody"
+      minimum: 1
+      maximum: 1
+    - name: "Rune platelegs"
+      minimum: 1
+      maximum: 1
+    - name: "Rune plateskirt"
+      minimum: 1
+      maximum: 1
+    - name: "Rune battleaxe"
+      minimum: 1
+      maximum: 1
+    - name: "Rune 2h sword"
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 200
+  items:
+    - name: "Long bone"
+      minimum: 1
+      maximum: 1
+    - name: "Hill giant club"
+      minimum: 1
+      maximum: 1
+veryrare:
+  accessibility: 5000
+  items:
+    - name: "Giant champion scroll"
+      minimum: 1
+      maximum: 1
+    - name: "Curved bone"
+      minimum: 1
+      maximum: 1

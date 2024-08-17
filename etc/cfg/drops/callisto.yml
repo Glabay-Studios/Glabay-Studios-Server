@@ -1,0 +1,80 @@
+---
+npc_id: 6609
+constant:
+  accessibility: 0
+  items:
+  - name: "big bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "rune pickaxe"
+    minimum: 1
+    maximum: 1
+  - name: "rune 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "uncut ruby noted"
+    minimum: 5
+    maximum: 20
+  - name: "uncut diamond noted"
+    minimum: 5
+    maximum: 20
+  - name: "dark crab"
+    minimum: 8
+    maximum: 8
+  - name: "super restore4"
+    minimum: 3
+    maximum: 3
+uncommon:
+  accessibility: 2
+  items:
+  - name: "death rune"
+    minimum: 300
+    maximum: 600
+  - name: "chaos rune"
+    minimum: 450
+    maximum: 750
+  - name: "blood rune"
+    minimum: 200
+    maximum: 500
+  - name: "magic logs noted"
+    minimum: 100
+    maximum: 400
+  - name: "archaic emblem tier 1"
+    minimum: 1
+    maximum: 1
+  - name: "grimy toadflax noted"
+    minimum: 30
+    maximum: 50
+  - name: "red dragonhide noted"
+    minimum: 75
+    maximum: 110
+  - name: "limpwurt root noted"
+    minimum: 50
+    maximum: 80
+  - name: "crushed nest noted"
+    minimum: 75
+    maximum: 100
+rare:
+  accessibility: 100
+  items:
+  - name: "dragon pickaxe"
+    minimum: 1
+    maximum: 1
+  - name: "dragon 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "tyrannical ring"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 75
+  items:
+  - item: 4185
+    maximum: 3
+    minimum: 2
+  - item: 6792
+    maximum: 3
+    minimum: 2

@@ -1,0 +1,77 @@
+---
+npc_id: 2266
+constant:
+  accessibility: 0
+  items:
+  - name: "dagannoth bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "air battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "earth battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "water battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "air rune"
+    minimum: 150
+    maximum: 600
+  - name: "death rune"
+    minimum: 75
+    maximum: 300
+  - name: "fire rune"
+    minimum: 200
+    maximum: 600
+  - name: "pure essence noted"
+    minimum: 50
+    maximum: 150
+uncommon:
+  accessibility: 4
+  items:
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 3
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 3
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 3
+  - name: "coins"
+    minimum: 150000
+    maximum: 808008
+rare:
+  accessibility: 9
+  items:
+  - name: "skeletal helm"
+    minimum: 1
+    maximum: 1
+  - name: "skeletal top"
+    minimum: 1
+    maximum: 1
+  - name: "skeletal bottoms"
+    minimum: 1
+    maximum: 1
+  - name: "skeletal boots"
+    minimum: 1
+    maximum: 1
+  - name: "skeletal gloves"
+    minimum: 1
+    maximum: 1
+  - name: "mystic mud staff"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 50
+  items:
+  - name: "dragon axe"
+    minimum: 1
+    maximum: 1
+  - name: "seers ring"
+    minimum: 1
+    maximum: 1

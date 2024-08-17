@@ -1,0 +1,382 @@
+---
+
+#ROGUE_XP TODAY
+- type: ROGUE_XP
+  period: TODAY
+  item:
+    id: 995
+    amount: 10_000_000
+  place: 1
+- type: ROGUE_XP
+  period: TODAY
+  item:
+    id: 995
+    amount: 5_000_000
+  place: 2
+- type: ROGUE_XP
+  period: TODAY
+  item:
+    id: 995
+    amount: 3_000_000
+  place: 3
+#ROGUE_XP WEEKLY
+- type: ROGUE_XP
+  period: WEEKLY
+  item:
+    id: 995
+    amount: 100_000_000
+  place: 1
+- type: ROGUE_XP
+  period: WEEKLY
+  item:
+    id: 995
+    amount: 50_000_000
+  place: 2
+- type: ROGUE_XP
+  period: WEEKLY
+  item:
+    id: 995
+    amount: 30_000_000
+  place: 3
+#STANDARD_XP TODAY
+- type: STANDARD_XP
+  period: TODAY
+  item:
+    id: 995
+    amount: 10_000_000
+  place: 1
+- type: STANDARD_XP
+  period: TODAY
+  item:
+    id: 995
+    amount: 5_000_000
+  place: 2
+- type: STANDARD_XP
+  period: TODAY
+  item:
+    id: 995
+    amount: 3_000_000
+  place: 3
+#STANDARD_XP WEEKLY
+- type: STANDARD_XP
+  period: WEEKLY
+  item:
+    id: 995
+    amount: 100_000_000
+  place: 1
+- type: STANDARD_XP
+  period: WEEKLY
+  item:
+    id: 995
+    amount: 50_000_000
+  place: 2
+- type: STANDARD_XP
+  period: WEEKLY
+  item:
+    id: 995
+    amount: 30_000_000
+  place: 3
+#OUTLAST_WINS TODAY
+- type: OUTLAST_WINS
+  period: TODAY
+  item:
+    id: 995
+    amount: 25_000_000
+  place: 1
+- type: OUTLAST_WINS
+  period: TODAY
+  item:
+    id: 995
+    amount: 10_000_000
+  place: 2
+- type: OUTLAST_WINS
+  period: TODAY
+  item:
+    id: 995
+    amount: 5_000_000
+  place: 3
+#OUTLAST_WINS WEEKLY
+- type: OUTLAST_WINS
+  period: WEEKLY
+  item:
+    id: 995
+    amount: 250_000_000
+  place: 1
+- type: OUTLAST_WINS
+  period: WEEKLY
+  item:
+    id: 995
+    amount: 100_000_000
+  place: 2
+- type: OUTLAST_WINS
+  period: WEEKLY
+  item:
+    id: 995
+    amount: 50_000_000
+  place: 3
+#COX TODAY
+- type: COX
+  period: TODAY
+  item:
+    id: 3464
+    amount: 1
+  place: 1
+- type: COX
+  period: TODAY
+  item:
+    id: 995
+    amount: 10_000_000
+  place: 2
+- type: COX
+  period: TODAY
+  item:
+    id: 995
+    amount: 5_000_000
+  place: 3
+#COX WEEKLY
+- type: COX
+  period: WEEKLY
+  item:
+    id: 3464
+    amount: 3
+  place: 1
+- type: COX
+  period: WEEKLY
+  item:
+    id: 3464
+    amount: 2
+  place: 2
+- type: COX
+  period: WEEKLY
+  item:
+    id: 3464
+    amount: 1
+  place: 3
+#TOB TODAY
+- type: TOB
+  period: TODAY
+  item:
+    id: 13346
+    amount: 1
+  place: 1
+- type: TOB
+  period: TODAY
+  item:
+    id: 6828
+    amount: 1
+  place: 2
+- type: TOB
+  period: TODAY
+  item:
+    id: 6199
+    amount: 1
+  place: 3
+#TOB WEEKLY
+- type: TOB
+  period: WEEKLY
+  item:
+    id: 13346
+    amount: 3
+  place: 1
+- type: TOB
+  period: WEEKLY
+  item:
+    id: 6828
+    amount: 3
+  place: 2
+- type: TOB
+  period: WEEKLY
+  item:
+    id: 6199
+    amount: 3
+  place: 3
+#NIGHTMARE TODAY
+- type: NIGHTMARE
+  period: TODAY
+  item:
+    id: 692
+    amount: 1
+  place: 1
+- type: NIGHTMARE
+  period: TODAY
+  item:
+    id: 691
+    amount: 1
+  place: 2
+- type: NIGHTMARE
+  period: TODAY
+  item:
+    id: 995
+    amount: 5_000_000
+  place: 3
+#NIGHTMARE WEEKLY
+- type: NIGHTMARE
+  period: WEEKLY
+  item:
+    id: 696
+    amount: 1
+  place: 1
+- type: NIGHTMARE
+  period: WEEKLY
+  item:
+    id: 693
+    amount: 1
+  place: 2
+- type: NIGHTMARE
+  period: WEEKLY
+  item:
+    id: 691
+    amount: 1
+  place: 3
+#HESPORI TODAY
+- type: HESPORI
+  period: TODAY
+  item:
+    id: 22374
+    amount: 3
+  place: 1
+- type: HESPORI
+  period: TODAY
+  item:
+    id: 22374
+    amount: 2
+  place: 2
+- type: HESPORI
+  period: TODAY
+  item:
+    id: 22374
+    amount: 1
+  place: 3
+#HESPORI WEEKLY
+- type: HESPORI
+  period: WEEKLY
+  item:
+    id: 22374
+    amount: 15
+  place: 1
+- type: HESPORI
+  period: WEEKLY
+  item:
+    id: 22374
+    amount: 5
+  place: 2
+- type: HESPORI
+  period: WEEKLY
+  item:
+    id: 22374
+    amount: 3
+  place: 3
+#WILDY_EVENTS TODAY
+- type: WILDY_EVENTS
+  period: TODAY
+  item:
+    id: 4185
+    amount: 3
+  place: 1
+- type: WILDY_EVENTS
+  period: TODAY
+  item:
+    id: 4185
+    amount: 2
+  place: 2
+- type: WILDY_EVENTS
+  period: TODAY
+  item:
+    id: 4185
+    amount: 1
+  place: 3
+#WILDY_EVENTS WEEKLY
+- type: WILDY_EVENTS
+  period: WEEKLY
+  item:
+    id: 6792
+    amount: 15
+  place: 1
+- type: WILDY_EVENTS
+  period: WEEKLY
+  item:
+    id: 6792
+    amount: 5
+  place: 2
+- type: WILDY_EVENTS
+  period: WEEKLY
+  item:
+    id: 6792
+    amount: 3
+  place: 3
+#MOST_BURNED TODAY
+- type: MOST_BURNED
+  period: TODAY
+  item:
+    id: 13346
+    amount: 1
+  place: 1
+- type: MOST_BURNED
+  period: TODAY
+  item:
+    id: 6828
+    amount: 1
+  place: 2
+- type: MOST_BURNED
+  period: TODAY
+  item:
+    id: 6199
+    amount: 1
+  place: 3
+#MOST_BURNED WEEKLY
+- type: MOST_BURNED
+  period: WEEKLY
+  item:
+    id: 8167
+    amount: 2
+  place: 1
+- type: MOST_BURNED
+  period: WEEKLY
+  item:
+    id: 13346
+    amount: 2
+  place: 2
+- type: MOST_BURNED
+  period: WEEKLY
+  item:
+    id: 6828
+    amount: 2
+  place: 3
+#BOSS_POINTS TODAY
+- type: BOSS_POINTS
+  period: TODAY
+  item:
+    id: 995
+    amount: 25_000_000
+  place: 1
+- type: BOSS_POINTS
+  period: TODAY
+  item:
+    id: 995
+    amount: 5_000_000
+  place: 2
+- type: BOSS_POINTS
+  period: TODAY
+  item:
+    id: 995
+    amount: 3_000_000
+  place: 3
+#BOSS_POINTS WEEKLY
+- type: BOSS_POINTS
+  period: WEEKLY
+  item:
+    id: 995
+    amount: 250_000_000
+  place: 1
+- type: BOSS_POINTS
+  period: WEEKLY
+  item:
+    id: 995
+    amount: 50_000_000
+  place: 2
+- type: BOSS_POINTS
+  period: WEEKLY
+  item:
+    id: 995
+    amount: 30_000_000
+  place: 3

@@ -1,0 +1,68 @@
+---
+npc_id: 2242
+common:
+  accessibility: 1
+  items:
+  - name: "leather gloves"
+    minimum: 1
+    maximum: 1
+  - name: "iron sword"
+    minimum: 1
+    maximum: 1
+  - name: "iron scimitar"
+    minimum: 1
+    maximum: 1
+  - name: "mithril platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "steel longsword"
+    minimum: 1
+    maximum: 1
+  - name: "steel chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "adamant full helm"
+    minimum: 1
+    maximum: 1
+  - name: "steel sword"
+    minimum: 1
+    maximum: 1
+  - name: "black kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "black warhammer"
+    minimum: 1
+    maximum: 1
+  - name: "mithril mace"
+    minimum: 1
+    maximum: 1
+  - name: "black dagger"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 12
+  items:
+  - name: "mithril spearp"
+    minimum: 1
+    maximum: 1
+  - name: "adamant battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "mithril axe"
+    minimum: 1
+    maximum: 1
+  - name: "iron plateskirt"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 80
+  items:
+  - name: "adamant 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "rune longsword"
+    minimum: 1
+    maximum: 1
+  - name: "rune kiteshield"
+    minimum: 1
+    maximum: 1

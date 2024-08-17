@@ -1,0 +1,144 @@
+---
+npc_id:
+  - 2090
+  - 2091
+  - 2092
+  - 2093
+constant:
+  accessibility: 0
+  items:
+  - name: "big bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 30
+  items:
+  - name: "black sq shield"
+    minimum: 1
+    maximum: 1
+  - name: "steel med helm"
+    minimum: 1
+    maximum: 1
+  - name: "steel kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "magic staff"
+    minimum: 1
+    maximum: 1
+  - name: "mithril sword"
+    minimum: 1
+    maximum: 1
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+  - name: "air rune"
+    minimum: 35
+    maximum: 35
+  - name: "cosmic rune"
+    minimum: 15
+    maximum: 15
+  - name: "earth rune"
+    minimum: 30
+    maximum: 30
+  - name: "nature rune"
+    minimum: 10
+    maximum: 15
+uncommon:
+  accessibility: 64
+  items:
+  - name: "iron arrow"
+    minimum: 30
+    maximum: 45
+  - name: "steel arrow"
+    minimum: 45
+    maximum: 60
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 1
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 1
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 1
+  - name: "law rune"
+    minimum: 15
+    maximum: 15
+  - name: "blood rune"
+    minimum: 15
+    maximum: 15
+  - name: "chaos rune"
+    minimum: 15
+    maximum: 15
+  - name: "death rune"
+    minimum: 10
+    maximum: 10
+  - name: "death rune"
+    minimum: 10
+    maximum: 10
+rare:
+  accessibility: 128
+  items:
+    - name: "Mossy key"
+      minimum: 1
+      maximum: 1
+very_rare:
+  accessibility: 256
+  items:
+  - name: "grimy kwuarm"
+    minimum: 1
+    maximum: 1
+  - name: "grimy cadantine"
+    minimum: 1
+    maximum: 1
+  - name: "grimy lantadyme"
+    minimum: 1
+    maximum: 1
+  - name: "grimy dwarf weed"
+    minimum: 1
+    maximum: 1
+  - name: "ranarr seed"
+    minimum: 1
+    maximum: 1
+  - name: "avantoe seed"
+    minimum: 1
+    maximum: 1
+  - name: "kwuarm seed"
+    minimum: 1
+    maximum: 1
+  - name: "snapdragon seed"
+    minimum: 1
+    maximum: 1
+  - name: "cadantine seed"
+    minimum: 1
+    maximum: 1
+  - name: "lantadyme seed"
+    minimum: 1
+    maximum: 1
+  - name: "dwarf weed seed"
+    minimum: 1
+    maximum: 1
+  - name: "Torstol seed"
+    minimum: 1
+    maximum: 1
+  - name: "Dwarf weed seed"
+    minimum: 1
+    maximum: 1
+  - name: "Lantadyme seed"
+    minimum: 1
+    maximum: 1
+  - name: "Shield left half"
+    minimum: 1
+    maximum: 1
+  - name: "Dragon spear"
+    minimum: 1
+    maximum: 1

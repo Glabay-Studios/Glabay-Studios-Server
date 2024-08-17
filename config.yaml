@@ -1,0 +1,6 @@
+server_state: "DEBUG"
+embedded_password: null
+local_database: null
+store_database: null
+vote_database: null
+hiscores_database: null

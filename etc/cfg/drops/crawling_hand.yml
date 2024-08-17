@@ -1,0 +1,62 @@
+---
+npc_id: 448
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "coins"
+    minimum: 1000
+    maximum: 5000
+  - name: "eye of newt noted"
+    minimum: 1
+    maximum: 2
+  - name: "snake weed"
+    minimum: 1
+    maximum: 2
+  - name: "red spiders eggs noted"
+    minimum: 1
+    maximum: 2
+  - name: "goat horn dust noted"
+    minimum: 1
+    maximum: 2
+  - name: "snape grass noted"
+    minimum: 1
+    maximum: 2
+  - name: "limpwurt root noted"
+    minimum: 1
+    maximum: 2
+  - name: "white berries noted"
+    minimum: 1
+    maximum: 2
+  - name: "blue dragon scale noted"
+    minimum: 1
+    maximum: 2
+  - name: "wine of zamorak noted"
+    minimum: 1
+    maximum: 1
+  - name: "chocolate dust noted"
+    minimum: 1
+    maximum: 1
+  - name: "mort myre fungus noted"
+    minimum: 1
+    maximum: 1
+  - name: "unicorn horn dust noted"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 30
+  items:
+  - name: "mystic gloves"
+    minimum: 1
+    maximum: 1
+  - name: "mystic gloves dark"
+    minimum: 1
+    maximum: 1
+  - name: "mystic gloves light"
+    minimum: 1
+    maximum: 1

@@ -1,0 +1,41 @@
+---
+npc_id: 417
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "water rune"
+    minimum: 120
+    maximum: 250
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 2
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 2
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 2
+uncommon:
+  accessibility: 5
+  items:
+  - name: "nature rune"
+    minimum: 80
+    maximum: 80
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 1
+  - name: "grimy kwuarm"
+    minimum: 1
+    maximum: 1
+  - name: "grimy cadantine"
+    minimum: 1
+    maximum: 1
+  - name: "rune dagger"
+    minimum: 1
+    maximum: 1

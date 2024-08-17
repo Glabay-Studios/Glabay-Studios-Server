@@ -1,0 +1,41 @@
+---
+npc_id: 2176
+common:
+  accessibility: 3
+  items:
+    - name: "tokkul"
+      minimum: 100
+      maximum: 150
+uncommon:
+  accessibility: 35
+  items:
+    - name: "uncut sapphire"
+      minimum: 1
+      maximum: 1
+    - name: "uncut emerald"
+      minimum: 1
+      maximum: 1
+    - name: "uncut ruby"
+      minimum: 1
+      maximum: 1
+    - name: "uncut diamond"
+      minimum: 1
+      maximum: 1
+    - name: "onyx bolt tips"
+      minimum: 1
+      maximum: 4
+rare:
+  accessibility: 150
+  items:
+    - name: "Tzhaar ket om"
+      minimum: 1
+      maximum: 1
+    - name: "Toktz ket xil"
+      minimum: 1
+      maximum: 1
+    - name: "Obsidian cape"
+      minimum: 1
+      maximum: 1
+    - name: "Uncut onyx"
+      minimum: 1
+      maximum: 1

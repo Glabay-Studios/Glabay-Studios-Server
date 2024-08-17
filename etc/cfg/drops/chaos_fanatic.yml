@@ -1,0 +1,83 @@
+---
+npc_id: 6619
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "monkfish"
+    minimum: 3
+    maximum: 3
+  - name: "anchovy pizza noted"
+    minimum: 8
+    maximum: 18
+  - name: "shark"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 600
+    maximum: 150000
+  - name: "pure essence noted"
+    minimum: 250
+    maximum: 550
+  - name: "uncut sapphire noted"
+    minimum: 4
+    maximum: 25
+  - name: "uncut emerald noted"
+    minimum: 6
+    maximum: 45
+uncommon:
+  accessibility: 5
+  items:
+  - name: "zamorak monk bottom"
+    minimum: 1
+    maximum: 1
+  - name: "zamorak monk top"
+    minimum: 1
+    maximum: 1
+  - name: "splitbark body"
+    minimum: 1
+    maximum: 1
+  - name: "splitbark legs"
+    minimum: 1
+    maximum: 1
+  - name: "fire rune"
+    minimum: 250
+    maximum: 500
+  - name: "chaos rune"
+    minimum: 175
+    maximum: 475
+  - name: "blood rune"
+    minimum: 50
+    maximum: 300
+  - name: "grimy lantadyme noted"
+    minimum: 4
+    maximum: 15
+rare:
+  accessibility: 75
+  items:
+  - name: "ancient staff"
+    minimum: 1
+    maximum: 1
+  - name: "casket"
+    minimum: 1
+    maximum: 1
+  - name: "archaic emblem tier 1"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 100
+  items:
+  - name: "malediction ward"
+    minimum: 1
+    maximum: 1
+  - item: 4185
+    maximum: 3
+    minimum: 2
+  - item: 6792
+    maximum: 3
+    minimum: 2

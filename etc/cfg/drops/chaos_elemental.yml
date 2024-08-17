@@ -1,0 +1,62 @@
+---
+npc_id: 2054
+common:
+  accessibility: 1
+  items:
+  - name: "mithril dart"
+    minimum: 300
+    maximum: 500
+  - name: "air rune"
+    minimum: 500
+    maximum: 1500
+  - name: "rune arrow"
+    minimum: 150
+    maximum: 850
+  - name: "super strength4"
+    minimum: 1
+    maximum: 1
+  - name: "super attack4"
+    minimum: 1
+    maximum: 1
+  - name: "super defence4"
+    minimum: 1
+    maximum: 1
+  - name: "shark"
+    minimum: 3
+    maximum: 3
+  - name: "coins"
+    minimum: 25000
+    maximum: 500000
+uncommon:
+  accessibility: 2
+  items:
+  - name: "dragon daggerpplusplus"
+    minimum: 1
+    maximum: 1
+  - name: "chaos rune"
+    minimum: 250
+    maximum: 450
+  - name: "death rune"
+    minimum: 125
+    maximum: 425
+  - name: "blood rune"
+    minimum: 75
+    maximum: 250
+rare:
+  accessibility: 65
+  items:
+  - name: "dragon pickaxe"
+    minimum: 1
+    maximum: 1
+  - name: "dragon spear"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 100
+  items:
+  - item: 4185
+    maximum: 3
+    minimum: 2
+  - item: 6792
+    maximum: 3
+    minimum: 2

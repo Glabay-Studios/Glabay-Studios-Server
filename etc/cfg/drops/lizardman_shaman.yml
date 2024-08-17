@@ -1,0 +1,83 @@
+---
+npc_id: 6766
+constant:
+  accessibility: 0
+  items:
+  - name: "big bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "coins"
+    minimum: 14525
+    maximum: 252363
+  - name: "air rune"
+    minimum: 71
+    maximum: 800
+  - name: "iron ore noted"
+    minimum: 24
+    maximum: 85
+  - name: "coal noted"
+    minimum: 20
+    maximum: 63
+uncommon:
+  accessibility: 1
+  items:
+  - name: "red dhide vamb"
+    minimum: 1
+    maximum: 1
+  - name: "mystic earth staff"
+    minimum: 1
+    maximum: 1
+  - name: "earth battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 1
+  - name: "rune chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "rune warhammer"
+    minimum: 1
+    maximum: 1
+  - name: "runite ore noted"
+    minimum: 3
+    maximum: 5
+  - name: "grimy kwuarm noted"
+    minimum: 1
+    maximum: 13
+  - name: "grimy cadantine noted"
+    minimum: 1
+    maximum: 13
+  - name: "grimy dwarf weed noted"
+    minimum: 1
+    maximum: 13
+  - name: "grimy lantadyme noted"
+    minimum: 1
+    maximum: 13
+  - name: "chaos rune"
+    minimum: 45
+    maximum: 175
+  - name: "fire rune"
+    minimum: 66
+    maximum: 205
+  - name: "death rune"
+    minimum: 22
+    maximum: 100
+  - name: "chilli potato"
+    minimum: 2
+    maximum: 2
+rare:
+  accessibility: 75
+  items:
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 2000
+  items:
+  - name: "dragon warhammer"
+    minimum: 1
+    maximum: 1

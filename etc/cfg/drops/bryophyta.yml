@@ -1,0 +1,167 @@
+---
+npc_id: 8195
+constant:
+  accessibility: 0
+  items:
+  - name: "big bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 3
+  items:
+  - name: "Rune longsword"
+    minimum: 1
+    maximum: 1
+  - name: "Rune sword"
+    minimum: 1
+    maximum: 1
+  - name: "Rune med helm"
+    minimum: 1
+    maximum: 1
+  - name: "Rune chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "Rune plateskirt"
+    minimum: 1
+    maximum: 1
+  - name: "Rune platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "Rune sq shield"
+    minimum: 1
+    maximum: 1
+  - name: "Cosmic rune"
+    minimum: 100
+    maximum: 100
+  - name: "Law rune"
+    minimum: 100
+    maximum: 100
+  - name: "Nature rune"
+    minimum: 100
+    maximum: 100
+  - name: "Death rune"
+    minimum: 100
+    maximum: 100
+  - name: "Chaos rune"
+    minimum: 100
+    maximum: 100
+  - name: "Runite bar"
+    minimum: 2
+    maximum: 2
+  - name: "STRENGTH_POTION4_NOTED"
+    minimum: 15
+    maximum: 15
+  - name: "Coins"
+    minimum: 10000
+    maximum: 10000
+  - name: "Mossy key"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 3
+  items:
+  - name: "Coins"
+    minimum: 8000
+    maximum: 8000
+  - name: "UNCUT_DIAMOND_NOTED"
+    minimum: 5
+    maximum: 5
+  - name: "UNCUT_RUBY_NOTED"
+    minimum: 5
+    maximum: 5
+  - name: "STEEL_BAR_NOTED"
+    minimum: 25
+    maximum: 25
+  - name: "GRIMY_GUAM_LEAF"
+    minimum: 1
+    maximum: 1
+  - name: "Rune full helm"
+    minimum: 1
+    maximum: 1
+  - name: "Battlestaff"
+    minimum: 1
+    maximum: 3
+  - name: "ADAMANT_PLATEBODY_NOTED"
+    minimum: 5
+    maximum: 5
+  - name: "Rune med helm"
+    minimum: 1
+    maximum: 1
+  - name: "Toadflax seed"
+    minimum: 1
+    maximum: 1
+  - name: "Mushroom spore"
+    minimum: 1
+    maximum: 1
+  - name: "Whiteberry seed"
+    minimum: 1
+    maximum: 1
+  - name: "Ranarr seed"
+    minimum: 1
+    maximum: 1
+  - name: "Snape grass seed"
+    minimum: 1
+    maximum: 1
+  - name: "Harralander seed"
+    minimum: 1
+    maximum: 1
+  - name: "Watermelon seed"
+    minimum: 1
+    maximum: 1
+  - name: "Wildblood seed"
+    minimum: 1
+    maximum: 1
+  - name: "Tarromin seed"
+    minimum: 1
+    maximum: 1
+  - name: "Jangerberry seed"
+    minimum: 1
+    maximum: 1
+  - name: "Marrentill seed"
+    minimum: 1
+    maximum: 1
+  - name: "Strawberry seed"
+    minimum: 1
+    maximum: 1
+  - name: "Limpwurt seed"
+    minimum: 1
+    maximum: 1
+  - name: "Grimy cadantine"
+    minimum: 1
+    maximum: 1
+  - name: "Grimy kwuarm"
+    minimum: 1
+    maximum: 1
+  - name: "Grimy avantoe"
+    minimum: 1
+    maximum: 1
+  - name: "Grimy irit leaf"
+    minimum: 1
+    maximum: 1
+  - name: "Grimy ranarr weed"
+    minimum: 1
+    maximum: 1
+  - name: "Grimy harralander"
+    minimum: 1
+    maximum: 1
+  - name: "Grimy tarromin"
+    minimum: 1
+    maximum: 1
+  - name: "Grimy marrentill"
+    minimum: 1
+    maximum: 1
+  - name: "Blood rune"
+    minimum: 1
+    maximum: 1
+  - name: "Adamant arrow"
+    minimum: 1
+    maximum: 1
+  - name: "Adamant kiteshield"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 118
+  items:
+  - name: "BRYOPHYTAS_ESSENCE"
+    minimum: 1
+    maximum: 1

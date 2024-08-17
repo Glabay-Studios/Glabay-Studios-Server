@@ -1,0 +1,43 @@
+---
+npc_id:
+- 2026
+- 7244
+constant:
+  accessibility: 0
+  items:
+  - name: "ashes"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "steel axe"
+    minimum: 1
+    maximum: 1
+  - name: "steel battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "steel 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "mithril kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "adamant platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "fire rune"
+    minimum: 125
+    maximum: 125
+uncommon:
+  accessibility: 4
+  items:
+  - name: "rune full helm"
+    minimum: 1
+    maximum: 1
+  - name: "chaos rune"
+    minimum: 85
+    maximum: 85
+  - name: "death rune"
+    minimum: 40
+    maximum: 40

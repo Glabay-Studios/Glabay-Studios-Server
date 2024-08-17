@@ -1,0 +1,119 @@
+---
+npc_id:
+- 7938
+- 7939
+- 7940
+constant:
+  accessibility: 0
+  items:
+  - name: "coins"
+    minimum: 4000
+    maximum: 9000
+  - name: "revenant ether"
+    minimum: 6
+    maximum: 12
+common:
+  accessibility: 1
+  items:
+  - name: "bracelet of ethereum"
+    minimum: 1
+    maximum: 1
+  - name: "rune kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "rune full helm"
+    minimum: 1
+    maximum: 1
+  - name: "rune platebody"
+    minimum: 1
+    maximum: 1
+  - name: "rune platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "rune warhammer"
+    minimum: 1
+    maximum: 1
+  - name: "dragon platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "dragon plateskirt"
+    minimum: 1
+    maximum: 1
+  - name: "dragon dagger"
+    minimum: 1
+    maximum: 1
+  - name: "dragon longsword"
+    minimum: 1
+    maximum: 1
+  - name: "battlestaff noted"
+    minimum: 1
+    maximum: 5
+  - name: "death rune"
+    minimum: 70
+    maximum: 100
+  - name: "blood rune"
+    minimum: 70
+    maximum: 100
+  - name: "law rune"
+    minimum: 70
+    maximum: 100
+  - name: "dragonstone bolt tips"
+    minimum: 50
+    maximum: 100
+  - name: "onyx bolt tips"
+    minimum: 50
+    maximum: 100
+  - name: "coal noted"
+    minimum: 150
+    maximum: 200
+  - name: "manta ray noted"
+    minimum: 30
+    maximum: 60
+  - name: "yew logs noted"
+    minimum: 50
+    maximum: 100
+  - name: "magic logs noted"
+    minimum: 10
+    maximum: 30
+  - name: "black dragonhide noted"
+    minimum: 10
+    maximum: 20
+  - name: "runite ore noted"
+    minimum: 5
+    maximum: 10
+  - name: "runite bar noted"
+    minimum: 5
+    maximum: 10
+  - name: "adamantite bar noted"
+    minimum: 5
+    maximum: 10
+uncommon:
+  accessibility: 200
+  items:
+  - item: 6792
+    maximum: 3
+    minimum: 2
+  - item: 4185
+    maximum: 3
+    minimum: 2
+rare:
+  accessibility: 400
+  items:
+  - name: "ancient emblem"
+    minimum: 1
+    maximum: 1
+  - item: 2996
+    maximum: 100
+    minimum: 60
+very_rare:
+  accessibility: 1200
+  items:
+  - name: "thammarons sceptre u"
+    minimum: 1
+    maximum: 1
+  - name: "viggoras chainmace u"
+    minimum: 1
+    maximum: 1
+  - name: "craws bow u"
+    minimum: 1
+    maximum: 1

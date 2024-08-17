@@ -1,0 +1,17 @@
+---
+npc_id:
+- 7527
+- 7528
+- 7529
+constant:
+  accessibility: 0
+  items:
+  - name: "shark"
+    minimum: 3
+    maximum: 5
+very_rare:
+  accessibility: 1000
+  items:
+  - name: "vanguard"
+    minimum: 1
+    maximum: 1

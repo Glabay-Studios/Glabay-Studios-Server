@@ -1,0 +1,77 @@
+---
+npc_id: 8030
+constant:
+  accessibility: 0
+  items:
+  - name: "dragon bones"
+    minimum: 1
+    maximum: 1
+  - name: "adamantite bar"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "rune mace"
+    minimum: 1
+    maximum: 1
+  - name: "rune scimitar"
+    minimum: 1
+    maximum: 1
+  - name: "rune longsword"
+    minimum: 1
+    maximum: 1
+  - name: "adamant platebody"
+    minimum: 1
+    maximum: 1
+  - name: "adamant arrow"
+    minimum: 30
+    maximum: 42
+  - name: "chaos rune"
+    minimum: 76
+    maximum: 150
+  - name: "death rune"
+    minimum: 40
+    maximum: 100
+  - name: "rune javelin"
+    minimum: 21
+    maximum: 29
+uncommon:
+  accessibility: 10
+  items:
+  - name: "wrath rune"
+    minimum: 30
+    maximum: 50
+  - name: "grimy avantoe noted"
+    minimum: 1
+    maximum: 3
+  - name: "grimy snapdragon noted"
+    minimum: 1
+    maximum: 1
+  - name: "ranarr weed noted"
+    minimum: 1
+    maximum: 2
+  - name: "adamantite ore noted"
+    minimum: 2
+    maximum: 30
+  - name: "runite bolts unf"
+    minimum: 20
+    maximum: 40
+rare:
+  accessibility: 90
+  items:
+  - name: "dragon med helm"
+    minimum: 1
+    maximum: 1
+  - name: "dragon crossbow"
+    minimum: 1
+    maximum: 1
+  - name: "dragon kiteshield"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 2250
+  items:
+  - name: "draconic visage"
+    minimum: 1
+    maximum: 1

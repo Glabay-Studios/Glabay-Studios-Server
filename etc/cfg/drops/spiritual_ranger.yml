@@ -1,0 +1,63 @@
+---
+npc_id:
+- 2211
+- 2243
+- 3160
+- 3167
+common:
+  accessibility: 1
+  items:
+  - name: "bronze arrow"
+    minimum: 1
+    maximum: 58
+  - name: "bronze arrowp"
+    minimum: 1
+    maximum: 1
+  - name: "iron arrow"
+    minimum: 1
+    maximum: 24
+  - name: "steel arrow"
+    minimum: 1
+    maximum: 12
+  - name: "mithril arrowp"
+    minimum: 1
+    maximum: 1
+  - name: "headless arrow"
+    minimum: 12
+    maximum: 12
+  - name: "iron arrowtips"
+    minimum: 5
+    maximum: 5
+  - name: "bow string"
+    minimum: 7
+    maximum: 7
+  - name: "oak longbow u noted"
+    minimum: 1
+    maximum: 12
+uncommon:
+  accessibility: 12
+  items:
+  - name: "body rune"
+    minimum: 1
+    maximum: 12
+  - name: "adamant arrow"
+    minimum: 3
+    maximum: 3
+  - name: "rune arrow"
+    minimum: 1
+    maximum: 5
+  - name: "maple longbow"
+    minimum: 1
+    maximum: 1
+  - name: "adamant arrowtips"
+    minimum: 1
+    maximum: 13
+rare:
+  accessibility: 35
+  items:
+  - name: "adamant arrowp"
+    minimum: 1
+    maximum: 15
+  - name: "magic shortbow"
+    minimum: 1
+    maximum: 1

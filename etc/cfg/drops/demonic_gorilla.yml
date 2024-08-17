@@ -1,0 +1,92 @@
+---
+npc_id:
+- 7144
+- 7145
+- 7146
+constant:
+  accessibility: 0
+  items:
+  - name: "ashes"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "rune platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "rune plateskirt"
+    minimum: 1
+    maximum: 1
+  - name: "rune chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "grimy lantadyme"
+    minimum: 1
+    maximum: 4
+  - name: "grimy kwuarm noted"
+    minimum: 7
+    maximum: 22
+  - name: "grimy cadantine noted"
+    minimum: 7
+    maximum: 22
+  - name: "grimy lantadyme noted"
+    minimum: 7
+    maximum: 22
+  - name: "coins"
+    minimum: 25365
+    maximum: 125000
+  - name: "javelin shaft"
+    minimum: 266
+    maximum: 1238
+uncommon:
+  accessibility: 4
+  items:
+  - name: "runite bolts"
+    minimum: 102
+    maximum: 150
+  - name: "dragon scimitar"
+    minimum: 1
+    maximum: 1
+  - name: "shark"
+    minimum: 2
+    maximum: 3
+  - name: "diamond noted"
+    minimum: 4
+    maximum: 6
+  - name: "adamantite bar noted"
+    minimum: 6
+    maximum: 6
+  - name: "runite bar noted"
+    minimum: 3
+    maximum: 3
+  - name: "dragon javelin heads"
+    minimum: 5
+    maximum: 43
+  - name: "grimy dwarf weed noted"
+    minimum: 7
+    maximum: 12
+rare:
+  accessibility: 50
+  items:
+  - name: "ballista limbs"
+    minimum: 1
+    maximum: 1
+  - name: "ballista spring"
+    minimum: 1
+    maximum: 1
+  - name: "light frame"
+    minimum: 1
+    maximum: 1
+  - name: "heavy frame"
+    minimum: 1
+    maximum: 1
+  - name: "monkey tail"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 105
+  items:
+  - name: "zenyte"
+    minimum: 1
+    maximum: 1

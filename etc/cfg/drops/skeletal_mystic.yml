@@ -1,0 +1,188 @@
+---
+npc_id:
+- 7604
+- 7605
+- 7606
+constant:
+  accessibility: 0
+  items:
+  - name: "big bones"
+    minimum: 1
+    maximum: 1
+  - name: "shark"
+    minimum: 2
+    maximum: 6
+common:
+  accessibility: 1
+  items:
+  - name: "shark"
+    minimum: 2
+    maximum: 7
+  - name: "adamantite ore noted"
+    minimum: 5
+    maximum: 80
+  - name: "grimy toadflax noted"
+    minimum: 3
+    maximum: 7
+  - name: "grimy snapdragon noted"
+    minimum: 2
+    maximum: 7
+  - name: "mithril ore noted"
+    minimum: 50
+    maximum: 100
+  - name: "magic logs noted"
+    minimum: 5
+    maximum: 10
+  - name: "air rune"
+    minimum: 100
+    maximum: 400
+  - name: "mind rune"
+    minimum: 200
+    maximum: 400
+  - name: "ghostly boots"
+    minimum: 1
+    maximum: 1
+  - name: "ghostly robe"
+    minimum: 1
+    maximum: 1
+  - name: "ghostly robe 2"
+    minimum: 1
+    maximum: 1
+  - name: "ghostly hood"
+    minimum: 1
+    maximum: 1
+  - name: "mystic fire staff"
+    minimum: 1
+    maximum: 1
+  - name: "mystic water staff"
+    minimum: 1
+    maximum: 1
+  - name: "mystic air staff"
+    minimum: 1
+    maximum: 1
+  - name: "mystic earth staff"
+    minimum: 1
+    maximum: 1
+  - name: "yew logs noted"
+    minimum: 20
+    maximum: 75
+  - name: "monkfish"
+    minimum: 1
+    maximum: 3
+uncommon:
+  accessibility: 10
+  items:
+  - name: "mystic hat"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe top"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe bottom"
+    minimum: 1
+    maximum: 1
+  - name: "mystic gloves"
+    minimum: 1
+    maximum: 1
+  - name: "mystic boots"
+    minimum: 1
+    maximum: 1
+  - name: "mystic hat dark"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe top dark"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe bottom dark"
+    minimum: 1
+    maximum: 1
+  - name: "mystic gloves dark"
+    minimum: 1
+    maximum: 1
+  - name: "mystic boots dark"
+    minimum: 1
+    maximum: 1
+  - name: "mystic hat light"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe top light"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe bottom light"
+    minimum: 1
+    maximum: 1
+  - name: "mystic gloves light"
+    minimum: 1
+    maximum: 1
+  - name: "mystic boots light"
+    minimum: 1
+    maximum: 1
+  - name: "agility potion3 noted"
+    minimum: 2
+    maximum: 5
+  - name: "saradomin brew4"
+    minimum: 2
+    maximum: 7
+  - name: "anglerfish"
+    minimum: 2
+    maximum: 4
+  - name: "raw anglerfish noted"
+    minimum: 15
+    maximum: 35
+  - name: "ancient staff noted"
+    minimum: 1
+    maximum: 1
+  - name: "raw monkfish noted"
+    minimum: 20
+    maximum: 75
+  - name: "grimy ranarr weed noted"
+    minimum: 5
+    maximum: 25
+rare:
+  accessibility: 75
+  items:
+  - name: "coins"
+    minimum: 5000000
+    maximum: 10000000
+  - name: "casket noted"
+    minimum: 1
+    maximum: 7
+  - name: "super combat potion3"
+    minimum: 1
+    maximum: 2
+  - name: "overload 4"
+    minimum: 1
+    maximum: 2
+  - name: "infinity top"
+    minimum: 1
+    maximum: 1
+  - name: "infinity hat"
+    minimum: 1
+    maximum: 1
+  - name: "infinity boots"
+    minimum: 1
+    maximum: 1
+  - name: "infinity gloves"
+    minimum: 1
+    maximum: 1
+  - name: "light infinity hat"
+    minimum: 1
+    maximum: 1
+  - name: "light infinity top"
+    minimum: 1
+    maximum: 1
+  - name: "light infinity bottoms"
+    minimum: 1
+    maximum: 1
+  - name: "dark infinity hat"
+    minimum: 1
+    maximum: 1
+  - name: "dark infinity top"
+    minimum: 1
+    maximum: 1
+  - name: "dark infinity bottoms"
+    minimum: 1
+    maximum: 1
+  - name: "master wand"
+    minimum: 1
+    maximum: 1

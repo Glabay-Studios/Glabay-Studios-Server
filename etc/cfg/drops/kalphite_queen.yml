@@ -1,0 +1,97 @@
+---
+npc_id:
+- 963
+- 965
+common:
+  accessibility: 1
+  items:
+  - name: "rune chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "super combat potion2"
+    minimum: 1
+    maximum: 1
+  - name: "prayer potion4"
+    minimum: 2
+    maximum: 2
+  - name: "weapon poisonplusplus noted"
+    minimum: 5
+    maximum: 5
+  - name: "shark"
+    minimum: 2
+    maximum: 2
+  - name: "monkfish"
+    minimum: 3
+    maximum: 3
+  - name: "rune arrow"
+    minimum: 250
+    maximum: 250
+  - name: "wine of zamorak noted"
+    minimum: 30
+    maximum: 60
+  - name: "uncut ruby noted"
+    minimum: 25
+    maximum: 50
+  - name: "uncut emerald noted"
+    minimum: 25
+    maximum: 50
+  - name: "uncut diamond noted"
+    minimum: 25
+    maximum: 50
+uncommon:
+  accessibility: 2
+  items:
+  - name: "toadflax noted"
+    minimum: 25
+    maximum: 50
+  - name: "ranarr weed noted"
+    minimum: 25
+    maximum: 50
+  - name: "grimy snapdragon noted"
+    minimum: 25
+    maximum: 50
+  - name: "grimy toadflax noted"
+    minimum: 25
+    maximum: 50
+  - name: "runite bar noted"
+    minimum: 15
+    maximum: 35
+  - name: "magic logs noted"
+    minimum: 250
+    maximum: 500
+  - name: "red dhide body"
+    minimum: 1
+    maximum: 1
+  - name: "blood rune"
+    minimum: 100
+    maximum: 400
+  - name: "death rune"
+    minimum: 150
+    maximum: 450
+  - name: "red spiders eggs noted"
+    minimum: 60
+    maximum: 120
+  - name: "crushed nest noted"
+    minimum: 60
+    maximum: 120
+rare:
+  accessibility: 42
+  items:
+  - name: "dragon chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "kq head"
+    minimum: 1
+    maximum: 1
+  - name: "dragon med helm"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 128
+  items:
+  - name: "dragon 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "jar of sand"
+    minimum: 1
+    maximum: 1

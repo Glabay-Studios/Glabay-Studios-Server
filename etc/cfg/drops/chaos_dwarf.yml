@@ -1,0 +1,44 @@
+---
+npc_id: 291
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "steel full helm"
+    minimum: 1
+    maximum: 1
+  - name: "mithril longsword"
+    minimum: 1
+    maximum: 1
+  - name: "mithril sq shield"
+    minimum: 1
+    maximum: 1
+  - name: "black full helm"
+    minimum: 1
+    maximum: 1
+  - name: "water rune"
+    minimum: 10
+    maximum: 10
+  - name: "air rune"
+    minimum: 24
+    maximum: 24
+  - name: "mind rune"
+    minimum: 37
+    maximum: 37
+  - name: "mithril bar noted"
+    minimum: 1
+    maximum: 2
+uncommon:
+  accessibility: 2
+  items:
+  - name: "death rune"
+    minimum: 30
+    maximum: 50
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 1

@@ -1,0 +1,32 @@
+---
+npc_id: 1675
+common:
+  accessibility: 4
+  items:
+  - name: "coins"
+    minimum: 10000
+    maximum: 60000
+  - name: "bolt rack"
+    minimum: 50
+    maximum: 200
+rare:
+  accessibility: 40
+  items:
+  - name: "karils coif"
+    minimum: 1
+    maximum: 1
+  - name: "karils crossbow"
+    minimum: 1
+    maximum: 1
+  - name: "karils leathertop"
+    minimum: 1
+    maximum: 1
+  - name: "karils leatherskirt"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 300
+  items:
+  - name: "amulet of the damned"
+    minimum: 1
+    maximum: 1

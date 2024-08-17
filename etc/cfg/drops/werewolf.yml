@@ -1,0 +1,71 @@
+---
+npc_id: 3135
+constant:
+  accessibility: 0
+  items:
+  - name: "wolf bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 3
+  items:
+  - name: "steel scimitar"
+    minimum: 1
+    maximum: 1
+  - name: "steel axe"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 10
+    maximum: 364
+  - name: "fur"
+    minimum: 1
+    maximum: 1
+  - name: "jug"
+    minimum: 1
+    maximum: 1
+  - name: "raw chicken"
+    minimum: 1
+    maximum: 1
+  - name: "raw bear meat"
+    minimum: 1
+    maximum: 1
+  - name: "raw beef"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 12
+  items:
+  - name: "steel full helm"
+    minimum: 1
+    maximum: 1
+  - name: "mithril chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "mithril sq shield"
+    minimum: 1
+    maximum: 1
+  - name: "vial"
+    minimum: 1
+    maximum: 1
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 1
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 1
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 1
+  - name: "grimy kwuarm"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 80
+  items:
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 1

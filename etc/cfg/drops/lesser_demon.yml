@@ -1,0 +1,65 @@
+---
+npc_id: 2006
+constant:
+  accessibility: 0
+  items:
+  - name: "ashes"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 3
+  items:
+  - name: "steel axe"
+    minimum: 1
+    maximum: 1
+  - name: "steel scimitar"
+    minimum: 1
+    maximum: 1
+  - name: "steel full helm"
+    minimum: 1
+    maximum: 1
+  - name: "black 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "mithril sq shield"
+    minimum: 1
+    maximum: 1
+  - name: "mithril chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "fire rune"
+    minimum: 100
+    maximum: 250
+  - name: "chaos rune"
+    minimum: 40
+    maximum: 80
+  - name: "death rune"
+    minimum: 20
+    maximum: 40
+  - name: "gold ore"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 15
+  items:
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 1
+  - name: "splitbark helm"
+    minimum: 1
+    maximum: 1
+  - name: "splitbark body"
+    minimum: 1
+    maximum: 1
+  - name: "splitbark legs"
+    minimum: 1
+    maximum: 1
+  - name: "splitbark gauntlets"
+    minimum: 1
+    maximum: 1
+  - name: "splitbark boots"
+    minimum: 1
+    maximum: 1

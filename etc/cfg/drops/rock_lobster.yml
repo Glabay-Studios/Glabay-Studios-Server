@@ -1,0 +1,89 @@
+---
+npc_id: 5944
+common:
+  accessibility: 3
+  items:
+  - name: "fire rune"
+    minimum: 5
+    maximum: 5
+  - name: "air rune"
+    minimum: 9
+    maximum: 9
+  - name: "steel arrow"
+    minimum: 4
+    maximum: 7
+  - name: "iron arrow"
+    minimum: 2
+    maximum: 17
+  - name: "seaweed"
+    minimum: 4
+    maximum: 4
+  - name: "edible seaweed"
+    minimum: 4
+    maximum: 4
+  - name: "raw lobster"
+    minimum: 1
+    maximum: 1
+  - name: "lobster pot"
+    minimum: 1
+    maximum: 1
+  - name: "tinderbox"
+    minimum: 1
+    maximum: 1
+  - name: "raw sardine"
+    minimum: 5
+    maximum: 5
+  - name: "raw herring"
+    minimum: 4
+    maximum: 4
+  - name: "raw lobster"
+    minimum: 1
+    maximum: 1
+  - name: "water rune"
+    minimum: 15
+    maximum: 70
+  - name: "uncut sapphire"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 10
+  items:
+  - name: "bass"
+    minimum: 1
+    maximum: 1
+  - name: "lobster"
+    minimum: 1
+    maximum: 1
+  - name: "shark"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+  - name: "adamantite ore"
+    minimum: 1
+    maximum: 2
+  - name: "nature rune"
+    minimum: 67
+    maximum: 68
+rare:
+  accessibility: 75
+  items:
+  - name: "rune spear"
+    minimum: 1
+    maximum: 1
+  - name: "death rune"
+    minimum: 45
+    maximum: 45
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "rune arrow"
+    minimum: 42
+    maximum: 42
+  - name: "silver ore noted"
+    minimum: 10
+    maximum: 100
+  - name: "rune sq shield"
+    minimum: 1
+    maximum: 1

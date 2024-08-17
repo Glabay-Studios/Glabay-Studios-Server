@@ -1,0 +1,86 @@
+---
+npc_id: 419
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "iron sword"
+    minimum: 1
+    maximum: 1
+  - name: "steel dagger"
+    minimum: 1
+    maximum: 1
+  - name: "steel longsword"
+    minimum: 1
+    maximum: 1
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 2
+  items:
+  - name: "iron javelin"
+    minimum: 5
+    maximum: 25
+  - name: "steel platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "iron boots"
+    minimum: 1
+    maximum: 1
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 1
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 1
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 1
+  - name: "grimy kwuarm"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 20
+  items:
+  - name: "mystic boots"
+    minimum: 1
+    maximum: 1
+  - name: "mystic boots dark"
+    minimum: 1
+    maximum: 1
+  - name: "mystic boots light"
+    minimum: 1
+    maximum: 1
+  - name: "grimy cadantine"
+    minimum: 1
+    maximum: 1
+  - name: "grimy lantadyme"
+    minimum: 1
+    maximum: 1
+  - name: "grimy dwarf weed"
+    minimum: 1
+    maximum: 1
+  - name: "ranarr seed"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 300
+  items:
+  - name: "cockatrice head"
+    minimum: 1
+    maximum: 1

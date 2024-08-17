@@ -1,0 +1,92 @@
+---
+npc_id: 9293
+constant:
+  accessibility: 0
+  items:
+  - name: "big bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "astral rune"
+    minimum: 30
+    maximum: 70
+  - name: "nature rune"
+    minimum: 30
+    maximum: 60
+  - name: "law rune"
+    minimum: 20
+    maximum: 50
+  - name: "death rune"
+    minimum: 20
+    maximum: 50
+  - name: "blood rune"
+    minimum: 16
+    maximum: 40
+  - name: "rune scimitar"
+    minimum: 1
+    maximum: 2
+  - name: "rune spear"
+    minimum: 1
+    maximum: 2
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 2
+  - name: "grimy avantoe noted"
+    minimum: 2
+    maximum: 2
+  - name: "grimy ranarr weed noted"
+    minimum: 2
+    maximum: 2
+  - name: "grimy snapdragon noted"
+    minimum: 2
+    maximum: 2
+  - name: "grimy torstol noted"
+    minimum: 2
+    maximum: 2
+  - name: "coins"
+    minimum: 12000
+    maximum: 56000
+uncommon:
+  accessibility: 3
+  items:
+  - name: "rune axe"
+    minimum: 1
+    maximum: 1
+  - name: "adamant platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "adamantite ore noted"
+    minimum: 12
+    maximum: 50
+  - name: "adamant kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 2
+  - name: "rune dagger"
+    minimum: 1
+    maximum: 2
+  - name: "rune scimitar"
+    minimum: 1
+    maximum: 2
+  - name: "rune spear"
+    minimum: 1
+    maximum: 2
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 2
+rare:
+  accessibility: 100
+  items:
+  - name: "mystic hat light"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 500
+  items:
+  - name: "basilisk jaw"
+    minimum: 1
+    maximum: 1

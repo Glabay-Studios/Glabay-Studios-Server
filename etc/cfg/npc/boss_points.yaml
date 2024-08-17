@@ -1,0 +1,85 @@
+- name: theatre of blood
+  points: 25
+  manual: true
+- name: chambers of xeric
+  points: 20
+  manual: true
+- name: hespori
+  points: 15
+  manual: true
+
+- name: obor
+  points: 10
+- name: bryophyata
+  points: 10
+
+# Non-manual below this line
+- name: the nightmare
+  points: 15
+- name: alchemical hydra
+  points: 15
+- name: crystalline hunllef
+  points: 15
+- name: corporeal beast
+  points: 15
+
+- name: vorkath
+  points: 10
+- name: abyssal sire
+  points: 10
+- name: thermonuclear smoke devil
+  points: 10
+- name: tztok-jad
+  points: 10
+- name: kalphite queen
+  points: 10
+- name: zulrah
+  points: 8
+- name: king black dragon
+  points: 7
+- name: skotizo
+  points: 10
+- name: kraken
+  points: 7
+- name: giant mole
+  points: 7
+- name: sarachnis
+  points: 7
+- name: barrelchest
+  points: 3
+
+# Dag kings
+- name: dagannoth rex
+  points: 3
+- name: dagannoth prime
+  points: 3
+- name: dagannoth supreme
+  points: 3
+
+# Wilderness
+- name: crazy archaeologist
+  points: 12
+- name: chaos fanatic
+  points: 12
+- name: chaos elemental
+  points: 12
+- name: cerberus
+  points: 12
+- name: venenatis
+  points: 12
+- name: scorpia
+  points: 12
+- name: callisto
+  points: 12
+- name: vet'ion
+  points: 12
+
+# Godwars
+- name: commander zilyana
+  points: 10
+- name: k'ril tsutsaroth
+  points: 10
+- name: general graardor
+  points: 10
+- name: kree'arra
+  points: 10

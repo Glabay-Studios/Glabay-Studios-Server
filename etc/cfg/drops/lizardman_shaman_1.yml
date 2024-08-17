@@ -1,0 +1,11 @@
+---
+npc_id: 7573
+constant:
+  accessibility: 0
+  items:
+  - name: "shark"
+    minimum: 1
+    maximum: 5
+  - name: "overload 1 4"
+    minimum: 1
+    maximum: 1

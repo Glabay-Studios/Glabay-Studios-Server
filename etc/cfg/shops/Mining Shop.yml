@@ -1,0 +1,10 @@
+---
+id: 90
+name: "Mining Shop"
+items:
+- name: "bronze pickaxe"
+- name: "iron pickaxe"
+- name: "steel pickaxe"
+- name: "mithril pickaxe"
+- name: "adamant pickaxe"
+- name: "rune pickaxe"

@@ -1,0 +1,56 @@
+---
+npc_id: 2216
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "steel dart"
+    minimum: 95
+    maximum: 100
+  - name: "cosmic rune"
+    minimum: 25
+    maximum: 30
+  - name: "nature rune"
+    minimum: 19
+    maximum: 28
+  - name: "coins"
+    minimum: 1300
+    maximum: 225000
+  - name: "steel arrow"
+    minimum: 95
+    maximum: 100
+  - name: "shark"
+    minimum: 1
+    maximum: 2
+  - name: "right eye patch"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 150
+  items:
+  - name: "godsword shard 1"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 2"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 3"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 700
+  items:
+  - name: "bandos chestplate"
+    minimum: 1
+    maximum: 1
+  - name: "bandos tassets"
+    minimum: 1
+    maximum: 1
+  - name: "bandos boots"
+    minimum: 1
+    maximum: 1

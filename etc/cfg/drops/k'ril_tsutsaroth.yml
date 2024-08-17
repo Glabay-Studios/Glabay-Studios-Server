@@ -1,0 +1,77 @@
+---
+npc_id: 3129
+constant:
+  accessibility: 0
+  items:
+  - name: "ashes"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "adamant arrowpplusplus"
+    minimum: 295
+    maximum: 300
+  - name: "rune platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "adamant platebody"
+    minimum: 1
+    maximum: 1
+  - name: "super attack3"
+    minimum: 3
+    maximum: 3
+  - name: "super restore4"
+    minimum: 3
+    maximum: 3
+  - name: "super strength3"
+    minimum: 3
+    maximum: 3
+  - name: "zamorak brew3"
+    minimum: 3
+    maximum: 3
+  - name: "death rune"
+    minimum: 120
+    maximum: 124
+  - name: "coins"
+    minimum: 250525
+    maximum: 515000
+uncommon:
+  accessibility: 3
+  items:
+  - name: "blood rune"
+    minimum: 80
+    maximum: 350
+  - name: "lantadyme noted"
+    minimum: 7
+    maximum: 23
+  - name: "dragon daggerpplusplus"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 65
+  items:
+  - name: "godsword shard 1"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 2"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 3"
+    minimum: 1
+    maximum: 1
+  - name: "casket"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 75
+  items:
+  - name: "zamorak hilt"
+    minimum: 1
+    maximum: 1
+  - name: "zamorakian spear"
+    minimum: 1
+    maximum: 1
+  - name: "staff of the dead"
+    minimum: 1
+    maximum: 1

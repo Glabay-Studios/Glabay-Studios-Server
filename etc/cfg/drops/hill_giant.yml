@@ -1,0 +1,86 @@
+---
+npc_id: 2098
+constant:
+  accessibility: 0
+  items:
+  - name: "big bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "iron arrow"
+    minimum: 10
+    maximum: 20
+  - name: "steel arrow"
+    minimum: 20
+    maximum: 35
+  - name: "mithril arrow"
+    minimum: 10
+    maximum: 20
+  - name: "fire rune"
+    minimum: 5
+    maximum: 25
+  - name: "water rune"
+    minimum: 5
+    maximum: 25
+  - name: "bronze bolts pplusplus"
+    minimum: 1
+    maximum: 3
+uncommon:
+  accessibility: 2
+  items:
+  - name: "cosmic rune"
+    minimum: 10
+    maximum: 20
+  - name: "law rune"
+    minimum: 10
+    maximum: 20
+  - name: "nature rune"
+    minimum: 10
+    maximum: 20
+  - name: "death rune"
+    minimum: 10
+    maximum: 20
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 1
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 8
+  items:
+  - name: "grimy kwuarm"
+    minimum: 1
+    maximum: 1
+  - name: "grimy cadantine"
+    minimum: 1
+    maximum: 1
+  - name: "adamant axe"
+    minimum: 1
+    maximum: 1
+  - name: "rune axe"
+    minimum: 1
+    maximum: 1
+  - name: "grimy dwarf weed"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 128
+  items:
+    - name: "Giant key"
+      minimum: 1
+      maximum: 1

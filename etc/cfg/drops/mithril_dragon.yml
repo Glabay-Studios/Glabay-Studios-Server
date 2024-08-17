@@ -1,0 +1,68 @@
+---
+npc_id: 2919
+constant:
+  accessibility: 0
+  items:
+  - name: "dragon bones"
+    minimum: 1
+    maximum: 1
+  - name: "mithril bar noted"
+    minimum: 3
+    maximum: 3
+common:
+  accessibility: 1
+  items:
+  - name: "rune javelin"
+    minimum: 25
+    maximum: 25
+  - name: "rune dart"
+    minimum: 15
+    maximum: 15
+  - name: "rune mace"
+    minimum: 1
+    maximum: 1
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "blood rune"
+    minimum: 50
+    maximum: 50
+  - name: "runite crossbow u"
+    minimum: 1
+    maximum: 1
+  - name: "adamantite bar noted"
+    minimum: 2
+    maximum: 2
+  - name: "shark"
+    minimum: 3
+    maximum: 6
+uncommon:
+  accessibility: 2
+  items:
+  - name: "rune knife"
+    minimum: 20
+    maximum: 30
+  - name: "mithril spearp"
+    minimum: 1
+    maximum: 1
+  - name: "rune full helm"
+    minimum: 1
+    maximum: 1
+  - name: "rune arrow"
+    minimum: 30
+    maximum: 50
+  - name: "runite bolts"
+    minimum: 30
+    maximum: 50
+rare:
+  accessibility: 300
+  items:
+  - name: "dragon full helm"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 2500
+  items:
+  - name: "draconic visage"
+    minimum: 1
+    maximum: 1

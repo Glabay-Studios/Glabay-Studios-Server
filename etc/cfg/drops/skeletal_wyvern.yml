@@ -1,0 +1,122 @@
+---
+npc_id: 465
+constant:
+  accessibility: 0
+  items:
+  - name: "wyvern bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "coins"
+    minimum: 35858
+    maximum: 245000
+  - name: "air rune"
+    minimum: 500
+    maximum: 2000
+  - name: "water rune"
+    minimum: 500
+    maximum: 2000
+  - name: "adamant bolts"
+    minimum: 7
+    maximum: 250
+  - name: "grimy tarromin noted"
+    minimum: 1
+    maximum: 10
+  - name: "grimy ranarr weed noted"
+    minimum: 1
+    maximum: 10
+  - name: "grimy ranarr weed noted"
+    minimum: 1
+    maximum: 10
+  - name: "grimy irit leaf noted"
+    minimum: 1
+    maximum: 10
+  - name: "grimy avantoe noted"
+    minimum: 1
+    maximum: 10
+  - name: "grimy kwuarm noted"
+    minimum: 1
+    maximum: 10
+uncommon:
+  accessibility: 10
+  items:
+  - name: "rune axe"
+    minimum: 1
+    maximum: 1
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "rune warhammer"
+    minimum: 1
+    maximum: 1
+  - name: "rune kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "rune full helm"
+    minimum: 1
+    maximum: 1
+  - name: "pure essence noted"
+    minimum: 250
+    maximum: 650
+  - name: "chaos rune"
+    minimum: 80
+    maximum: 120
+  - name: "law rune"
+    minimum: 45
+    maximum: 145
+  - name: "death rune"
+    minimum: 40
+    maximum: 140
+  - name: "blood rune"
+    minimum: 25
+    maximum: 125
+  - name: "soul rune"
+    minimum: 20
+    maximum: 120
+  - name: "runite bolts"
+    minimum: 5
+    maximum: 144
+  - name: "rune arrow"
+    minimum: 36
+    maximum: 136
+  - name: "magic logs noted"
+    minimum: 35
+    maximum: 35
+  - name: "adamantite bar noted"
+    minimum: 10
+    maximum: 10
+  - name: "iron ore noted"
+    minimum: 200
+    maximum: 200
+  - name: "magic logs noted"
+    minimum: 35
+    maximum: 35
+  - name: "prayer potion4"
+    minimum: 2
+    maximum: 2
+  - name: "lobster"
+    minimum: 6
+    maximum: 6
+rare:
+  accessibility: 125
+  items:
+  - name: "dragon platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "dragon plateskirt"
+    minimum: 1
+    maximum: 1
+  - name: "granite legs"
+    minimum: 1
+    maximum: 1
+  - name: "soul rune"
+    minimum: 100
+    maximum: 100
+very_rare:
+  accessibility: 2500
+  items:
+  - name: "draconic visage"
+    minimum: 1
+    maximum: 1

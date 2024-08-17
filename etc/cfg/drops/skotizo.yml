@@ -1,0 +1,86 @@
+---
+npc_id: 7286
+constant:
+  accessibility: 0
+  items:
+  - name: "clue scroll hard"
+    minimum: 1
+    maximum: 1
+  - name: "ancient shard"
+    minimum: 1
+    maximum: 3
+  - name: "coins"
+    minimum: 150000
+    maximum: 500000
+common:
+  accessibility: 1
+  items:
+  - name: "death rune"
+    minimum: 500
+    maximum: 500
+  - name: "soul rune"
+    minimum: 450
+    maximum: 450
+  - name: "blood rune"
+    minimum: 450
+    maximum: 450
+  - name: "rune platebody noted"
+    minimum: 3
+    maximum: 3
+  - name: "casket"
+    minimum: 1
+    maximum: 1
+  - name: "rune platelegs noted"
+    minimum: 3
+    maximum: 3
+  - name: "rune plateskirt noted"
+    minimum: 3
+    maximum: 3
+  - name: "rune kiteshield noted"
+    minimum: 3
+    maximum: 3
+  - name: "grimy ranarr weed noted"
+    minimum: 40
+    maximum: 40
+  - name: "grimy snapdragon noted"
+    minimum: 20
+    maximum: 20
+  - name: "uncut dragonstone noted"
+    minimum: 10
+    maximum: 10
+  - name: "battlestaff noted"
+    minimum: 25
+    maximum: 25
+  - name: "adamantite ore noted"
+    minimum: 75
+    maximum: 75
+  - name: "runite bar noted"
+    minimum: 20
+    maximum: 20
+  - name: "raw anglerfish noted"
+    minimum: 60
+    maximum: 60
+uncommon:
+  accessibility: 25
+  items:
+  - name: "darklight"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 1000000
+    maximum: 10000000
+rare:
+  accessibility: 100
+  items:
+  - name: "dark claw"
+    minimum: 1
+    maximum: 1
+  - name: "uncut onyx"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 300
+  items:
+  - name: "jar of darkness"
+    minimum: 1
+    maximum: 1

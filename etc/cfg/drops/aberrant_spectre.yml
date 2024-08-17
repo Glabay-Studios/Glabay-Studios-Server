@@ -1,0 +1,92 @@
+---
+npc_id: 6
+common:
+  accessibility: 1
+  items:
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 3
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 3
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 3
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 3
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 3
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 3
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 3
+  - name: "grimy kwuarm"
+    minimum: 1
+    maximum: 3
+uncommon:
+  accessibility: 2
+  items:
+  - name: "toadflax seed"
+    minimum: 1
+    maximum: 1
+  - name: "irit seed"
+    minimum: 1
+    maximum: 1
+  - name: "belladonna seed"
+    minimum: 1
+    maximum: 1
+  - name: "poison ivy seed"
+    minimum: 1
+    maximum: 1
+  - name: "cactus seed"
+    minimum: 1
+    maximum: 1
+  - name: "avantoe seed"
+    minimum: 1
+    maximum: 1
+  - name: "grimy cadantine"
+    minimum: 1
+    maximum: 3
+  - name: "grimy dwarf weed"
+    minimum: 1
+    maximum: 3
+  - name: "steel axe"
+    minimum: 1
+    maximum: 1
+  - name: "mithril kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "lava battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "adamant platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "rune full helm"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 232
+    maximum: 583
+rare:
+  accessibility: 15
+  items:
+  - name: "snapdragon seed"
+    minimum: 1
+    maximum: 1
+  - name: "cadantine seed"
+    minimum: 1
+    maximum: 1
+  - name: "lantadyme seed"
+    minimum: 1
+    maximum: 1
+  - name: "dwarf weed seed"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe bottom dark"
+    minimum: 1
+    maximum: 1

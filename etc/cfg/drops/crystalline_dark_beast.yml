@@ -1,0 +1,95 @@
+---
+npc_id:
+- 9034
+- 9033
+- 9032
+constant:
+  accessibility: 1
+  items:
+  - name: "crystal shard 3"
+    minimum: 5
+    maximum: 15
+common:
+  accessibility: 4
+  items:
+  - name: "rune kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "rune full helm"
+    minimum: 1
+    maximum: 1
+  - name: "rune platebody"
+    minimum: 1
+    maximum: 1
+  - name: "rune platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "rune warhammer"
+    minimum: 1
+    maximum: 1
+  - name: "dragon platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "dragon plateskirt"
+    minimum: 1
+    maximum: 1
+  - name: "dragon dagger"
+    minimum: 1
+    maximum: 1
+  - name: "dragon longsword"
+    minimum: 1
+    maximum: 1
+  - name: "battlestaff noted"
+    minimum: 1
+    maximum: 5
+  - name: "death rune"
+    minimum: 70
+    maximum: 100
+  - name: "blood rune"
+    minimum: 70
+    maximum: 100
+  - name: "law rune"
+    minimum: 70
+    maximum: 100
+  - name: "coal noted"
+    minimum: 150
+    maximum: 200
+  - name: "manta ray noted"
+    minimum: 30
+    maximum: 60
+  - name: "yew logs noted"
+    minimum: 50
+    maximum: 100
+  - name: "magic logs noted"
+    minimum: 10
+    maximum: 30
+  - name: "black dragonhide noted"
+    minimum: 10
+    maximum: 20
+  - name: "runite ore noted"
+    minimum: 5
+    maximum: 10
+  - name: "runite bar noted"
+    minimum: 5
+    maximum: 10
+  - name: "adamantite bar noted"
+    minimum: 5
+    maximum: 10
+rare:
+  accessibility: 100
+  items:
+  - name: "crystalline key"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 850
+  items:
+  - name: "crystal body"
+    minimum: 1
+    maximum: 1
+  - name: "crystal helm"
+    minimum: 1
+    maximum: 1
+  - name: "crystal legs"
+    minimum: 1
+    maximum: 1

@@ -1,0 +1,46 @@
+---
+npc_id:
+- 6914
+- 6918
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "marrentill seed"
+    minimum: 1
+    maximum: 1
+  - name: "harralander seed"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 5
+  items:
+  - name: "kwuarm seed"
+    minimum: 1
+    maximum: 1
+  - name: "avantoe seed"
+    minimum: 1
+    maximum: 1
+  - name: "snapdragon seed"
+    minimum: 1
+    maximum: 1
+  - name: "ranarr seed"
+    minimum: 1
+    maximum: 1
+  - name: "torstol seed"
+    minimum: 1
+    maximum: 1
+  - name: "dwarf weed seed"
+    minimum: 1
+    maximum: 1
+  - name: "cadantine seed"
+    minimum: 1
+    maximum: 1
+  - name: "lantadyme seed"
+    minimum: 1
+    maximum: 1

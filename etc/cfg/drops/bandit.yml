@@ -1,0 +1,44 @@
+---
+npc_id: 690
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "coins"
+    minimum: 10
+    maximum: 50
+  - name: "coal"
+    minimum: 1
+    maximum: 1
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 1
+  - name: "chaos rune"
+    minimum: 1
+    maximum: 2
+uncommon:
+  accessibility: 10
+  items:
+  - name: "death rune"
+    minimum: 1
+    maximum: 2
+  - name: "nature rune"
+    minimum: 1
+    maximum: 2
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 1
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 1
+  - name: "iron battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "steel axe"
+    minimum: 1
+    maximum: 1

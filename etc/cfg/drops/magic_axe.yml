@@ -1,0 +1,8 @@
+---
+npc_id: 2844
+constant:
+  accessibility: 0
+  items:
+  - name: "iron battleaxe"
+    minimum: 1
+    maximum: 1

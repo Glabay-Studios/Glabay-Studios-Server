@@ -1,0 +1,44 @@
+---
+identifier: "10_2021"
+date: [2021, 7, 1]
+rewards:
+- id: 2528
+  amount: 1
+- name: Buldging coin bag
+  amount: 3
+- id: 4185
+  amount: 2
+- id: 7629
+  amount: 3
+- id: 21046
+  amount: 5
+- name: Vote crystal
+  amount: 6
+- name: Buldging coin bag
+  amount: 9
+- id: 2528
+  amount: 3
+- id: 6792
+  amount: 2
+- id: 24460
+  amount: 2
+- id: 990
+  amount: 5
+- name: Buldging coin bag
+  amount: 12
+- id: 7968
+  amount: 2
+- id: 23804
+  amount: 1
+- id: 22093
+  amount: 1
+- name: Buldging coin bag
+  amount: 10
+- name: coins
+  amount: 15000000
+- name: super mystery box
+  amount: 1
+- name: mystery box
+  amount: 1
+- name: ultra mystery box
+  amount: 1

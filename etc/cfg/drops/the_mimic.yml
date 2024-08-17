@@ -1,0 +1,34 @@
+---
+npc_id:
+- 8633
+- 7979
+constant:
+  accessibility: 0
+  items:
+  - name: "mahogany plank"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "death rune"
+    minimum: 500
+    maximum: 700
+  - name: "blood rune"
+    minimum: 500
+    maximum: 600
+  - name: "grimy ranarr weed noted"
+    minimum: 45
+    maximum: 45
+  - name: "raw manta ray noted"
+    minimum: 55
+    maximum: 55
+  - name: "wine of zamorak noted"
+    minimum: 30
+    maximum: 35
+uncommon:
+  accessibility: 44
+  items:
+  - name: "ring of third age"
+    minimum: 1
+    maximum: 1

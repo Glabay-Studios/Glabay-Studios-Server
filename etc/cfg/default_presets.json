@@ -1,0 +1,294 @@
+[
+    {
+        "name": "Main Setup",
+        "requirements": [
+            {
+                "levelId": 0,
+                "level": 60
+            },
+            {
+                "levelId": 1,
+                "level": 60
+            }
+        ],
+        "cost": 675000,
+        "equipment": {
+            "helmet": 10828,
+            "cape": 1052,
+            "necklace": 1712,
+            "plate": 1127,
+            "legs": 1079,
+            "boots": 4131,
+            "gloves": 7458,
+            "ring": 2550,
+            "shield": 6524,
+            "weapon": 4587,
+            "ammo": -1
+        },
+        "ammoAmount": -1,
+        "inventory": [
+            {
+                "itemId": 1215,
+                "amount": 1
+            },
+            {
+                "itemId": 2436,
+                "amount": 1
+            },
+            {
+                "itemId": 2440,
+                "amount": 1
+            },
+            {
+                "itemId": 6685,
+                "amount": 1
+            },
+            {
+                "itemId": 3024,
+                "amount": 2
+            },
+            {
+                "itemId": 385,
+                "amount": 19
+            },
+            {
+                "itemId": 557,
+                "amount": 200
+            },
+            {
+                "itemId": 9075,
+                "amount": 80
+            },
+            {
+                "itemId": 560,
+                "amount": 40
+            }
+        ],
+        "spellBook": 1
+    },
+    {
+        "name": "Hybrid Setup",
+        "requirements": [
+            {
+                "levelId": 0,
+                "level": 60
+            },
+            {
+                "levelId": 1,
+                "level": 60
+            },
+            {
+                "levelId": 4,
+                "level": 70
+            },
+            {
+                "levelId": 6,
+                "level": 60
+            }
+        ],
+        "cost": 1000000,
+        "equipment": {
+            "helmet": 10828,
+            "cape": 1007,
+            "necklace": 1712,
+            "plate": 4101,
+            "legs": 4103,
+            "boots": 3105,
+            "gloves": 7458,
+            "ring": 2550,
+            "shield": 3842,
+            "weapon": 4675,
+            "ammo": -1
+        },
+        "ammoAmount": -1,
+        "inventory": [
+            {
+                "itemId": 2444,
+                "amount": 1
+            },
+            {
+                "itemId": 2436,
+                "amount": 1
+            },
+            {
+                "itemId": 2440,
+                "amount": 1
+            },
+            {
+                "itemId": 6685,
+                "amount": 1
+            },
+            {
+                "itemId": 1215,
+                "amount": 1
+            },
+            {
+                "itemId": 4587,
+                "amount": 1
+            },
+            {
+                "itemId": 3024,
+                "amount": 2
+            },
+            {
+                "itemId": 2503,
+                "amount": 1
+            },
+            {
+                "itemId": 1079,
+                "amount": 1
+            },
+            {
+                "itemId": 385,
+                "amount": 15
+            },
+            {
+                "itemId": 565,
+                "amount": 200
+            },
+            {
+                "itemId": 555,
+                "amount": 600
+            },
+            {
+                "itemId": 560,
+                "amount": 400
+            }
+        ],
+        "spellBook": 0
+    },
+    {
+        "name": "Range Tank",
+        "requirements": [
+            {
+                "levelId": 0,
+                "level": 60
+            },
+            {
+                "levelId": 1,
+                "level": 60
+            },
+            {
+                "levelId": 4,
+                "level": 70
+            }
+        ],
+        "cost": 600000,
+        "equipment": {
+            "helmet": 10828,
+            "cape": 10499,
+            "necklace": 1712,
+            "plate": 2503,
+            "legs": 1079,
+            "boots": 3105,
+            "gloves": 7458,
+            "ring": 2550,
+            "shield": 6524,
+            "weapon": 9185,
+            "ammo": -1
+        },
+        "ammoAmount": -1,
+        "inventory": [
+            {
+                "itemId": 2444,
+                "amount": 1
+            },
+            {
+                "itemId": 2436,
+                "amount": 1
+            },
+            {
+                "itemId": 2440,
+                "amount": 1
+            },
+            {
+                "itemId": 6685,
+                "amount": 1
+            },
+            {
+                "itemId": 1215,
+                "amount": 1
+            },
+            {
+                "itemId": 3024,
+                "amount": 2
+            },
+            {
+                "itemId": 385,
+                "amount": 18
+            },
+            {
+                "itemId": 557,
+                "amount": 200
+            },
+            {
+                "itemId": 9075,
+                "amount": 80
+            },
+            {
+                "itemId": 560,
+                "amount": 40
+            }
+        ],
+        "spellBook": 1
+    },
+    {
+        "name": "Pure",
+        "requirements": [
+            {
+                "levelId": 0,
+                "level": 60
+            },
+            {
+                "levelId": 6,
+                "level": 50
+            },
+            {
+                "levelId": 4,
+                "level": 70
+            }
+        ],
+        "cost": 325000,
+        "equipment": {
+            "helmet": 4502,
+            "cape": 1007,
+            "necklace": 1712,
+            "plate": 6107,
+            "legs": 2497,
+            "boots": 3105,
+            "gloves": 7458,
+            "ring": 2550,
+            "shield": 3842,
+            "weapon": 4587,
+            "ammo": -1
+        },
+        "ammoAmount": -1,
+        "inventory": [
+            {
+                "itemId": 1215,
+                "amount": 1
+            },
+            {
+                "itemId": 2436,
+                "amount": 1
+            },
+            {
+                "itemId": 2440,
+                "amount": 1
+            },
+            {
+                "itemId": 6685,
+                "amount": 1
+            },
+            {
+                "itemId": 3024,
+                "amount": 2
+            },
+            {
+                "itemId": 385,
+                "amount": 22
+            }
+        ],
+        "spellBook": 0
+    }
+]

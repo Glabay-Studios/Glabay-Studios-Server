@@ -1,0 +1,62 @@
+---
+npc_id: 264
+constant:
+  accessibility: 0
+  items:
+  - name: "dragon bones"
+    minimum: 1
+    maximum: 1
+  - name: "green dragonhide"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 1
+  - name: "steel battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "steel platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "mithril axe"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 5000
+    maximum: 124525
+  - name: "bass"
+    minimum: 1
+    maximum: 3
+  - name: "water rune"
+    minimum: 100
+    maximum: 300
+  - name: "fire rune"
+    minimum: 75
+    maximum: 175
+  - name: "nature rune"
+    minimum: 25
+    maximum: 125
+uncommon:
+  accessibility: 5
+  items:
+  - name: "adamant full helm"
+    minimum: 1
+    maximum: 1
+  - name: "rune dagger"
+    minimum: 1
+    maximum: 1
+  - name: "adamantite ore noted"
+    minimum: 1
+    maximum: 15
+rare:
+  accessibility: 40
+  items:
+  - name: "dragon mace"
+    minimum: 1
+    maximum: 1
+  - name: "dragon daggerpplusplus"
+    minimum: 1
+    maximum: 1

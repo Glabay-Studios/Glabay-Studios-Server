@@ -1,0 +1,86 @@
+---
+npc_id: 432
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "steel platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "mithril axe"
+    minimum: 1
+    maximum: 1
+  - name: "mithril kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "adamant full helm"
+    minimum: 1
+    maximum: 1
+  - name: "nature rune"
+    minimum: 50
+    maximum: 90
+  - name: "law rune"
+    minimum: 20
+    maximum: 20
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 1
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 2
+uncommon:
+  accessibility: 20
+  items:
+  - name: "rune dagger"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe bottom"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe bottom dark"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe bottom light"
+    minimum: 1
+    maximum: 1
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 1
+  - name: "grimy kwuarm"
+    minimum: 1
+    maximum: 1
+  - name: "grimy cadantine"
+    minimum: 1
+    maximum: 1
+  - name: "grimy dwarf weed"
+    minimum: 1
+    maximum: 1
+  - name: "rune dagger"
+    minimum: 1
+    maximum: 1
+  - name: "grimy torstol"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 70
+  items:
+  - name: "leaf bladed spear"
+    minimum: 1
+    maximum: 1

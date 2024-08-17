@@ -1,0 +1,41 @@
+---
+npc_id: 1545
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 3
+  items:
+  - name: "iron full helm"
+    minimum: 1
+    maximum: 1
+  - name: "iron sword"
+    minimum: 1
+    maximum: 1
+  - name: "mithril arrow"
+    minimum: 15
+    maximum: 30
+  - name: "fire rune"
+    minimum: 10
+    maximum: 20
+  - name: "water rune"
+    minimum: 10
+    maximum: 20
+  - name: "air rune"
+    minimum: 10
+    maximum: 20
+  - name: "earth rune"
+    minimum: 10
+    maximum: 20
+  - name: "mind rune"
+    minimum: 10
+    maximum: 20
+  - name: "body rune"
+    minimum: 10
+    maximum: 20
+  - name: "steel bar noted"
+    minimum: 1
+    maximum: 3

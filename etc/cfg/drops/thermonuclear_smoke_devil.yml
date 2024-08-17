@@ -1,0 +1,95 @@
+---
+npc_id: 499
+constant:
+  accessibility: 0
+  items:
+  - name: "ashes"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "goat horn dust noted"
+    minimum: 50
+    maximum: 50
+  - name: "rune chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "prayer potion4"
+    minimum: 2
+    maximum: 2
+  - name: "tuna potato"
+    minimum: 3
+    maximum: 4
+  - name: "rune dagger"
+    minimum: 1
+    maximum: 1
+  - name: "rune scimitar"
+    minimum: 1
+    maximum: 1
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "red dhide body"
+    minimum: 1
+    maximum: 1
+  - name: "air rune"
+    minimum: 800
+    maximum: 1000
+  - name: "rune knifepplusplus"
+    minimum: 50
+    maximum: 50
+  - name: "pure essence noted"
+    minimum: 400
+    maximum: 400
+  - name: "diamond noted"
+    minimum: 10
+    maximum: 10
+uncommon:
+  accessibility: 5
+  items:
+  - name: "dragon scimitar"
+    minimum: 1
+    maximum: 1
+  - name: "ancient staff"
+    minimum: 1
+    maximum: 1
+  - name: "mystic air staff"
+    minimum: 1
+    maximum: 1
+  - name: "mystic fire staff"
+    minimum: 1
+    maximum: 1
+  - name: "rune arrow"
+    minimum: 125
+    maximum: 125
+  - name: "coal noted"
+    minimum: 150
+    maximum: 150
+  - name: "gold ore noted"
+    minimum: 200
+    maximum: 200
+  - name: "mithril bar noted"
+    minimum: 20
+    maximum: 20
+  - name: "magic logs noted"
+    minimum: 20
+    maximum: 20
+  - name: "onyx bolt tips"
+    minimum: 12
+    maximum: 30
+rare:
+  accessibility: 250
+  items:
+  - name: "occult necklace"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 500
+  items:
+  - name: "dragon chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "smoke battlestaff"
+    minimum: 1
+    maximum: 1

@@ -1,0 +1,53 @@
+---
+npc_id: 3141
+constant:
+  accessibility: 0
+  items:
+  - name: "big bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "uncut sapphire"
+    minimum: 1
+    maximum: 6
+  - name: "uncut emerald"
+    minimum: 1
+    maximum: 6
+  - name: "bronze daggerpplus"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 27
+    maximum: 286
+uncommon:
+  accessibility: 3
+  items:
+  - name: "uncut ruby"
+    minimum: 1
+    maximum: 3
+  - name: "uncut diamond"
+    minimum: 1
+    maximum: 3
+  - name: "adamant kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "steel plateskirt"
+    minimum: 1
+    maximum: 1
+  - name: "steel platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "iron 2h sword"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 20
+  items:
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 1
+  - name: "rune chainbody"
+    minimum: 1
+    maximum: 1

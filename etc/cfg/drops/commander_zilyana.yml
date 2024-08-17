@@ -1,0 +1,71 @@
+---
+npc_id: 2205
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "rune dart"
+    minimum: 300
+    maximum: 500
+  - name: "law rune"
+    minimum: 96
+    maximum: 305
+  - name: "rune plateskirt"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 250525
+    maximum: 515000
+uncommon:
+  accessibility: 3
+  items:
+  - name: "adamant platebody"
+    minimum: 1
+    maximum: 1
+  - name: "rune kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "magic potion3"
+    minimum: 3
+    maximum: 3
+  - name: "prayer potion4"
+    minimum: 3
+    maximum: 3
+  - name: "super defence4"
+    minimum: 3
+    maximum: 3
+  - name: "super restore4"
+    minimum: 3
+    maximum: 3
+rare:
+  accessibility: 65
+  items:
+  - name: "godsword shard 1"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 2"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 3"
+    minimum: 1
+    maximum: 1
+  - name: "saradomin sword"
+    minimum: 1
+    maximum: 1
+  - name: "casket"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 100
+  items:
+  - name: "armadyl crossbow"
+    minimum: 1
+    maximum: 1
+  - name: "saradomin hilt"
+    minimum: 1
+    maximum: 1

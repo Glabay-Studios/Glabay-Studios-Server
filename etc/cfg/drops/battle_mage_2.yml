@@ -1,0 +1,23 @@
+---
+npc_id: 1612
+constant:
+  accessibility: 0
+  items:
+  - name: "coins"
+    minimum: 5000
+    maximum: 10000
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 30
+  items:
+    - name: "guthix staff"
+      minimum: 1
+      maximum: 1
+rare:
+  accessibility: 200
+  items:
+  - name: "imbued guthix cape"
+    minimum: 1
+    maximum: 1

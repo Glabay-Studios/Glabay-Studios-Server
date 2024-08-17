@@ -1,0 +1,55 @@
+---
+npc_id:
+- 135
+- 3133
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "coins"
+    minimum: 1500
+    maximum: 65000
+  - name: "snape grass noted"
+    minimum: 3
+    maximum: 15
+  - name: "blue dragon scale noted"
+    minimum: 3
+    maximum: 15
+  - name: "chocolate dust noted"
+    minimum: 3
+    maximum: 15
+  - name: "mort myre fungus noted"
+    minimum: 3
+    maximum: 15
+  - name: "unicorn horn dust noted"
+    minimum: 3
+    maximum: 15
+  - name: "jangerberries noted"
+    minimum: 10
+    maximum: 20
+rare:
+  accessibility: 15
+  items:
+  - name: "blue dragon scale noted"
+    minimum: 20
+    maximum: 50
+  - name: "death rune"
+    minimum: 100
+    maximum: 200
+  - name: "blood rune"
+    minimum: 100
+    maximum: 200
+  - name: "jangerberries noted"
+    minimum: 20
+    maximum: 50
+very_rare:
+  accessibility: 15200
+  items:
+  - name: "smouldering stone"
+    minimum: 1
+    maximum: 1

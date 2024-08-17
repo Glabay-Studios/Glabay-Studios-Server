@@ -1,0 +1,164 @@
+---
+npc_id:
+- 8622
+- 8621
+- 8620
+- 8619
+- 8615
+- 8616
+constant:
+  accessibility: 0
+  items:
+  - name: "hydra bones"
+    minimum: 2
+    maximum: 2
+common:
+  accessibility: 1
+  items:
+  - name: "mystic fire staff"
+    minimum: 1
+    maximum: 1
+  - name: "mystic water staff"
+    minimum: 1
+    maximum: 1
+  - name: "rune platebody"
+    minimum: 1
+    maximum: 1
+  - name: "battlestaff noted"
+    minimum: 8
+    maximum: 12
+  - name: "black dhide body"
+    minimum: 1
+    maximum: 10
+  - name: "death rune"
+    minimum: 150
+    maximum: 300
+  - name: "chaos rune"
+    minimum: 150
+    maximum: 300
+  - name: "astral rune"
+    minimum: 150
+    maximum: 300
+  - name: "blood rune"
+    minimum: 150
+    maximum: 300
+  - name: "coins"
+    minimum: 40000
+    maximum: 60000
+  - name: "shark"
+    minimum: 1
+    maximum: 2
+  - name: "ranging potion4"
+    minimum: 1
+    maximum: 1
+  - name: "super restore4"
+    minimum: 2
+    maximum: 2
+  - name: "dragon bones noted"
+    minimum: 30
+    maximum: 30
+uncommon:
+  accessibility: 2
+  items:
+  - name: "dragon longsword"
+    minimum: 1
+    maximum: 1
+  - name: "dragon med helm"
+    minimum: 1
+    maximum: 1
+  - name: "rune platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "rune plateskirt"
+    minimum: 1
+    maximum: 1
+  - name: "dragon battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe top light"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe bottom light"
+    minimum: 1
+    maximum: 1
+  - name: "dragonstone bolts e"
+    minimum: 100
+    maximum: 120
+  - name: "onyx bolts e"
+    minimum: 35
+    maximum: 50
+  - name: "grimy avantoe noted"
+    minimum: 10
+    maximum: 15
+  - name: "grimy kwuarm noted"
+    minimum: 25
+    maximum: 30
+  - name: "grimy ranarr weed noted"
+    minimum: 10
+    maximum: 15
+  - name: "grimy snapdragon noted"
+    minimum: 10
+    maximum: 15
+  - name: "grimy cadantine noted"
+    minimum: 25
+    maximum: 30
+  - name: "grimy dwarf weed noted"
+    minimum: 25
+    maximum: 30
+  - name: "grimy lantadyme noted"
+    minimum: 25
+    maximum: 30
+  - name: "grimy torstol noted"
+    minimum: 10
+    maximum: 15
+  - name: "ranarr seed"
+    minimum: 2
+    maximum: 3
+  - name: "snapdragon seed"
+    minimum: 2
+    maximum: 3
+  - name: "watermelon seed"
+    minimum: 30
+    maximum: 45
+  - name: "maple seed"
+    minimum: 30
+    maximum: 45
+  - name: "papaya tree seed"
+    minimum: 2
+    maximum: 3
+  - name: "magic seed"
+    minimum: 2
+    maximum: 3
+  - name: "palm tree seed"
+    minimum: 2
+    maximum: 3
+  - name: "spirit seed"
+    minimum: 2
+    maximum: 3
+rare:
+  accessibility: 30
+  items:
+  - name: "hydra tail"
+    minimum: 1
+    maximum: 1
+  - name: "hydras eye"
+    minimum: 1
+    maximum: 1
+  - name: "hydras heart"
+    minimum: 1
+    maximum: 1
+  - name: "hydras fang"
+    minimum: 1
+    maximum: 1
+  - name: "alchemical hydra heads"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 200
+  items:
+  - name: "hydra leather"
+    minimum: 1
+    maximum: 1
+  - name: "hydras claw"
+    minimum: 1
+    maximum: 1

@@ -1,0 +1,1031 @@
+{
+  "20784": {
+    "attackAnimation": 393
+  },
+  "22398": {
+    "attackAnimation": 8010
+  },
+  "24699": {
+    "attackAnimation": 8010
+  },
+  "28534": {
+    "attackAnimation": 393
+  },
+  "1419": {
+    "attackAnimation": 408
+  },
+  "22325": {
+    "attackAnimation": 8056
+  },
+  "25739": {
+    "attackAnimation": 8056
+  },
+  "25736": {
+    "attackAnimation": 8056
+  },
+  "28543": {
+    "attackAnimation": 8056
+  },
+  "22324": {
+    "attackAnimation": 8145
+  },
+  "25734": {
+    "attackAnimation": 8145
+  },
+  "12727": {
+    "attackAnimation": 2323
+  },
+  "10887": {
+    "attackAnimation": 5865
+  },
+  "27855": {
+    "attackAnimation": 5865
+  },
+  "13263": {
+    "attackAnimation": 3298
+  },
+  "7671": {
+    "attackAnimation": 3678
+  },
+  "7673": {
+    "attackAnimation": 3678
+  },
+  "11705": {
+    "attackAnimation": 3678
+  },
+  "11706": {
+    "attackAnimation": 3678
+  },
+  "12924": {
+    "attackAnimation": 5061
+  },
+  "12926": {
+    "attackAnimation": 5061
+  },
+  "21015": {
+    "attackAnimation": 7511
+  },
+  "28682": {
+    "attackAnimation": 7511
+  },
+  "21003": {
+    "attackAnimation": 7516
+  },
+  "21205": {
+    "attackAnimation": 7516
+  },
+  "27100": {
+    "attackAnimation": 7516
+  },
+  "23628": {
+    "attackAnimation": 8145
+  },
+  "11824": {
+    "attackAnimation": 2080
+  },
+  "11889": {
+    "attackAnimation": 2080
+  },
+  "20779": {
+    "attackAnimation": 7328
+  },
+  "19478": {
+    "attackAnimation": 7218
+  },
+  "19481": {
+    "attackAnimation": 7218
+  },
+  "23630": {
+    "attackAnimation": 7218
+  },
+  "26712": {
+    "attackAnimation": 7218
+  },
+  "27188": {
+    "attackAnimation": 7218
+  },
+  "28688": {
+    "attackAnimation": 5061
+  },
+  "28687": {
+    "attackAnimation": 5061
+  },
+  "1335": {
+    "attackAnimation": 401
+  },
+  "1337": {
+    "attackAnimation": 401
+  },
+  "1339": {
+    "attackAnimation": 401
+  },
+  "1341": {
+    "attackAnimation": 401
+  },
+  "1343": {
+    "attackAnimation": 401
+  },
+  "1345": {
+    "attackAnimation": 401
+  },
+  "1347": {
+    "attackAnimation": 401
+  },
+  "1415": {
+    "attackAnimation": 401
+  },
+  "6613": {
+    "attackAnimation": 401
+  },
+  "13576": {
+    "attackAnimation": 401
+  },
+  "20785": {
+    "attackAnimation": 401
+  },
+  "22622": {
+    "attackAnimation": 401
+  },
+  "23620": {
+    "attackAnimation": 401
+  },
+  "26710": {
+    "attackAnimation": 401
+  },
+  "27908": {
+    "attackAnimation": 401
+  },
+  "28035": {
+    "attackAnimation": 401
+  },
+  "4734": {
+    "attackAnimation": 2075
+  },
+  "10033": {
+    "attackAnimation": 2779
+  },
+  "10034": {
+    "attackAnimation": 2779
+  },
+  "11959": {
+    "attackAnimation": 2779
+  },
+  "6522": {
+    "attackAnimation": 3353
+  },
+  "11791": {
+    "attackAnimation": 440
+  },
+  "12902": {
+    "attackAnimation": 440
+  },
+  "12904": {
+    "attackAnimation": 440
+  },
+  "22296": {
+    "attackAnimation": 440
+  },
+  "1215": {
+    "attackAnimation": 402
+  },
+  "1231": {
+    "attackAnimation": 402
+  },
+  "5680": {
+    "attackAnimation": 402
+  },
+  "5698": {
+    "attackAnimation": 402
+  },
+  "13265": {
+    "attackAnimation": 3297
+  },
+  "13267": {
+    "attackAnimation": 3297
+  },
+  "22978": {
+    "attackAnimation": 8288
+  },
+  "7807": {
+    "attackAnimation": 2066
+  },
+  "7806": {
+    "attackAnimation": 390
+  },
+  "22804": {
+    "attackAnimation": 8194
+  },
+  "26219": {
+    "attackAnimation": 9471
+  },
+  "27246": {
+    "attackAnimation": 9471
+  },
+  "6528": {
+    "attackAnimation": 2661
+  },
+  "20756": {
+    "attackAnimation": 2661
+  },
+  "24225": {
+    "attackAnimation": 1665
+  },
+  "24944": {
+    "attackAnimation": 1665
+  },
+  "7668": {
+    "attackAnimation": 1665
+  },
+  "12848": {
+    "attackAnimation": 1665
+  },
+  "16200": {
+    "attackAnimation": 1665
+  },
+  "16201": {
+    "attackAnimation": 1665
+  },
+  "16202": {
+    "attackAnimation": 1665
+  },
+  "16203": {
+    "attackAnimation": 1665
+  },
+  "16204": {
+    "attackAnimation": 1665
+  },
+  "16205": {
+    "attackAnimation": 1665
+  },
+  "16206": {
+    "attackAnimation": 1665
+  },
+  "16207": {
+    "attackAnimation": 1665
+  },
+  "16208": {
+    "attackAnimation": 1665
+  },
+  "4153": {
+    "attackAnimation": 1665
+  },
+  "4747": {
+    "attackAnimation": 2068
+  },
+  "4958": {
+    "attackAnimation": 2068
+  },
+  "4959": {
+    "attackAnimation": 2068
+  },
+  "4960": {
+    "attackAnimation": 2068
+  },
+  "4961": {
+    "attackAnimation": 2068
+  },
+  "26374": {
+    "attackAnimation": 9166
+  },
+  "9174": {
+    "attackAnimation": 4230
+  },
+  "9177": {
+    "attackAnimation": 4230
+  },
+  "9179": {
+    "attackAnimation": 4230
+  },
+  "9183": {
+    "attackAnimation": 4230
+  },
+  "9185": {
+    "attackAnimation": 4230
+  },
+  "21902": {
+    "attackAnimation": 4230
+  },
+  "11785": {
+    "attackAnimation": 4230
+  },
+  "21012": {
+    "attackAnimation": 4230
+  },
+  "22331": {
+    "attackAnimation": 390
+  },
+  "27610": {
+    "attackAnimation": 9585
+  },
+  "22545": {
+    "attackAnimation": 245
+  },
+  "22542": {
+    "attackAnimation": 245
+  },
+  "27660": {
+    "attackAnimation": 245
+  },
+  "24417": {
+    "attackAnimation": 4503
+  },
+  "22634": {
+    "attackAnimation": 929
+  },
+  "7158": {
+    "attackAnimation": 407
+  },
+  "4755": {
+    "attackAnimation": 2062
+  },
+  "4982": {
+    "attackAnimation": 2062
+  },
+  "4983": {
+    "attackAnimation": 2062
+  },
+  "4984": {
+    "attackAnimation": 2062
+  },
+  "4985": {
+    "attackAnimation": 2062
+  },
+  "4718": {
+    "attackAnimation": 2067
+  },
+  "4886": {
+    "attackAnimation": 2067
+  },
+  "4887": {
+    "attackAnimation": 2067
+  },
+  "4888": {
+    "attackAnimation": 2067
+  },
+  "4889": {
+    "attackAnimation": 2067
+  },
+  "4910": {
+    "attackAnimation": 2080
+  },
+  "4911": {
+    "attackAnimation": 2080
+  },
+  "4912": {
+    "attackAnimation": 2080
+  },
+  "4913": {
+    "attackAnimation": 2080
+  },
+  "4914": {
+    "attackAnimation": 2080
+  },
+  "22610": {
+    "attackAnimation": 2080
+  },
+  "4710": {
+    "attackAnimation": 2078
+  },
+  "4866": {
+    "attackAnimation": 2078
+  },
+  "4865": {
+    "attackAnimation": 2078
+  },
+  "4864": {
+    "attackAnimation": 2078
+  },
+  "4863": {
+    "attackAnimation": 2078
+  },
+  "4862": {
+    "attackAnimation": 2078
+  },
+  "24422": {
+    "attackAnimation": 4505
+  },
+  "24423": {
+    "attackAnimation": 4505
+  },
+  "24424": {
+    "attackAnimation": 4505
+  },
+  "24425": {
+    "attackAnimation": 4505
+  },
+  "20593": {
+    "attackAnimation": 7045
+  },
+  "14487": {
+    "attackAnimation": 7045
+  },
+  "30003": {
+    "attackAnimation": 7045
+  },
+  "11802": {
+    "attackAnimation": 7045
+  },
+  "11804": {
+    "attackAnimation": 7045
+  },
+  "11806": {
+    "attackAnimation": 7045
+  },
+  "11808": {
+    "attackAnimation": 7045
+  },
+  "20368": {
+    "attackAnimation": 7045
+  },
+  "20370": {
+    "attackAnimation": 7045
+  },
+  "20372": {
+    "attackAnimation": 7045
+  },
+  "20374": {
+    "attackAnimation": 7045
+  },
+  "11838": {
+    "attackAnimation": 7045
+  },
+  "12808": {
+    "attackAnimation": 7045
+  },
+  "12809": {
+    "attackAnimation": 7045
+  },
+  "26233": {
+    "attackAnimation": 7045
+  },
+  "28338": {
+    "attackAnimation": 2067
+  },
+  "11367": {
+    "attackAnimation": 400
+  },
+  "11369": {
+    "attackAnimation": 400
+  },
+  "11371": {
+    "attackAnimation": 400
+  },
+  "11373": {
+    "attackAnimation": 400
+  },
+  "11375": {
+    "attackAnimation": 400
+  },
+  "11377": {
+    "attackAnimation": 400
+  },
+  "11379": {
+    "attackAnimation": 400
+  },
+  "11381": {
+    "attackAnimation": 400
+  },
+  "11382": {
+    "attackAnimation": 400
+  },
+  "11384": {
+    "attackAnimation": 400
+  },
+  "11386": {
+    "attackAnimation": 400
+  },
+  "11388": {
+    "attackAnimation": 400
+  },
+  "11389": {
+    "attackAnimation": 400
+  },
+  "11391": {
+    "attackAnimation": 400
+  },
+  "11393": {
+    "attackAnimation": 400
+  },
+  "11395": {
+    "attackAnimation": 400
+  },
+  "11396": {
+    "attackAnimation": 400
+  },
+  "11398": {
+    "attackAnimation": 400
+  },
+  "11400": {
+    "attackAnimation": 400
+  },
+  "11402": {
+    "attackAnimation": 400
+  },
+  "11403": {
+    "attackAnimation": 400
+  },
+  "11405": {
+    "attackAnimation": 400
+  },
+  "11407": {
+    "attackAnimation": 400
+  },
+  "11409": {
+    "attackAnimation": 400
+  },
+  "11410": {
+    "attackAnimation": 400
+  },
+  "11412": {
+    "attackAnimation": 400
+  },
+  "11414": {
+    "attackAnimation": 400
+  },
+  "11416": {
+    "attackAnimation": 400
+  },
+  "11417": {
+    "attackAnimation": 400
+  },
+  "11419": {
+    "attackAnimation": 400
+  },
+  "20161": {
+    "attackAnimation": 400
+  },
+  "22731": {
+    "attackAnimation": 400
+  },
+  "22734": {
+    "attackAnimation": 400
+  },
+  "22737": {
+    "attackAnimation": 400
+  },
+  "22740": {
+    "attackAnimation": 400
+  },
+  "22743": {
+    "attackAnimation": 400
+  },
+  "22744": {
+    "attackAnimation": 400
+  },
+  "22963": {
+    "attackAnimation": 400
+  },
+  "1237": {
+    "attackAnimation": 400
+  },
+  "1239": {
+    "attackAnimation": 400
+  },
+  "1241": {
+    "attackAnimation": 400
+  },
+  "1243": {
+    "attackAnimation": 400
+  },
+  "1245": {
+    "attackAnimation": 400
+  },
+  "1247": {
+    "attackAnimation": 400
+  },
+  "1249": {
+    "attackAnimation": 400
+  },
+  "1251": {
+    "attackAnimation": 400
+  },
+  "1253": {
+    "attackAnimation": 400
+  },
+  "1255": {
+    "attackAnimation": 400
+  },
+  "1257": {
+    "attackAnimation": 400
+  },
+  "1259": {
+    "attackAnimation": 400
+  },
+  "1261": {
+    "attackAnimation": 400
+  },
+  "1263": {
+    "attackAnimation": 400
+  },
+  "3170": {
+    "attackAnimation": 400
+  },
+  "3171": {
+    "attackAnimation": 400
+  },
+  "3172": {
+    "attackAnimation": 400
+  },
+  "3173": {
+    "attackAnimation": 400
+  },
+  "3174": {
+    "attackAnimation": 400
+  },
+  "3175": {
+    "attackAnimation": 400
+  },
+  "3176": {
+    "attackAnimation": 400
+  },
+  "4158": {
+    "attackAnimation": 400
+  },
+  "4159": {
+    "attackAnimation": 400
+  },
+  "4580": {
+    "attackAnimation": 400
+  },
+  "4582": {
+    "attackAnimation": 400
+  },
+  "4584": {
+    "attackAnimation": 400
+  },
+  "4726": {
+    "attackAnimation": 400
+  },
+  "5016": {
+    "attackAnimation": 400
+  },
+  "5704": {
+    "attackAnimation": 400
+  },
+  "5706": {
+    "attackAnimation": 400
+  },
+  "5708": {
+    "attackAnimation": 400
+  },
+  "5710": {
+    "attackAnimation": 400
+  },
+  "5712": {
+    "attackAnimation": 400
+  },
+  "5714": {
+    "attackAnimation": 400
+  },
+  "5716": {
+    "attackAnimation": 400
+  },
+  "5718": {
+    "attackAnimation": 400
+  },
+  "5720": {
+    "attackAnimation": 400
+  },
+  "5722": {
+    "attackAnimation": 400
+  },
+  "5724": {
+    "attackAnimation": 400
+  },
+  "5726": {
+    "attackAnimation": 400
+  },
+  "5728": {
+    "attackAnimation": 400
+  },
+  "5730": {
+    "attackAnimation": 400
+  },
+  "5734": {
+    "attackAnimation": 400
+  },
+  "5736": {
+    "attackAnimation": 400
+  },
+  "7809": {
+    "attackAnimation": 400
+  },
+  "20158": {
+    "attackAnimation": 400
+  },
+  "20397": {
+    "attackAnimation": 400
+  },
+  "29305": {
+    "attackAnimation": 400
+  },
+  "28988": {
+    "attackAnimation": 400
+  },
+  "28041": {
+    "attackAnimation": 400
+  },
+  "28043": {
+    "attackAnimation": 400
+  },
+  "28045": {
+    "attackAnimation": 400
+  },
+  "28047": {
+    "attackAnimation": 400
+  },
+  "21006": {
+    "attackAnimation": 414
+  },
+  "23626": {
+    "attackAnimation": 414
+  },
+  "12422": {
+    "attackAnimation": 414
+  },
+  "28196": {
+    "attackAnimation": 10079
+  },
+  "28199": {
+    "attackAnimation": 10079
+  },
+  "28202": {
+    "attackAnimation": 10079
+  },
+  "28205": {
+    "attackAnimation": 10079
+  },
+  "28208": {
+    "attackAnimation": 10079
+  },
+  "28211": {
+    "attackAnimation": 10079
+  },
+  "28214": {
+    "attackAnimation": 10079
+  },
+  "28217": {
+    "attackAnimation": 10079
+  },
+  "28220": {
+    "attackAnimation": 10079
+  },
+  "28226": {
+    "attackAnimation": 10079
+  },
+  "1277": {
+    "attackAnimation": 386
+  },
+  "1279": {
+    "attackAnimation": 386
+  },
+  "1281": {
+    "attackAnimation": 386
+  },
+  "1283": {
+    "attackAnimation": 386
+  },
+  "1285": {
+    "attackAnimation": 386
+  },
+  "1287": {
+    "attackAnimation": 386
+  },
+  "1289": {
+    "attackAnimation": 386
+  },
+  "21009": {
+    "attackAnimation": 386
+  },
+  "21206": {
+    "attackAnimation": 386
+  },
+  "28029": {
+    "attackAnimation": 386
+  },
+  "6605": {
+    "attackAnimation": 386
+  },
+  "6818": {
+    "attackAnimation": 386
+  },
+  "9703": {
+    "attackAnimation": 386
+  },
+  "10858": {
+    "attackAnimation": 386
+  },
+  "13108": {
+    "attackAnimation": 386
+  },
+  "13109": {
+    "attackAnimation": 386
+  },
+  "13110": {
+    "attackAnimation": 386
+  },
+  "13111": {
+    "attackAnimation": 386
+  },
+  "19675": {
+    "attackAnimation": 2067
+  },
+  "20164": {
+    "attackAnimation": 7045
+  },
+  "1321": {
+    "attackAnimation": 451
+  },
+  "1323": {
+    "attackAnimation": 451
+  },
+  "1325": {
+    "attackAnimation": 451
+  },
+  "1327": {
+    "attackAnimation": 451
+  },
+  "1329": {
+    "attackAnimation": 451
+  },
+  "1331": {
+    "attackAnimation": 451
+  },
+  "1333": {
+    "attackAnimation": 451
+  },
+  "4587": {
+    "attackAnimation": 451
+  },
+  "6611": {
+    "attackAnimation": 451
+  },
+  "6721": {
+    "attackAnimation": 451
+  },
+  "12389": {
+    "attackAnimation": 451
+  },
+  "20000": {
+    "attackAnimation": 451
+  },
+  "20402": {
+    "attackAnimation": 451
+  },
+  "23321": {
+    "attackAnimation": 451
+  },
+  "23324": {
+    "attackAnimation": 451
+  },
+  "23327": {
+    "attackAnimation": 451
+  },
+  "23330": {
+    "attackAnimation": 451
+  },
+  "23332": {
+    "attackAnimation": 451
+  },
+  "23334": {
+    "attackAnimation": 451
+  },
+  "26262": {
+    "attackAnimation": 451
+  },
+  "26929": {
+    "attackAnimation": 451
+  },
+  "28031": {
+    "attackAnimation": 451
+  },
+  "8004": {
+    "attackAnimation": 2075
+  },
+  "7960": {
+    "attackAnimation": 2075
+  },
+  "4151": {
+    "attackAnimation": 1658
+  },
+  "12773": {
+    "attackAnimation": 1658
+  },
+  "12774": {
+    "attackAnimation": 1658
+  },
+  "12006": {
+    "attackAnimation": 1658
+  },
+  "20727": {
+    "attackAnimation": 7004
+  },
+  "3190": {
+    "attackAnimation": 440
+  },
+  "3192": {
+    "attackAnimation": 440
+  },
+  "3194": {
+    "attackAnimation": 440
+  },
+  "3196": {
+    "attackAnimation": 440
+  },
+  "3198": {
+    "attackAnimation": 440
+  },
+  "3200": {
+    "attackAnimation": 440
+  },
+  "3202": {
+    "attackAnimation": 440
+  },
+  "6599": {
+    "attackAnimation": 440
+  },
+  "13080": {
+    "attackAnimation": 440
+  },
+  "10381": {
+    "attackAnimation": 440
+  },
+  "13083": {
+    "attackAnimation": 440
+  },
+  "13084": {
+    "attackAnimation": 440
+  },
+  "13085": {
+    "attackAnimation": 440
+  },
+  "13086": {
+    "attackAnimation": 440
+  },
+  "13087": {
+    "attackAnimation": 440
+  },
+  "13088": {
+    "attackAnimation": 440
+  },
+  "13089": {
+    "attackAnimation": 440
+  },
+  "13090": {
+    "attackAnimation": 440
+  },
+  "13091": {
+    "attackAnimation": 440
+  },
+  "13092": {
+    "attackAnimation": 440
+  },
+  "13093": {
+    "attackAnimation": 440
+  },
+  "13094": {
+    "attackAnimation": 440
+  },
+  "13095": {
+    "attackAnimation": 440
+  },
+  "13096": {
+    "attackAnimation": 440
+  },
+  "16892": {
+    "attackAnimation": 440
+  },
+  "16893": {
+    "attackAnimation": 440
+  },
+  "23849": {
+    "attackAnimation": 440
+  },
+  "23850": {
+    "attackAnimation": 440
+  },
+  "23851": {
+    "attackAnimation": 440
+  },
+  "23895": {
+    "attackAnimation": 440
+  },
+  "23896": {
+    "attackAnimation": 440
+  },
+  "23897": {
+    "attackAnimation": 440
+  },
+  "23987": {
+    "attackAnimation": 440
+  },
+  "23989": {
+    "attackAnimation": 440
+  },
+  "24125": {
+    "attackAnimation": 440
+  },
+  "28049": {
+    "attackAnimation": 440
+  }
+}

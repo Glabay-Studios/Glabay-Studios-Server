@@ -1,0 +1,56 @@
+---
+npc_id: 8781
+common:
+  accessibility: 1
+  items:
+  - name: "coins"
+    minimum: 300000
+    maximum: 325000
+  - name: "wrath rune"
+    minimum: 200
+    maximum: 250
+  - name: "chaos rune"
+    minimum: 100
+    maximum: 250
+  - name: "dragon bones noted"
+    minimum: 50
+    maximum: 150
+uncommon:
+  accessibility: 4
+  items:
+  - name: "runite ore"
+    minimum: 10
+    maximum: 20
+  - name: "magic logs"
+    minimum: 40
+    maximum: 100
+  - name: "shark"
+    minimum: 20
+    maximum: 100
+  - name: "grimy ranarr weed"
+    minimum: 4
+    maximum: 9
+rare:
+  accessibility: 40
+  items:
+  - name: "dark infinity hat"
+    minimum: 1
+    maximum: 1
+  - name: "dark infinity top"
+    minimum: 1
+    maximum: 1
+  - name: "dark infinity bottoms"
+    minimum: 1
+    maximum: 1
+  - name: "light infinity hat"
+    minimum: 1
+    maximum: 1
+  - name: "light infinity top"
+    minimum: 1
+    maximum: 1
+  - name: "light infinity bottoms"
+    minimum: 1
+    maximum: 1
+  - name: "imbue dust"
+    minimum: 1
+    maximum: 1

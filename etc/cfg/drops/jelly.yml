@@ -1,0 +1,43 @@
+---
+npc_id:
+- 437
+- 7277
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "steel axe"
+    minimum: 1
+    maximum: 1
+  - name: "chaos rune"
+    minimum: 80
+    maximum: 80
+  - name: "death rune"
+    minimum: 30
+    maximum: 50
+  - name: "water rune"
+    minimum: 120
+    maximum: 200
+  - name: "steel bar noted"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 20
+  items:
+  - name: "mithril kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "mithril boots"
+    minimum: 1
+    maximum: 1
+  - name: "rune full helm"
+    minimum: 1
+    maximum: 1
+  - name: "blood rune"
+    minimum: 40
+    maximum: 100

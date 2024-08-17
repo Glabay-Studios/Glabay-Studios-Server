@@ -1,0 +1,64 @@
+---
+id: 121
+name: "Boss Points Shop"
+items:
+
+- name: "cooked karambwan noted"
+  price: 1
+- name: "anglerfish noted"
+  price: 2
+- name: "dragon bones noted"
+  price: 2
+- name: "dragon arrow"
+  price: 2
+- name: "dragon dart"
+  price: 2
+- name: "dragon javelin"
+  price: 3
+
+- name: "divine ranging potion4 noted"
+  price: 50
+- name: "divine magic potion4 noted"
+  price: 50
+- name: "divine super combat potion4 noted"
+  price: 50
+
+- name: "casket"
+  price: 200
+- name: "crystal key"
+  price: 450
+
+
+- name: "overload 4"
+  price: 225
+
+- name: "fighter torso"
+  price: 1000
+- name: "uncut onyx"
+  price: 1000
+
+- name: "darklight"
+  price: 1350
+- name: "berserker necklace"
+  price: 1500
+- name: "master wand"
+  price: 1900
+- name: "mages book"
+  price: 3900
+
+- name: "royal seed pod"
+  price: 2000
+
+- name: "rune pouch"
+  price: 2500
+
+- name: "crystal weapon seed"
+  price: 5000
+- name: "zamorakian spear"
+  price: 5000
+- name: "ring of wealth"
+  price: 5400
+- name: "ammo mould"
+  price: 7500
+- name: "ring of wealth scroll"
+  price: 25000

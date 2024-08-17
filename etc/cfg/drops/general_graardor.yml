@@ -1,0 +1,77 @@
+---
+npc_id: 2215
+constant:
+  accessibility: 0
+  items:
+  - name: "big bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "rune 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "rune pickaxe"
+    minimum: 1
+    maximum: 1
+  - name: "rune platebody"
+    minimum: 1
+    maximum: 1
+  - name: "adamantite ore noted"
+    minimum: 15
+    maximum: 20
+  - name: "coal noted"
+    minimum: 115
+    maximum: 120
+  - name: "coins"
+    minimum: 250525
+    maximum: 515000
+uncommon:
+  accessibility: 3
+  items:
+  - name: "rune longsword"
+    minimum: 1
+    maximum: 1
+  - name: "nature rune"
+    minimum: 60
+    maximum: 70
+  - name: "magic logs noted"
+    minimum: 15
+    maximum: 20
+  - name: "grimy snapdragon noted"
+    minimum: 3
+    maximum: 3
+  - name: "rune pickaxe"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 55
+  items:
+  - name: "godsword shard 1"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 2"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 3"
+    minimum: 1
+    maximum: 1
+  - name: "casket"
+    minimum: 1
+    maximum: 1
+  - name: "bandos hilt"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 100
+  items:
+  - name: "bandos chestplate"
+    minimum: 1
+    maximum: 1
+  - name: "bandos tassets"
+    minimum: 1
+    maximum: 1
+  - name: "bandos boots"
+    minimum: 1
+    maximum: 1

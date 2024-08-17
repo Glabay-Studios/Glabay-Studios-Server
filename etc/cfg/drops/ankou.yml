@@ -1,0 +1,83 @@
+---
+npc_id: 2514
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "death rune"
+    minimum: 5
+    maximum: 10
+  - name: "blood rune"
+    minimum: 3
+    maximum: 16
+  - name: "law rune"
+    minimum: 1
+    maximum: 2
+  - name: "coins"
+    minimum: 24
+    maximum: 391
+uncommon:
+  accessibility: 2
+  items:
+  - name: "limpwurt seed"
+    minimum: 1
+    maximum: 1
+  - name: "strawberry seed"
+    minimum: 1
+    maximum: 1
+  - name: "marrentill seed"
+    minimum: 1
+    maximum: 1
+  - name: "jangerberry seed"
+    minimum: 1
+    maximum: 1
+  - name: "tarromin seed"
+    minimum: 1
+    maximum: 1
+  - name: "wildblood seed"
+    minimum: 1
+    maximum: 1
+  - name: "adamant arrow"
+    minimum: 4
+    maximum: 14
+  - name: "black knife"
+    minimum: 5
+    maximum: 9
+  - name: "black robe"
+    minimum: 1
+    maximum: 1
+  - name: "black skirt"
+    minimum: 1
+    maximum: 1
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 1
+  - name: "rune essence noted"
+    minimum: 15
+    maximum: 15
+  - name: "pure essence noted"
+    minimum: 15
+    maximum: 15
+  - name: "bass"
+    minimum: 1
+    maximum: 1
+  - name: "mithril ore noted"
+    minimum: 3
+    maximum: 7
+  - name: "fried mushrooms"
+    minimum: 1
+    maximum: 1

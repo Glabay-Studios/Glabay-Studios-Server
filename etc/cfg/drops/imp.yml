@@ -1,0 +1,59 @@
+---
+npc_id: 3134
+constant:
+  accessibility: 0
+  items:
+  - name: "ashes"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 3
+  items:
+  - name: "blue wizard hat"
+    minimum: 1
+    maximum: 1
+  - name: "chefs hat"
+    minimum: 1
+    maximum: 1
+  - name: "bread"
+    minimum: 1
+    maximum: 1
+  - name: "cabbage"
+    minimum: 1
+    maximum: 1
+  - name: "cooked meat"
+    minimum: 1
+    maximum: 1
+  - name: "tinderbox"
+    minimum: 1
+    maximum: 1
+  - name: "bucket"
+    minimum: 1
+    maximum: 1
+  - name: "hammer"
+    minimum: 1
+    maximum: 1
+  - name: "mind rune"
+    minimum: 5
+    maximum: 5
+  - name: "earth rune"
+    minimum: 5
+    maximum: 5
+  - name: "water rune"
+    minimum: 5
+    maximum: 5
+  - name: "fire rune"
+    minimum: 5
+    maximum: 5
+  - name: "air rune"
+    minimum: 5
+    maximum: 5
+  - name: "burnt meat"
+    minimum: 1
+    maximum: 1
+  - name: "burnt bread"
+    minimum: 1
+    maximum: 1
+  - name: "guam leaf"
+    minimum: 1
+    maximum: 1

@@ -1,0 +1,128 @@
+---
+npc_id: 8609
+constant:
+  accessibility: 0
+  items:
+  - name: "hydra bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "death rune"
+    minimum: 30
+    maximum: 60
+  - name: "blood rune"
+    minimum: 15
+    maximum: 45
+  - name: "fire rune"
+    minimum: 70
+    maximum: 150
+  - name: "law rune"
+    minimum: 30
+    maximum: 60
+  - name: "water rune"
+    minimum: 70
+    maximum: 150
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 4
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 4
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 4
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 4
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 4
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 4
+  - name: "grimy cadantine"
+    minimum: 1
+    maximum: 4
+  - name: "grimy lantadyme"
+    minimum: 1
+    maximum: 4
+  - name: "grimy dwarf weed"
+    minimum: 1
+    maximum: 4
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 4
+  - name: "strawberry seed"
+    minimum: 1
+    maximum: 1
+  - name: "marrentill seed"
+    minimum: 1
+    maximum: 1
+  - name: "jangerberry seed"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 500
+    maximum: 5000
+  - name: "super combat potion4"
+    minimum: 1
+    maximum: 1
+  - name: "chaos rune"
+    minimum: 20
+    maximum: 50
+uncommon:
+  accessibility: 15
+  items:
+  - name: "fire battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "water battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "rune kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "battlestaff noted"
+    minimum: 1
+    maximum: 3
+  - name: "rune platebody"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe bottom light"
+    minimum: 1
+    maximum: 1
+  - name: "dragon bones noted"
+    minimum: 3
+    maximum: 5
+  - name: "black dhide chaps"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 225
+  items:
+  - name: "dragon thrownaxe"
+    minimum: 200
+    maximum: 350
+  - name: "dragon longsword"
+    minimum: 1
+    maximum: 1
+  - name: "dragon knife"
+    minimum: 200
+    maximum: 350
+very_rare:
+  accessibility: 1100
+  items:
+  - name: "hydras eye"
+    minimum: 1
+    maximum: 1
+  - name: "hydras heart"
+    minimum: 1
+    maximum: 1
+  - name: "hydras fang"
+    minimum: 1
+    maximum: 1
+  - name: "hydra tail"
+    minimum: 1
+    maximum: 1

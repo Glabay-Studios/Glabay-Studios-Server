@@ -1,0 +1,104 @@
+---
+npc_id: 959
+common:
+  accessibility: 1
+  items:
+  - name: "steel axe"
+    minimum: 1
+    maximum: 1
+  - name: "steel battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "mithril sword"
+    minimum: 1
+    maximum: 1
+  - name: "mithril longsword"
+    minimum: 1
+    maximum: 1
+  - name: "mithril axe"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 28
+    maximum: 460
+uncommon:
+  accessibility: 2
+  items:
+  - name: "mithril kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 1
+  - name: "rune 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "rune dagger"
+    minimum: 1
+    maximum: 1
+  - name: "body rune"
+    minimum: 2
+    maximum: 15
+  - name: "cosmic rune"
+    minimum: 2
+    maximum: 8
+  - name: "chaos rune"
+    minimum: 3
+    maximum: 8
+  - name: "death rune"
+    minimum: 3
+    maximum: 45
+  - name: "fire rune"
+    minimum: 7
+    maximum: 10
+  - name: "water rune"
+    minimum: 2
+    maximum: 8
+  - name: "law rune"
+    minimum: 2
+    maximum: 10
+  - name: "nature rune"
+    minimum: 4
+    maximum: 15
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 1
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 1
+  - name: "uncut sapphire"
+    minimum: 1
+    maximum: 1
+  - name: "rune arrow"
+    minimum: 42
+    maximum: 150
+rare:
+  accessibility: 15
+  items:
+  - name: "rune chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "rune sq shield"
+    minimum: 1
+    maximum: 1
+  - name: "rune sword"
+    minimum: 1
+    maximum: 1
+  - name: "grimy dwarf weed"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 60
+  items:
+  - name: "rune platebody"
+    minimum: 1
+    maximum: 1

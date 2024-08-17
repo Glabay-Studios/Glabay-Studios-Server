@@ -1,0 +1,31 @@
+---
+npc_id:
+- 435
+- 3139
+constant:
+  accessibility: 0
+  items:
+  - name: "ashes"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "fire rune"
+    minimum: 25
+    maximum: 75
+  - name: "fire rune"
+    minimum: 25
+    maximum: 75
+  - name: "chaos rune"
+    minimum: 10
+    maximum: 30
+uncommon:
+  accessibility: 20
+  items:
+  - name: "staff of fire"
+    minimum: 1
+    maximum: 1
+  - name: "death rune"
+    minimum: 25
+    maximum: 40

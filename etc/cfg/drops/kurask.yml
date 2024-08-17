@@ -1,0 +1,101 @@
+---
+npc_id: 411
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "nature rune"
+    minimum: 50
+    maximum: 100
+  - name: "death rune"
+    minimum: 30
+    maximum: 60
+  - name: "mind rune"
+    minimum: 100
+    maximum: 200
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 1
+  - name: "white berries noted"
+    minimum: 12
+    maximum: 20
+  - name: "limpwurt root noted"
+    minimum: 12
+    maximum: 20
+  - name: "flax noted"
+    minimum: 75
+    maximum: 75
+  - name: "lobster"
+    minimum: 2
+    maximum: 3
+uncommon:
+  accessibility: 2
+  items:
+  - name: "adamant platebody"
+    minimum: 1
+    maximum: 1
+  - name: "mithril kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "mithril axe"
+    minimum: 1
+    maximum: 1
+  - name: "rune longsword"
+    minimum: 1
+    maximum: 1
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 1
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 1
+  - name: "grimy kwuarm"
+    minimum: 1
+    maximum: 1
+  - name: "grimy cadantine"
+    minimum: 1
+    maximum: 1
+  - name: "grimy dwarf weed"
+    minimum: 1
+    maximum: 1
+  - name: "rune dagger"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 20
+  items:
+  - name: "leaf bladed spear"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe top"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe top dark"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe top light"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 512
+  items:
+    - name: "leaf bladed battleaxe"
+      minimum: 1
+      maximum: 1

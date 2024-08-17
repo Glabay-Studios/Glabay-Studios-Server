@@ -1,0 +1,65 @@
+---
+npc_id: 6615
+constant:
+  accessibility: 0
+  items:
+  - item: 2996
+    maximum: 1
+    minimum: 1
+common:
+  accessibility: 3
+  items:
+  - name: "rune spear"
+    minimum: 1
+    maximum: 1
+  - name: "rune pickaxe"
+    minimum: 1
+    maximum: 1
+  - name: "rune sword"
+    minimum: 1
+    maximum: 1
+  - name: "rune axe"
+    minimum: 1
+    maximum: 1
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "rune chainbody"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 35
+  items:
+  - name: "coins"
+    minimum: 20000
+    maximum: 800000
+  - name: "archaic emblem tier 3"
+    minimum: 1
+    maximum: 1
+  - name: "shark noted"
+    minimum: 1
+    maximum: 58
+  - name: "lobster"
+    minimum: 1
+    maximum: 1
+  - name: "shark"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 75
+  items:
+  - item: 4185
+    maximum: 3
+    minimum: 2
+  - item: 6792
+    maximum: 3
+    minimum: 2
+very_rare:
+  accessibility: 150
+  items:
+  - name: "odium ward"
+    minimum: 1
+    maximum: 1
+  - name: "dragon pickaxe"
+    minimum: 1
+    maximum: 1

@@ -1,0 +1,80 @@
+---
+npc_id: 2245
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "bronze sq shield"
+    minimum: 1
+    maximum: 1
+  - name: "water rune"
+    minimum: 6
+    maximum: 6
+  - name: "mind rune"
+    minimum: 1
+    maximum: 2
+  - name: "body rune"
+    minimum: 2
+    maximum: 7
+  - name: "coins"
+    minimum: 1
+    maximum: 24
+  - name: "bronze axe"
+    minimum: 1
+    maximum: 1
+  - name: "red cape"
+    minimum: 1
+    maximum: 1
+  - name: "chefs hat"
+    minimum: 1
+    maximum: 1
+  - name: "grapes"
+    minimum: 1
+    maximum: 1
+  - name: "beer"
+    minimum: 1
+    maximum: 1
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 2
+  items:
+  - name: "bronze scimitar"
+    minimum: 1
+    maximum: 1
+  - name: "bronze spear"
+    minimum: 1
+    maximum: 1
+  - name: "bronze javelin"
+    minimum: 1
+    maximum: 1
+  - name: "earth rune"
+    minimum: 4
+    maximum: 4
+rare:
+  accessibility: 5
+  items:
+  - name: "bronze kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "staff of air"
+    minimum: 1
+    maximum: 1
+  - name: "chaos rune"
+    minimum: 1
+    maximum: 1
+  - name: "nature rune"
+    minimum: 1
+    maximum: 1

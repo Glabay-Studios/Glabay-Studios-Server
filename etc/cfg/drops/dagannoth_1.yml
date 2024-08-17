@@ -1,0 +1,109 @@
+---
+npc_id:
+- 970
+- 975
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "bronze spear"
+    minimum: 1
+    maximum: 1
+  - name: "iron spear"
+    minimum: 1
+    maximum: 1
+  - name: "steel arrow"
+    minimum: 1
+    maximum: 1
+  - name: "harpoon"
+    minimum: 1
+    maximum: 1
+  - name: "lobster pot"
+    minimum: 1
+    maximum: 1
+  - name: "fishing bait"
+    minimum: 15
+    maximum: 50
+  - name: "feather"
+    minimum: 5
+    maximum: 20
+  - name: "raw sardine"
+    minimum: 1
+    maximum: 3
+  - name: "raw herring"
+    minimum: 1
+    maximum: 2
+  - name: "seaweed"
+    minimum: 1
+    maximum: 10
+  - name: "oyster pearls"
+    minimum: 1
+    maximum: 2
+  - name: "raw shrimps"
+    minimum: 1
+    maximum: 1
+  - name: "water rune"
+    minimum: 1
+    maximum: 15
+  - name: "coins"
+    minimum: 20
+    maximum: 80
+uncommon:
+  accessibility: 10
+  items:
+  - name: "mithril spear"
+    minimum: 1
+    maximum: 1
+  - name: "mithril javelin"
+    minimum: 1
+    maximum: 3
+  - name: "toadflax seed"
+    minimum: 1
+    maximum: 1
+  - name: "irit seed"
+    minimum: 1
+    maximum: 1
+  - name: "belladonna seed"
+    minimum: 1
+    maximum: 1
+  - name: "raw tuna"
+    minimum: 1
+    maximum: 1
+  - name: "casket"
+    minimum: 1
+    maximum: 1
+  - name: "opal bolt tips"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 75
+  items:
+  - name: "poison ivy seed"
+    minimum: 1
+    maximum: 1
+  - name: "cactus seed"
+    minimum: 1
+    maximum: 1
+  - name: "avantoe seed"
+    minimum: 1
+    maximum: 1
+  - name: "kwuarm seed"
+    minimum: 1
+    maximum: 1
+  - name: "snapdragon seed"
+    minimum: 1
+    maximum: 1
+  - name: "cadantine seed"
+    minimum: 1
+    maximum: 1
+  - name: "lantadyme seed"
+    minimum: 1
+    maximum: 1
+  - name: "dwarf weed seed"
+    minimum: 1
+    maximum: 1

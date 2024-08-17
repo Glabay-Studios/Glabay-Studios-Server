@@ -1,0 +1,249 @@
+[
+  {
+    "question": "My new question!",
+    "hours": 13,
+    "totalVotes": 1,
+    "answers": [
+      "Answer one",
+      "Answer two",
+      "Answer three"
+    ],
+    "votes": [
+      0,
+      1,
+      0
+    ],
+    "voters": [
+      "g22"
+    ],
+    "startTime": 1581367360433
+  },
+  {
+    "question": "My new question!",
+    "hours": 13,
+    "totalVotes": 1,
+    "answers": [
+      "Answer one",
+      "Answer two",
+      "Answer three"
+    ],
+    "votes": [
+      1,
+      0,
+      0
+    ],
+    "voters": [
+      "g22"
+    ],
+    "startTime": 1581367949201,
+    "right": "HC_IRONMAN"
+  },
+  {
+    "question": "Should restricted accounts get the GP reward from outlast?",
+    "hours": 24,
+    "totalVotes": 0,
+    "answers": [
+      "Yes",
+      "No"
+    ],
+    "votes": [
+      0,
+      0
+    ],
+    "voters": [],
+    "startTime": 1582502364982,
+    "right": "PLAYER"
+  },
+  {
+    "question": "Should restricted accounts \n get the GP reward \n from outlast?",
+    "hours": 24,
+    "totalVotes": 0,
+    "answers": [
+      "Yes",
+      "No"
+    ],
+    "votes": [
+      0,
+      0
+    ],
+    "voters": [],
+    "startTime": 1582502416570,
+    "right": "PLAYER"
+  },
+  {
+    "question": "Should restricted accounts /n get the GP reward /n from outlast?",
+    "hours": 24,
+    "totalVotes": 0,
+    "answers": [
+      "Yes",
+      "No"
+    ],
+    "votes": [
+      0,
+      0
+    ],
+    "voters": [],
+    "startTime": 1582502439982,
+    "right": "PLAYER"
+  },
+  {
+    "question": "Should restricted | accounts get the GP | reward from outlast?",
+    "hours": 24,
+    "totalVotes": 23,
+    "answers": [
+      "Yes",
+      "No"
+    ],
+    "votes": [
+      20,
+      3
+    ],
+    "voters": [
+      "tuna sub",
+      "noah",
+      "mira",
+      "trent",
+      "plvnett",
+      "Alty",
+      "sassy",
+      "grizz",
+      "nxt",
+      "plonks",
+      "Crema",
+      "danny pk",
+      "allegations",
+      "dry guy",
+      "ironman",
+      "goats milk",
+      "meercat",
+      "crema",
+      "squa squa",
+      "oxycotton",
+      "hiro",
+      "jax",
+      "Plated ULT"
+    ],
+    "startTime": 1582503857771,
+    "right": "PLAYER"
+  },
+  {
+    "question": "Next Outlast | should be?",
+    "hours": 1,
+    "totalVotes": 17,
+    "answers": [
+      "Dharok",
+      "Monk",
+      "Vesta",
+      "NH"
+    ],
+    "votes": [
+      9,
+      0,
+      3,
+      5
+    ],
+    "voters": [
+      "love of buds",
+      "fe frost",
+      "Oxycotton",
+      "Batti",
+      "IronMan",
+      "Braydon",
+      "noah",
+      "pleb",
+      "unknown user",
+      "XeroMoney",
+      "ctr",
+      "boka",
+      "nice",
+      "zezog",
+      "cheeky worm",
+      "123",
+      "abc"
+    ],
+    "startTime": 1584243974306,
+    "right": "PLAYER"
+  },
+  {
+    "question": "Should sharks be | removed from | consumables store?",
+    "hours": 24,
+    "totalVotes": 63,
+    "answers": [
+      "Yes",
+      "No",
+      "I don\u0027t care."
+    ],
+    "votes": [
+      24,
+      32,
+      7
+    ],
+    "voters": [
+      "noah",
+      "1st place",
+      "Leaf",
+      "neko",
+      "OPEN EYES",
+      "Altyx",
+      "The Irony",
+      "nick",
+      "john gotti",
+      "UIM Alty",
+      "punnin work",
+      "IronMan",
+      "love of buds",
+      "zk main",
+      "show",
+      "Oxycotton",
+      "Urmie",
+      "Riggs",
+      "Droprate",
+      "Volk",
+      "bliss death",
+      "Garoozis",
+      "requiem",
+      "DEMONOWL",
+      "420 Smokers",
+      "xxx",
+      "midnr2",
+      "Morpheus",
+      "Will",
+      "guan",
+      "flafffy",
+      "prock",
+      "william",
+      "rue",
+      "boo",
+      "tteet",
+      "Tangerine",
+      "nemasis",
+      "tielenaartje",
+      "smettha",
+      "wonderboy",
+      "Voicey",
+      "Grizz",
+      "ctr alt",
+      "ratbones29",
+      "9th",
+      "Cloud",
+      "hydra",
+      "carpet",
+      "zuriel",
+      "Cig Bock",
+      "K3 x",
+      "sia",
+      "foe nem",
+      "levlev",
+      "drax",
+      "Dakoda",
+      "tnip",
+      "aune",
+      "rumphite",
+      "riggs",
+      "Error 404",
+      "The Apex"
+    ],
+    "startTime": 1584414879859,
+    "right": "PLAYER"
+  }
+]

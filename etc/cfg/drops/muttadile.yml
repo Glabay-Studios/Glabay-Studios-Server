@@ -1,0 +1,14 @@
+---
+npc_id: 7563
+constant:
+  accessibility: 0
+  items:
+  - name: "shark"
+    minimum: 4
+    maximum: 10
+very_rare:
+  accessibility: 1000
+  items:
+  - name: "puppadile"
+    minimum: 1
+    maximum: 1

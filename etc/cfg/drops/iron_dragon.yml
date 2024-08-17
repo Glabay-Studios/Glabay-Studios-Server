@@ -1,0 +1,83 @@
+---
+npc_id: 273
+constant:
+  accessibility: 0
+  items:
+  - name: "dragon bones"
+    minimum: 1
+    maximum: 1
+  - name: "iron bar noted"
+    minimum: 5
+    maximum: 5
+common:
+  accessibility: 1
+  items:
+  - name: "rune javelin"
+    minimum: 15
+    maximum: 30
+  - name: "adamant battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "adamant axe"
+    minimum: 1
+    maximum: 1
+  - name: "blood rune"
+    minimum: 30
+    maximum: 60
+  - name: "super strength3"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 2
+  items:
+  - name: "adamant 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "adamant sq shield"
+    minimum: 1
+    maximum: 1
+  - name: "rune dart"
+    minimum: 30
+    maximum: 30
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 1
+  - name: "steel pickaxe"
+    minimum: 1
+    maximum: 1
+  - name: "adamant pickaxe"
+    minimum: 1
+    maximum: 1
+  - name: "mithril pickaxe"
+    minimum: 1
+    maximum: 1
+  - name: "adamant bolts"
+    minimum: 10
+    maximum: 30
+  - name: "rune knife"
+    minimum: 15
+    maximum: 25
+  - name: "runite bolts"
+    minimum: 10
+    maximum: 20
+  - name: "runite crossbow u"
+    minimum: 1
+    maximum: 1
+  - name: "adamantite bar noted"
+    minimum: 2
+    maximum: 4
+rare:
+  accessibility: 100
+  items:
+  - name: "dragon plateskirt"
+    minimum: 1
+    maximum: 1
+  - name: "dragon platelegs"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 2500
+  items:
+  - name: "draconic visage"
+    minimum: 1
+    maximum: 1

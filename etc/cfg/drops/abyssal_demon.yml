@@ -1,0 +1,98 @@
+---
+npc_id: 415
+constant:
+  accessibility: 0
+  items:
+  - name: "ashes"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 2
+  items:
+  - name: "black sword"
+    minimum: 1
+    maximum: 1
+  - name: "black axe"
+    minimum: 1
+    maximum: 1
+  - name: "steel battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 1
+  - name: "air rune"
+    minimum: 125
+    maximum: 200
+  - name: "blood rune"
+    minimum: 60
+    maximum: 80
+  - name: "chaos rune"
+    minimum: 90
+    maximum: 115
+  - name: "law rune"
+    minimum: 50
+    maximum: 70
+  - name: "coins"
+    minimum: 7000
+    maximum: 15000
+  - name: "pure essence noted"
+    minimum: 100
+    maximum: 300
+  - name: "adamantite bar noted"
+    minimum: 1
+    maximum: 10
+uncommon:
+  accessibility: 5
+  items:
+  - name: "rune chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 1
+  - name: "rune kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 1
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 1
+  - name: "grimy kwuarm"
+    minimum: 1
+    maximum: 1
+  - name: "grimy cadantine"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 100
+  items:
+  - name: "casket"
+    minimum: 1
+    maximum: 1
+  - name: "abyssal whip"
+    minimum: 1
+    maximum: 1
+  - name: "abyssal head"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 5500
+  items:
+  - name: "abyssal dagger"
+    minimum: 1
+    maximum: 1

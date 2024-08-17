@@ -1,0 +1,8 @@
+---
+npc_id: 7585
+constant:
+  accessibility: 0
+  items:
+  - name: "saradomin brew3"
+    minimum: 1
+    maximum: 3

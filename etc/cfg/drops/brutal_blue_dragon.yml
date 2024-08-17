@@ -1,0 +1,104 @@
+---
+npc_id: 7273
+constant:
+  accessibility: 0
+  items:
+  - name: "dragon bones"
+    minimum: 1
+    maximum: 1
+  - name: "blue dragonhide"
+    minimum: 2
+    maximum: 2
+common:
+  accessibility: 1
+  items:
+  - name: "uncut sapphire"
+    minimum: 1
+    maximum: 1
+  - name: "chaos talisman"
+    minimum: 1
+    maximum: 1
+  - name: "curry"
+    minimum: 1
+    maximum: 2
+  - name: "law rune"
+    minimum: 15
+    maximum: 17
+  - name: "coins"
+    minimum: 3000
+    maximum: 3100
+uncommon:
+  accessibility: 2
+  items:
+  - name: "adamant hasta"
+    minimum: 1
+    maximum: 1
+  - name: "adamant spear"
+    minimum: 1
+    maximum: 1
+  - name: "mithril full helm"
+    minimum: 1
+    maximum: 1
+  - name: "red dhide body"
+    minimum: 1
+    maximum: 1
+  - name: "dragon dart tip"
+    minimum: 20
+    maximum: 60
+  - name: "adamant platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "dragonstone bolts e"
+    minimum: 5
+    maximum: 9
+  - name: "red dhide vamb"
+    minimum: 1
+    maximum: 1
+  - name: "runite ore"
+    minimum: 5
+    maximum: 6
+  - name: "rune arrow"
+    minimum: 15
+    maximum: 25
+  - name: "air rune"
+    minimum: 50
+    maximum: 75
+  - name: "death rune"
+    minimum: 11
+    maximum: 13
+  - name: "chaos rune"
+    minimum: 18
+    maximum: 20
+  - name: "rune knife"
+    minimum: 1
+    maximum: 3
+  - name: "adamantite ore noted"
+    minimum: 1
+    maximum: 15
+rare:
+  accessibility: 6
+  items:
+  - name: "rune longsword"
+    minimum: 1
+    maximum: 1
+  - name: "dragon dagger"
+    minimum: 1
+    maximum: 1
+  - name: "rune platebody"
+    minimum: 1
+    maximum: 1
+  - name: "dragon med helm"
+    minimum: 1
+    maximum: 1
+  - name: "adamant platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "dragon mace"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 2500
+  items:
+  - name: "draconic visage"
+    minimum: 1
+    maximum: 1

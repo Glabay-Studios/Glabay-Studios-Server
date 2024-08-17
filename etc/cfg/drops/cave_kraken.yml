@@ -1,0 +1,86 @@
+---
+npc_id: 492
+common:
+  accessibility: 1
+  items:
+  - name: "staff of water"
+    minimum: 1
+    maximum: 1
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 1
+  - name: "water rune"
+    minimum: 15
+    maximum: 75
+  - name: "fire rune"
+    minimum: 30
+    maximum: 30
+  - name: "death rune"
+    minimum: 30
+    maximum: 30
+  - name: "chaos rune"
+    minimum: 30
+    maximum: 50
+  - name: "old boot"
+    minimum: 1
+    maximum: 1
+  - name: "swamp tar"
+    minimum: 30
+    maximum: 60
+  - name: "seaweed noted"
+    minimum: 30
+    maximum: 30
+uncommon:
+  accessibility: 2
+  items:
+  - name: "adamant spear"
+    minimum: 1
+    maximum: 1
+  - name: "rune warhammer"
+    minimum: 1
+    maximum: 1
+  - name: "battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "water battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 1
+  - name: "blood rune"
+    minimum: 5
+    maximum: 15
+  - name: "coins"
+    minimum: 123
+    maximum: 19770
+  - name: "bucket"
+    minimum: 1
+    maximum: 1
+  - name: "raw lobster noted"
+    minimum: 3
+    maximum: 3
+  - name: "swordfish"
+    minimum: 2
+    maximum: 2
+  - name: "shark"
+    minimum: 1
+    maximum: 1
+  - name: "antidoteplusplus4"
+    minimum: 1
+    maximum: 1
+  - name: "vial of water noted"
+    minimum: 50
+    maximum: 50
+rare:
+  accessibility: 215
+  items:
+  - name: "trident of the seas"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 400
+  items:
+  - name: "kraken tentacle"
+    minimum: 1
+    maximum: 1

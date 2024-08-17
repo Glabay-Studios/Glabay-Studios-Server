@@ -1,0 +1,89 @@
+---
+npc_id: 3169
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+  - name: "feather"
+    minimum: 1
+    maximum: 2500
+common:
+  accessibility: 1
+  items:
+  - name: "air rune"
+    minimum: 150
+    maximum: 300
+  - name: "water rune"
+    minimum: 80
+    maximum: 200
+  - name: "silver ore"
+    minimum: 1
+    maximum: 1
+  - name: "adamantite bar noted"
+    minimum: 5
+    maximum: 20
+uncommon:
+  accessibility: 2
+  items:
+  - name: "law rune"
+    minimum: 10
+    maximum: 10
+  - name: "nature rune"
+    minimum: 9
+    maximum: 30
+  - name: "mind rune"
+    minimum: 500
+    maximum: 800
+  - name: "blood rune"
+    minimum: 11
+    maximum: 25
+  - name: "chaos rune"
+    minimum: 16
+    maximum: 50
+  - name: "body rune"
+    minimum: 30
+    maximum: 250
+  - name: "swordfish noted"
+    minimum: 15
+    maximum: 35
+  - name: "antipoison3 noted"
+    minimum: 5
+    maximum: 15
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 6
+  items:
+  - name: "rune crossbow noted"
+    minimum: 1
+    maximum: 1
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 1
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 1
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 1
+  - name: "grimy kwuarm"
+    minimum: 1
+    maximum: 1
+  - name: "grimy cadantine"
+    minimum: 1
+    maximum: 1
+  - name: "grimy dwarf weed"
+    minimum: 1
+    maximum: 1

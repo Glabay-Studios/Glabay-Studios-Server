@@ -1,0 +1,65 @@
+---
+id: 77
+name: "Vote Shop"
+items:
+- name: "vote crystal"
+- id: 2528
+- name: "ring of wealth"
+- name: "ring of wealth scroll"
+- name: "vote mystery box"
+- name: "team cape zero"
+- name: "team cape x"
+- name: "team cape i"
+- name: "champions cape"
+- name: "music cape"
+- name: "ranger boots"
+- name: "rangers tunic"
+- name: "dwarven rock cake"
+- name: "fire cape"
+
+- name: "frozen whip mix"
+  price: 25
+- name: "volcanic whip mix"
+  price: 25
+- name: "dragon kiteshield ornament kit"
+  price: 25
+- name: "dragon platebody ornament kit"
+  price: 25
+- name: "dragon defender ornament kit"
+  price: 25
+- name: "occult ornament kit"
+  price: 25
+- name: "armadyl godsword ornament kit"
+  price: 25
+- name: "saradomin godsword ornament kit"
+  price: 25
+- name: "bandos godsword ornament kit"
+  price: 25
+- name: "zamorak godsword ornament kit"
+  price: 25
+
+- name: "hill giant club"
+- name: "flippers"
+- name: "giant present"
+- name: "heavy casket"
+- name: "reindeer hat"
+- name: "jack lantern mask"
+- name: "fox"
+- name: "druidic wreath"
+- name: "seren halo"
+- name: "ancient halo"
+- name: "brassica halo"
+- name: "bandos halo"
+- name: "armadyl halo"
+- name: "guthix halo"
+- name: "saradomin halo"
+- name: "zamorak halo"
+- id: 13148
+- name: "demon feet"
+- name: "mole slippers"
+- name: "frog slippers"
+- name: "bear feet"
+- name: "bonus xp scroll"
+- id: 22093
+- name: "goldsmith gauntlets"
+- id: 30023

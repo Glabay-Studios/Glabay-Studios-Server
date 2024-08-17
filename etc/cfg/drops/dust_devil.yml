@@ -1,0 +1,89 @@
+---
+npc_id: 423
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "rune arrow"
+    minimum: 10
+    maximum: 100
+  - name: "fire rune"
+    minimum: 100
+    maximum: 600
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 2
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 2
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 2
+uncommon:
+  accessibility: 5
+  items:
+  - name: "rune dagger"
+    minimum: 1
+    maximum: 1
+  - name: "adamant axe"
+    minimum: 1
+    maximum: 1
+  - name: "red dhide vamb"
+    minimum: 1
+    maximum: 1
+  - name: "black dhide vamb"
+    minimum: 1
+    maximum: 1
+  - name: "chaos rune"
+    minimum: 10
+    maximum: 60
+  - name: "air rune"
+    minimum: 15
+    maximum: 800
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 2
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 2
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 2
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 2
+  - name: "grimy kwuarm"
+    minimum: 1
+    maximum: 2
+  - name: "earth battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "grimy cadantine"
+    minimum: 1
+    maximum: 3
+  - name: "grimy dwarf weed"
+    minimum: 1
+    maximum: 3
+  - name: "grimy torstol"
+    minimum: 1
+    maximum: 3
+  - name: "grimy lantadyme"
+    minimum: 1
+    maximum: 3
+rare:
+  accessibility: 1000
+  items:
+  - name: "dust battlestaff"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 2000
+  items:
+  - name: "dragon chainbody"
+    minimum: 1
+    maximum: 1

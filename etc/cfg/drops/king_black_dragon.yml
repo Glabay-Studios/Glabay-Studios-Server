@@ -1,0 +1,86 @@
+---
+npc_id: 239
+constant:
+  accessibility: 0
+  items:
+  - name: "dragon bones"
+    minimum: 1
+    maximum: 1
+  - name: "black dragonhide"
+    minimum: 2
+    maximum: 2
+common:
+  accessibility: 1
+  items:
+  - name: "rune longsword"
+    minimum: 1
+    maximum: 1
+  - name: "adamant platebody"
+    minimum: 1
+    maximum: 1
+  - name: "adamant kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "fire rune"
+    minimum: 500
+    maximum: 1500
+  - name: "air rune"
+    minimum: 500
+    maximum: 1500
+  - name: "blood rune"
+    minimum: 50
+    maximum: 400
+  - name: "iron arrow"
+    minimum: 700
+    maximum: 900
+  - name: "law rune"
+    minimum: 50
+    maximum: 350
+  - name: "yew logs noted"
+    minimum: 175
+    maximum: 275
+uncommon:
+  accessibility: 2
+  items:
+  - name: "dragon med helm"
+    minimum: 1
+    maximum: 1
+  - name: "dragon scimitar"
+    minimum: 1
+    maximum: 1
+  - name: "runite bolts"
+    minimum: 25
+    maximum: 50
+  - name: "dragon dart tip"
+    minimum: 15
+    maximum: 30
+  - name: "dragon arrowtips"
+    minimum: 15
+    maximum: 30
+  - name: "shark"
+    minimum: 4
+    maximum: 4
+  - name: "gold ore noted"
+    minimum: 125
+    maximum: 125
+  - name: "runite crossbow u"
+    minimum: 1
+    maximum: 1
+  - name: "adamantite bar noted"
+    minimum: 3
+    maximum: 3
+rare:
+  accessibility: 150
+  items:
+  - name: "dragon pickaxe"
+    minimum: 1
+    maximum: 1
+  - name: "kbd heads"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 1000
+  items:
+  - name: "draconic visage"
+    minimum: 1
+    maximum: 1

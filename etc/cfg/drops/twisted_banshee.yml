@@ -1,0 +1,62 @@
+---
+npc_id: 7272
+common:
+  accessibility: 3
+  items:
+  - name: "air rune"
+    minimum: 80
+    maximum: 120
+  - name: "fire rune"
+    minimum: 70
+    maximum: 200
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 4
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 4
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 4
+  - name: "pure essence noted"
+    minimum: 25
+    maximum: 100
+uncommon:
+  accessibility: 10
+  items:
+  - name: "cosmic rune"
+    minimum: 20
+    maximum: 50
+  - name: "chaos rune"
+    minimum: 30
+    maximum: 80
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 4
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 4
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 4
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 4
+  - name: "grimy kwuarm"
+    minimum: 1
+    maximum: 4
+rare:
+  accessibility: 20
+  items:
+  - name: "grimy cadantine"
+    minimum: 1
+    maximum: 5
+  - name: "grimy dwarf weed"
+    minimum: 1
+    maximum: 5
+  - name: "grimy torstol"
+    minimum: 1
+    maximum: 5
+  - name: "grimy lantadyme"
+    minimum: 1
+    maximum: 5

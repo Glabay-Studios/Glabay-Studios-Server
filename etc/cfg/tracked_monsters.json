@@ -1,0 +1,301 @@
+[
+  {
+    "name": "Theatre of Blood",
+    "trackKillTime": true
+  },
+  {
+    "name": "Chambers of Xeric",
+    "trackKillTime": true
+  },
+  {
+    "name": "commander zilyana",
+    "trackKillTime": true
+  },
+  {
+    "name": "alchemical hydra",
+    "trackKillTime": true
+  },
+  {
+    "name": "cerberus",
+    "trackKillTime": true
+  },
+  {
+    "name": "sarachnis",
+    "trackKillTime": true
+  },
+  {
+    "name": "dusk",
+    "trackKillTime": true
+  },
+  {
+    "name": "cave kraken",
+    "trackKillTime": true
+  },
+  {
+    "name": "crazy archaeologist",
+    "trackKillTime": true
+  },
+  {
+    "name": "chaos fanatic",
+    "trackKillTime": true
+  },
+  {
+    "name": "chaos elemental",
+    "trackKillTime": true
+  },
+  {
+    "name": "venenatis",
+    "trackKillTime": true
+  },
+  {
+    "name": "scorpia",
+    "trackKillTime": true
+  },
+  {
+    "name": "callisto",
+    "trackKillTime": true
+  },
+  {
+    "name": "vet'ion",
+    "trackKillTime": true
+  },
+  {
+    "name": "tztok-jad",
+    "trackKillTime": true
+  },
+  {
+    "name": "dagannoth rex",
+    "trackKillTime": true
+  },
+  {
+    "name": "dagannoth prime",
+    "trackKillTime": true
+  },
+  {
+    "name": "dagannoth supreme",
+    "trackKillTime": true
+  },
+  {
+    "name": "kalphite queen",
+    "trackKillTime": true
+  },
+  {
+    "name": "zulrah",
+    "trackKillTime": true
+  },
+  {
+    "name": "giant mole",
+    "trackKillTime": true
+  },
+  {
+    "name": "barrelchest",
+    "trackKillTime": true
+  },
+  {
+    "name": "king black dragon",
+    "trackKillTime": true
+  },
+  {
+    "name": "thermonuclear smoke devil",
+    "trackKillTime": true
+  },
+  {
+    "name": "k'ril tsutsaroth",
+    "trackKillTime": true
+  },
+  {
+    "name": "general graardor",
+    "trackKillTime": true
+  },
+  {
+    "name": "kree'arra",
+    "trackKillTime": true
+  },
+  {
+    "name": "the nightmare",
+    "trackKillTime": true
+  },
+  {
+    "name": "abyssal sire",
+    "trackKillTime": true
+  },
+  {
+    "name": "vorkath",
+    "trackKillTime": true
+  },
+  {
+    "name": "skotizo",
+    "trackKillTime": true
+  },
+  {
+    "name": "kraken",
+    "trackKillTime": true
+  },
+  {
+    "name": "crystalline hunllef",
+    "trackKillTime": true
+  },
+
+
+
+  {
+    "name": "revenant demon",
+    "trackKillTime": false
+  },
+  {
+    "name": "crystalline scorpion",
+    "trackKillTime": false
+  },
+  {
+    "name": "ahrim the blighted",
+    "trackKillTime": false
+  },
+  {
+    "name": "demonic gorilla",
+    "trackKillTime": false
+  },
+  {
+    "name": "crystalline unicorn",
+    "trackKillTime": false
+  },
+  {
+    "name": "adamant dragon",
+    "trackKillTime": false
+  },
+  {
+    "name": "great olm",
+    "trackKillTime": true
+  },
+  {
+    "name": "rune dragon",
+    "trackKillTime": false
+  },
+  {
+    "name": "crystalline rat",
+    "trackKillTime": false
+  },
+  {
+    "name": "bloodveld",
+    "trackKillTime": false
+  },
+  {
+    "name": "cave kraken",
+    "trackKillTime": false
+  },
+  {
+    "name": "revenant pyrefiend",
+    "trackKillTime": false
+  },
+  {
+    "name": "lava dragon",
+    "trackKillTime": false
+  },
+  {
+    "name": "crystalline bat",
+    "trackKillTime": false
+  },
+  {
+    "name": "guthan the infested",
+    "trackKillTime": false
+  },
+  {
+    "name": "revenant ork",
+    "trackKillTime": false
+  },
+  {
+    "name": "torag the corrupted",
+    "trackKillTime": false
+  },
+  {
+    "name": "crystalline spider",
+    "trackKillTime": false
+  },
+  {
+    "name": "nechryael",
+    "trackKillTime": false
+  },
+  {
+    "name": "dark beast",
+    "trackKillTime": false
+  },
+  {
+    "name": "crystalline bear",
+    "trackKillTime": false
+  },
+  {
+    "name": "hellhound",
+    "trackKillTime": false
+  },
+  {
+    "name": "brutal black dragon",
+    "trackKillTime": false
+  },
+  {
+    "name": "cave horror",
+    "trackKillTime": false
+  },
+  {
+    "name": "crystalline dragon",
+    "trackKillTime": false
+  },
+  {
+    "name": "dharok the wretched",
+    "trackKillTime": false
+  },
+  {
+    "name": "revenant goblin",
+    "trackKillTime": false
+  },
+  {
+    "name": "dust devil",
+    "trackKillTime": false
+  },
+  {
+    "name": "smoke devil",
+    "trackKillTime": false
+  },
+  {
+    "name": "abyssal demon",
+    "trackKillTime": false
+  },
+  {
+    "name": "mithril dragon",
+    "trackKillTime": false
+  },
+  {
+    "name": "gargoyle",
+    "trackKillTime": false
+  },
+  {
+    "name": "revenant dragon",
+    "trackKillTime": false
+  },
+  {
+    "name": "crystalline wolf",
+    "trackKillTime": false
+  },
+  {
+    "name": "karil the tainted",
+    "trackKillTime": false
+  },
+  {
+    "name": "lizardman shaman",
+    "trackKillTime": false
+  },
+  {
+    "name": "blue dragon",
+    "trackKillTime": false
+  },
+  {
+    "name": "elf warrior",
+    "trackKillTime": false
+  },
+  {
+    "name": "obor",
+    "trackKillTime": true
+  },
+  {
+    "name": "bryophyata",
+    "trackKillTime": true
+  }
+]

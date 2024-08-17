@@ -1,0 +1,10 @@
+{
+  "question": "Should sharks be | removed from | consumables store?",
+  "hours": 24,
+  "answers": [
+    "Yes",
+    "No",
+    "I don't care."
+  ],
+  "right": "PLAYER"
+}

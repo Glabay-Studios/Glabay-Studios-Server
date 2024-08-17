@@ -1,0 +1,92 @@
+---
+npc_id: 6610
+common:
+  accessibility: 1
+  items:
+  - name: "rune pickaxe"
+    minimum: 1
+    maximum: 1
+  - name: "uncut ruby noted"
+    minimum: 5
+    maximum: 25
+  - name: "uncut diamond noted"
+    minimum: 5
+    maximum: 25
+  - name: "dark crab"
+    minimum: 8
+    maximum: 8
+  - name: "super restore4"
+    minimum: 3
+    maximum: 3
+uncommon:
+  accessibility: 5
+  items:
+  - name: "diamond bolts e"
+    minimum: 100
+    maximum: 300
+  - name: "rune 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "limpwurt root noted"
+    minimum: 100
+    maximum: 100
+  - name: "red spiders eggs noted"
+    minimum: 500
+    maximum: 500
+  - name: "gold ore noted"
+    minimum: 350
+    maximum: 350
+  - name: "grimy snapdragon noted"
+    minimum: 25
+    maximum: 25
+  - name: "magic logs noted"
+    minimum: 25
+    maximum: 25
+  - name: "uncut dragonstone"
+    minimum: 1
+    maximum: 1
+  - name: "onyx bolt tips"
+    minimum: 60
+    maximum: 60
+  - name: "archaic emblem tier 1"
+    minimum: 1
+    maximum: 1
+  - name: "chaos rune"
+    minimum: 500
+    maximum: 1000
+  - name: "death rune"
+    minimum: 350
+    maximum: 750
+  - name: "blood rune"
+    minimum: 215
+    maximum: 615
+rare:
+  accessibility: 125
+  items:
+  - name: "treasonous ring"
+    minimum: 1
+    maximum: 1
+  - name: "mystic smoke staff"
+    minimum: 1
+    maximum: 1
+  - name: "mystic steam staff"
+    minimum: 1
+    maximum: 1
+  - name: "casket"
+    minimum: 1
+    maximum: 1
+  - name: "dragon pickaxe"
+    minimum: 1
+    maximum: 1
+  - name: "dragon 2h sword"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 75
+  items:
+  - item: 4185
+    maximum: 3
+    minimum: 2
+  - item: 6792
+    maximum: 3
+    minimum: 2

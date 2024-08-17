@@ -1,0 +1,68 @@
+---
+npc_id: 6342
+constant:
+  accessibility: 0
+  items: []
+common:
+  accessibility: 1
+  items:
+  - name: "runite bar"
+    minimum: 1
+    maximum: 1
+  - name: "rune 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "uncut dragonstone noted"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 15000
+    maximum: 25000
+  - name: "coal noted"
+    minimum: 50
+    maximum: 50
+  - name: "iron ore noted"
+    minimum: 70
+    maximum: 70
+uncommon:
+  accessibility: 5
+  items:
+  - name: "dragon med helm"
+    minimum: 1
+    maximum: 1
+  - name: "death rune"
+    minimum: 150
+    maximum: 320
+  - name: "law rune"
+    minimum: 60
+    maximum: 300
+  - name: "blood rune"
+    minimum: 65
+    maximum: 150
+  - name: "ranarr seed"
+    minimum: 1
+    maximum: 15
+rare:
+  accessibility: 25
+  items:
+  - name: "granite shield"
+    minimum: 1
+    maximum: 1
+  - name: "granite body"
+    minimum: 1
+    maximum: 1
+  - name: "granite helm"
+    minimum: 1
+    maximum: 1
+  - name: "granite legs"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 100
+  items:
+  - name: "barrelchest anchor"
+    minimum: 1
+    maximum: 1

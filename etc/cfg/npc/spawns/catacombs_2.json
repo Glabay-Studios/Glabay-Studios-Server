@@ -1,0 +1,2423 @@
+[
+  {
+    "id": 7283,
+    "position": {
+      "x": 1666,
+      "y": 10048,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1669,
+      "y": 10052,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1675,
+      "y": 10059,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1677,
+      "y": 10059,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1678,
+      "y": 10056,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1652,
+      "y": 10037,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1650,
+      "y": 10037,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1655,
+      "y": 10039,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 135,
+    "position": {
+      "x": 1652,
+      "y": 10062,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1663,
+      "y": 10063,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1663,
+      "y": 10065,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1681,
+      "y": 10063,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1686,
+      "y": 10051,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1686,
+      "y": 10046,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1687,
+      "y": 10055,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1687,
+      "y": 10060,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1691,
+      "y": 10061,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1691,
+      "y": 10063,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1696,
+      "y": 10065,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1700,
+      "y": 10065,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1695,
+      "y": 10066,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1696,
+      "y": 10066,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1694,
+      "y": 10065,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2006,
+    "position": {
+      "x": 1703,
+      "y": 10063,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7276,
+    "position": {
+      "x": 1683,
+      "y": 10075,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7276,
+    "position": {
+      "x": 1689,
+      "y": 10075,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1710,
+      "y": 10048,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1711,
+      "y": 10050,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1692,
+      "y": 10076,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2006,
+    "position": {
+      "x": 1713,
+      "y": 10068,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1692,
+      "y": 10078,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1714,
+      "y": 10049,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2006,
+    "position": {
+      "x": 1715,
+      "y": 10068,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2006,
+    "position": {
+      "x": 1716,
+      "y": 10061,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2006,
+    "position": {
+      "x": 1717,
+      "y": 10063,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1718,
+      "y": 10061,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1718,
+      "y": 10052,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1718,
+      "y": 10048,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1705,
+      "y": 10079,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 1432,
+    "position": {
+      "x": 1719,
+      "y": 10079,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2006,
+    "position": {
+      "x": 1720,
+      "y": 10074,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2006,
+    "position": {
+      "x": 1720,
+      "y": 10072,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2006,
+    "position": {
+      "x": 1721,
+      "y": 10063,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1706,
+      "y": 10079,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1701,
+      "y": 10080,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1702,
+      "y": 10081,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1716,
+      "y": 10050,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1725,
+      "y": 10048,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1721,
+      "y": 10047,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 423,
+    "position": {
+      "x": 1711,
+      "y": 10034,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 423,
+    "position": {
+      "x": 1713,
+      "y": 10030,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 423,
+    "position": {
+      "x": 1718,
+      "y": 10029,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 423,
+    "position": {
+      "x": 1717,
+      "y": 10029,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 423,
+    "position": {
+      "x": 1713,
+      "y": 10029,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1694,
+      "y": 10019,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1692,
+      "y": 10019,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 423,
+    "position": {
+      "x": 1708,
+      "y": 10018,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 423,
+    "position": {
+      "x": 1712,
+      "y": 10019,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 423,
+    "position": {
+      "x": 1714,
+      "y": 10019,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 423,
+    "position": {
+      "x": 1716,
+      "y": 10017,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 423,
+    "position": {
+      "x": 1715,
+      "y": 10014,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 423,
+    "position": {
+      "x": 1712,
+      "y": 10015,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 423,
+    "position": {
+      "x": 1710,
+      "y": 10014,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 423,
+    "position": {
+      "x": 1711,
+      "y": 10016,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1690,
+      "y": 10015,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1687,
+      "y": 10014,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1692,
+      "y": 10012,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1689,
+      "y": 10010,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1690,
+      "y": 10005,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1687,
+      "y": 10003,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1690,
+      "y": 10002,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1684,
+      "y": 10000,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1684,
+      "y": 9999,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1688,
+      "y": 9997,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1676,
+      "y": 9997,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1677,
+      "y": 9996,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1676,
+      "y": 9995,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7277,
+    "position": {
+      "x": 1685,
+      "y": 9994,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1673,
+      "y": 10001,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1669,
+      "y": 9997,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1668,
+      "y": 9993,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1667,
+      "y": 9998,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1667,
+      "y": 10002,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1663,
+      "y": 10001,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1662,
+      "y": 9996,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1662,
+      "y": 9995,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1660,
+      "y": 9994,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1661,
+      "y": 9998,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1659,
+      "y": 9994,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 975,
+    "position": {
+      "x": 1659,
+      "y": 9992,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7279,
+    "position": {
+      "x": 1659,
+      "y": 9987,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7279,
+    "position": {
+      "x": 1658,
+      "y": 9989,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7279,
+    "position": {
+      "x": 1657,
+      "y": 9990,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1655,
+      "y": 10012,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1651,
+      "y": 10011,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2514,
+    "position": {
+      "x": 1650,
+      "y": 9998,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1659,
+      "y": 10014,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2514,
+    "position": {
+      "x": 1648,
+      "y": 9995,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2514,
+    "position": {
+      "x": 1648,
+      "y": 9999,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7279,
+    "position": {
+      "x": 1648,
+      "y": 9992,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1658,
+      "y": 10015,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2514,
+    "position": {
+      "x": 1647,
+      "y": 9995,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1646,
+      "y": 10010,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1647,
+      "y": 10012,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2514,
+    "position": {
+      "x": 1646,
+      "y": 9995,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2514,
+    "position": {
+      "x": 1645,
+      "y": 9992,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7269,
+    "position": {
+      "x": 1644,
+      "y": 10012,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2514,
+    "position": {
+      "x": 1639,
+      "y": 9989,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2514,
+    "position": {
+      "x": 1638,
+      "y": 9994,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2514,
+    "position": {
+      "x": 1638,
+      "y": 9990,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2514,
+    "position": {
+      "x": 1637,
+      "y": 9997,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1634,
+      "y": 10008,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7258,
+    "position": {
+      "x": 1627,
+      "y": 10004,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7279,
+    "position": {
+      "x": 1625,
+      "y": 10004,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7272,
+    "position": {
+      "x": 1626,
+      "y": 9994,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7272,
+    "position": {
+      "x": 1625,
+      "y": 9991,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7272,
+    "position": {
+      "x": 1622,
+      "y": 9992,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7272,
+    "position": {
+      "x": 1612,
+      "y": 9995,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7272,
+    "position": {
+      "x": 1609,
+      "y": 9999,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7272,
+    "position": {
+      "x": 1608,
+      "y": 9993,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1635,
+      "y": 10009,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7279,
+    "position": {
+      "x": 1608,
+      "y": 10010,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7258,
+    "position": {
+      "x": 1610,
+      "y": 10011,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7279,
+    "position": {
+      "x": 1608,
+      "y": 10011,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7279,
+    "position": {
+      "x": 1620,
+      "y": 10011,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7258,
+    "position": {
+      "x": 1610,
+      "y": 10012,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7279,
+    "position": {
+      "x": 1602,
+      "y": 10012,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7279,
+    "position": {
+      "x": 1619,
+      "y": 10012,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7279,
+    "position": {
+      "x": 1603,
+      "y": 10012,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7279,
+    "position": {
+      "x": 1607,
+      "y": 10013,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7258,
+    "position": {
+      "x": 1608,
+      "y": 10015,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7258,
+    "position": {
+      "x": 1617,
+      "y": 10019,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7258,
+    "position": {
+      "x": 1606,
+      "y": 10024,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1638,
+      "y": 10009,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7276,
+    "position": {
+      "x": 1676,
+      "y": 10071,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7276,
+    "position": {
+      "x": 1678,
+      "y": 10072,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1663,
+      "y": 10032,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 135,
+    "position": {
+      "x": 1649,
+      "y": 10058,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1648,
+      "y": 10035,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 70,
+    "position": {
+      "x": 1648,
+      "y": 10057,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 135,
+    "position": {
+      "x": 1648,
+      "y": 10061,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 70,
+    "position": {
+      "x": 1646,
+      "y": 10048,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 135,
+    "position": {
+      "x": 1646,
+      "y": 10063,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 70,
+    "position": {
+      "x": 1646,
+      "y": 10048,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1663,
+      "y": 10031,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1664,
+      "y": 10026,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1666,
+      "y": 10026,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1664,
+      "y": 10025,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1654,
+      "y": 10025,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1652,
+      "y": 10024,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 85,
+    "position": {
+      "x": 1668,
+      "y": 10023,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1653,
+      "y": 10022,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1649,
+      "y": 10021,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7269,
+    "position": {
+      "x": 1647,
+      "y": 10018,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7268,
+    "position": {
+      "x": 1640,
+      "y": 10030,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7268,
+    "position": {
+      "x": 1640,
+      "y": 10031,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7269,
+    "position": {
+      "x": 1641,
+      "y": 10036,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7268,
+    "position": {
+      "x": 1640,
+      "y": 10033,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1640,
+      "y": 10019,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7268,
+    "position": {
+      "x": 1638,
+      "y": 10037,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7269,
+    "position": {
+      "x": 1636,
+      "y": 10030,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1635,
+      "y": 10031,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1632,
+      "y": 10016,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1635,
+      "y": 10031,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1628,
+      "y": 10031,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1630,
+      "y": 10031,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1626,
+      "y": 10033,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7258,
+    "position": {
+      "x": 1608,
+      "y": 10026,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2235,
+    "position": {
+      "x": 1629,
+      "y": 10032,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7258,
+    "position": {
+      "x": 1603,
+      "y": 10039,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7258,
+    "position": {
+      "x": 1605,
+      "y": 10042,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7258,
+    "position": {
+      "x": 1604,
+      "y": 10044,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7258,
+    "position": {
+      "x": 1604,
+      "y": 10045,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 274,
+    "position": {
+      "x": 1609,
+      "y": 10050,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 4005,
+    "position": {
+      "x": 1620,
+      "y": 10053,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 274,
+    "position": {
+      "x": 1608,
+      "y": 10055,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 4005,
+    "position": {
+      "x": 1622,
+      "y": 10056,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 4005,
+    "position": {
+      "x": 1625,
+      "y": 10064,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7274,
+    "position": {
+      "x": 1617,
+      "y": 10073,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7274,
+    "position": {
+      "x": 1612,
+      "y": 10075,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7274,
+    "position": {
+      "x": 1616,
+      "y": 10077,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7273,
+    "position": {
+      "x": 1628,
+      "y": 10071,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7275,
+    "position": {
+      "x": 1611,
+      "y": 10090,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7275,
+    "position": {
+      "x": 1617,
+      "y": 10091,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7275,
+    "position": {
+      "x": 1618,
+      "y": 10096,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7275,
+    "position": {
+      "x": 1612,
+      "y": 10097,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7273,
+    "position": {
+      "x": 1630,
+      "y": 10078,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2084,
+    "position": {
+      "x": 1631,
+      "y": 10067,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2827,
+    "position": {
+      "x": 1548,
+      "y": 3777,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 3019,
+    "position": {
+      "x": 1551,
+      "y": 3778,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2854,
+    "position": {
+      "x": 1555,
+      "y": 3792,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 1405,
+    "position": {
+      "x": 1547,
+      "y": 3806,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 3019,
+    "position": {
+      "x": 1555,
+      "y": 3806,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 1401,
+    "position": {
+      "x": 1552,
+      "y": 3795,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 1402,
+    "position": {
+      "x": 1552,
+      "y": 3782,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2854,
+    "position": {
+      "x": 1552,
+      "y": 3797,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 3019,
+    "position": {
+      "x": 1576,
+      "y": 3801,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2827,
+    "position": {
+      "x": 1549,
+      "y": 3776,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2084,
+    "position": {
+      "x": 1630,
+      "y": 10061,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2084,
+    "position": {
+      "x": 1633,
+      "y": 10059,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 135,
+    "position": {
+      "x": 1637,
+      "y": 10061,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2084,
+    "position": {
+      "x": 1637,
+      "y": 10068,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 135,
+    "position": {
+      "x": 1642,
+      "y": 10063,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 135,
+    "position": {
+      "x": 1644,
+      "y": 10068,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 135,
+    "position": {
+      "x": 1645,
+      "y": 10070,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2084,
+    "position": {
+      "x": 1629,
+      "y": 10054,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2084,
+    "position": {
+      "x": 1628,
+      "y": 10052,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2084,
+    "position": {
+      "x": 1631,
+      "y": 10053,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 70,
+    "position": {
+      "x": 1642,
+      "y": 10051,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 70,
+    "position": {
+      "x": 1635,
+      "y": 10046,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2084,
+    "position": {
+      "x": 1628,
+      "y": 10046,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 70,
+    "position": {
+      "x": 1639,
+      "y": 10043,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7268,
+    "position": {
+      "x": 1649,
+      "y": 10040,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7268,
+    "position": {
+      "x": 1633,
+      "y": 10034,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1663,
+      "y": 10069,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7276,
+    "position": {
+      "x": 1673,
+      "y": 10070,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1661,
+      "y": 10070,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2098,
+    "position": {
+      "x": 1665,
+      "y": 10074,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7276,
+    "position": {
+      "x": 1675,
+      "y": 10075,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7276,
+    "position": {
+      "x": 1678,
+      "y": 10077,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 273,
+    "position": {
+      "x": 1658,
+      "y": 10084,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 273,
+    "position": {
+      "x": 1662,
+      "y": 10084,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 415,
+    "position": {
+      "x": 1677,
+      "y": 10085,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 415,
+    "position": {
+      "x": 1676,
+      "y": 10085,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7244,
+    "position": {
+      "x": 1679,
+      "y": 10085,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 415,
+    "position": {
+      "x": 1674,
+      "y": 10086,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2026,
+    "position": {
+      "x": 1682,
+      "y": 10082,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 415,
+    "position": {
+      "x": 1669,
+      "y": 10086,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 415,
+    "position": {
+      "x": 1676,
+      "y": 10088,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2026,
+    "position": {
+      "x": 1682,
+      "y": 10088,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2026,
+    "position": {
+      "x": 1692,
+      "y": 10088,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1696,
+      "y": 10078,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1696,
+      "y": 10078,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 10,
+    "position": {
+      "x": 1696,
+      "y": 10079,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 10,
+    "position": {
+      "x": 1696,
+      "y": 10079,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 10,
+    "position": {
+      "x": 1696,
+      "y": 10078,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1697,
+      "y": 10079,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 10,
+    "position": {
+      "x": 1697,
+      "y": 10080,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 10,
+    "position": {
+      "x": 1697,
+      "y": 10080,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1691,
+      "y": 10081,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1692,
+      "y": 10083,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 2026,
+    "position": {
+      "x": 1691,
+      "y": 10094,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 415,
+    "position": {
+      "x": 1676,
+      "y": 10094,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1706,
+      "y": 10082,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1709,
+      "y": 10084,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7278,
+    "position": {
+      "x": 1710,
+      "y": 10079,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7244,
+    "position": {
+      "x": 1686,
+      "y": 10095,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7244,
+    "position": {
+      "x": 1690,
+      "y": 10095,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7244,
+    "position": {
+      "x": 1705,
+      "y": 10098,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 10,
+    "position": {
+      "x": 1696,
+      "y": 10080,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7244,
+    "position": {
+      "x": 1712,
+      "y": 10099,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 7244,
+    "position": {
+      "x": 1716,
+      "y": 10099,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 1432,
+    "position": {
+      "x": 1720,
+      "y": 10090,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 1432,
+    "position": {
+      "x": 1720,
+      "y": 10087,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 1432,
+    "position": {
+      "x": 1720,
+      "y": 10082,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 415,
+    "position": {
+      "x": 1675,
+      "y": 10098,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 415,
+    "position": {
+      "x": 1674,
+      "y": 10098,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 415,
+    "position": {
+      "x": 1674,
+      "y": 10093,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 270,
+    "position": {
+      "x": 1651,
+      "y": 10098,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 270,
+    "position": {
+      "x": 1650,
+      "y": 10091,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 270,
+    "position": {
+      "x": 1647,
+      "y": 10096,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1691,
+      "y": 10035,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1686,
+      "y": 10033,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1693,
+      "y": 10033,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1695,
+      "y": 10033,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1691,
+      "y": 10035,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1686,
+      "y": 10033,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1693,
+      "y": 10033,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  },
+  {
+    "id": 891,
+    "position": {
+      "x": 1695,
+      "y": 10033,
+      "height": 4
+    },
+    "walkingType": "WALK"
+  }
+]

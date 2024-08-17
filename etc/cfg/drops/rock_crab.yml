@@ -1,0 +1,19 @@
+---
+npc_id:
+- 100
+- 5935
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 10
+  items:
+  - name: "coins"
+    minimum: 1000
+    maximum: 5000
+  - name: "uncut sapphire"
+    minimum: 1
+    maximum: 1

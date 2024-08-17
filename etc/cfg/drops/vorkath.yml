@@ -1,0 +1,158 @@
+---
+npc_id: 8028
+constant:
+  accessibility: 0
+  items:
+  - name: "superior dragon bones"
+    minimum: 1
+    maximum: 1
+  - name: "blue dragonhide"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "rune longsword"
+    minimum: 2
+    maximum: 3
+  - name: "rune kiteshield"
+    minimum: 2
+    maximum: 3
+  - name: "chaos rune"
+    minimum: 700
+    maximum: 1000
+  - name: "green dragonhide noted"
+    minimum: 14
+    maximum: 32
+  - name: "blue dragonhide noted"
+    minimum: 11
+    maximum: 32
+  - name: "adamantite ore noted"
+    minimum: 10
+    maximum: 30
+  - name: "diamond noted"
+    minimum: 10
+    maximum: 30
+  - name: "crushed nest noted"
+    minimum: 10
+    maximum: 30
+  - name: "grapes noted"
+    minimum: 250
+    maximum: 300
+  - name: "magic logs noted"
+    minimum: 50
+    maximum: 50
+  - name: "coins"
+    minimum: 37000
+    maximum: 86000
+  - name: "manta ray noted"
+    minimum: 25
+    maximum: 55
+uncommon:
+  accessibility: 1
+  items:
+  - name: "crushed superior dragon bones"
+    minimum: 1
+    maximum: 2
+  - name: "dragon bolts unf"
+    minimum: 55
+    maximum: 95
+  - name: "wrath talisman"
+    minimum: 1
+    maximum: 1
+  - name: "dragon battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "dragon longsword"
+    minimum: 1
+    maximum: 1
+  - name: "dragon platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "dragon plateskirt"
+    minimum: 1
+    maximum: 1
+  - name: "death rune"
+    minimum: 300
+    maximum: 700
+  - name: "red dragonhide noted"
+    minimum: 10
+    maximum: 25
+  - name: "black dragonhide noted"
+    minimum: 5
+    maximum: 25
+  - name: "emerald bolt tips"
+    minimum: 25
+    maximum: 35
+  - name: "ruby bolt tips"
+    minimum: 31
+    maximum: 31
+  - name: "diamond bolt tips"
+    minimum: 30
+    maximum: 30
+  - name: "dragonstone bolt tips"
+    minimum: 7
+    maximum: 28
+  - name: "onyx bolt tips"
+    minimum: 5
+    maximum: 10
+  - name: "wrath rune"
+    minimum: 30
+    maximum: 100
+  - name: "rune dart tip"
+    minimum: 86
+    maximum: 100
+  - name: "dragon dart tip"
+    minimum: 15
+    maximum: 55
+  - name: "dragon arrowtips"
+    minimum: 25
+    maximum: 50
+  - name: "dragonstone noted"
+    minimum: 1
+    maximum: 3
+  - name: "papaya tree seed"
+    minimum: 1
+    maximum: 1
+  - name: "watermelon seed"
+    minimum: 15
+    maximum: 55
+  - name: "ranarr seed"
+    minimum: 1
+    maximum: 1
+  - name: "snapdragon seed"
+    minimum: 1
+    maximum: 1
+  - name: "torstol seed"
+    minimum: 1
+    maximum: 1
+  - name: "willow seed"
+    minimum: 1
+    maximum: 1
+  - name: "maple seed"
+    minimum: 1
+    maximum: 1
+  - name: "calquat tree seed"
+    minimum: 1
+    maximum: 1
+  - name: "dragon bones noted"
+    minimum: 7
+    maximum: 28
+rare:
+  accessibility: 750
+  items:
+  - name: "dragonbone necklace"
+    minimum: 1
+    maximum: 1
+  - name: "jar of decay"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 1250
+  items:
+  - name: "draconic visage"
+    minimum: 1
+    maximum: 1
+  - name: "skeletal visage"
+    minimum: 1
+    maximum: 1

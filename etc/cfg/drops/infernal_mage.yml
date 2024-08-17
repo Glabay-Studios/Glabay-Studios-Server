@@ -1,0 +1,59 @@
+---
+npc_id: 446
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "earth rune"
+    minimum: 50
+    maximum: 200
+  - name: "fire rune"
+    minimum: 50
+    maximum: 200
+  - name: "fire rune"
+    minimum: 10
+    maximum: 50
+  - name: "staff"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 5
+  items:
+  - name: "mystic hat"
+    minimum: 1
+    maximum: 1
+  - name: "mystic hat dark"
+    minimum: 1
+    maximum: 1
+  - name: "mystic hat light"
+    minimum: 1
+    maximum: 1
+  - name: "mystic boots"
+    minimum: 1
+    maximum: 1
+  - name: "mystic boots dark"
+    minimum: 1
+    maximum: 1
+  - name: "mystic boots light"
+    minimum: 1
+    maximum: 1
+  - name: "staff of fire"
+    minimum: 1
+    maximum: 1
+  - name: "water rune"
+    minimum: 100
+    maximum: 125
+  - name: "blood rune"
+    minimum: 60
+    maximum: 100
+  - name: "mind rune"
+    minimum: 125
+    maximum: 300
+  - name: "body rune"
+    minimum: 125
+    maximum: 300

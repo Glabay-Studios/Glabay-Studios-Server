@@ -1,0 +1,20 @@
+---
+id: 25
+name: "Crafting shop"
+items:
+- name: "uncut sapphire"
+- name: "uncut emerald"
+- name: "uncut ruby"
+- name: "uncut diamond"
+- name: "uncut dragonstone"
+- name: "sapphire"
+- name: "emerald"
+- name: "ruby"
+- name: "diamond"
+- name: "dragonstone"
+- name: "green dragon leather"
+- name: "blue dragon leather"
+- name: "red dragon leather"
+- name: "thread"
+- name: "needle"
+- name: "leather"

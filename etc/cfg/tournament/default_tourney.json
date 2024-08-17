@@ -1,0 +1,1314 @@
+{
+    "Rune Melee": {
+        "tournamentEquipment": [
+            10828,
+            6570,
+            1712,
+            4151,
+            10551,
+            8850,
+            -1,
+            1079,
+            -1,
+            7462,
+            11840,
+            -1,
+            2550,
+            -1
+        ],
+        "tournamentInventory": [
+            {
+                "itemID": 1215,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 12695,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 6685,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 557,
+                "itemAmount": 400
+            },
+            {
+                "itemID": 9075,
+                "itemAmount": 160
+            },
+            {
+                "itemID": 560,
+                "itemAmount": 80
+            }
+        ],
+        "ammoAmount": -1,
+        "tournamentLevels": [
+            99,
+            99,
+            99,
+            99,
+            99,
+            99,
+            99
+        ],
+        "prayerBlocked": "PROTECT_MELEE",
+        "magicBook": "LUNAR",
+        "commonItems": [
+            11773,
+            13239,
+            12954,
+            19553,
+            21295
+        ],
+        "uncommonItems": [
+            22322,
+            12006,
+            11804
+        ],
+        "rareItems": [
+            22324,
+            21003,
+            22981
+        ],
+        "veryRareItems": [
+            11802,
+            20784
+        ]
+    },
+    "Dharok": {
+        "tournamentEquipment": [
+            4716,
+            6570,
+            1725,
+            4151,
+            4720,
+            8850,
+            -1,
+            4722,
+            -1,
+            7462,
+            11840,
+            -1,
+            2550,
+            -1
+        ],
+        "tournamentInventory": [
+            {
+                "itemID": 12695,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 6685,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 4718,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 4153,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 9075,
+                "itemAmount": 160
+            },
+            {
+                "itemID": 560,
+                "itemAmount": 80
+            },
+            {
+                "itemID": 557,
+                "itemAmount": 400
+            }
+        ],
+        "ammoAmount": -1,
+        "tournamentLevels": [
+            99,
+            99,
+            99,
+            99,
+            99,
+            99,
+            99
+        ],
+        "prayerBlocked": "PROTECT_MELEE",
+        "magicBook": "LUNAR",
+        "commonItems": [
+            11773,
+            13239,
+            12954,
+            19553,
+            21295
+        ],
+        "uncommonItems": [
+            22322,
+            12006,
+            11804
+        ],
+        "rareItems": [
+            22324,
+            21003,
+            22981
+        ],
+        "veryRareItems": [
+            11802,
+            20784
+        ]
+    },
+    "Vesta": {
+        "tournamentEquipment": [
+            22625,
+            6570,
+            6585,
+            12006,
+            22616,
+            12954,
+            -1,
+            22619,
+            -1,
+            7462,
+            13239,
+            -1,
+            11773,
+            -1
+        ],
+        "tournamentInventory": [
+            {
+                "itemID": 11802,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 12695,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 6685,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 13441,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 557,
+                "itemAmount": 400
+            },
+            {
+                "itemID": 9075,
+                "itemAmount": 160
+            },
+            {
+                "itemID": 560,
+                "itemAmount": 80
+            }
+        ],
+        "ammoAmount": -1,
+        "tournamentLevels": [
+            99,
+            99,
+            99,
+            99,
+            99,
+            99,
+            99
+        ],
+        "prayerBlocked": "PROTECT_MELEE",
+        "magicBook": "LUNAR",
+        "commonItems": [
+            22613,
+            20784,
+            22322
+        ],
+        "uncommonItems": [
+            22613,
+            20784,
+            22322
+        ],
+        "rareItems": [
+            22613,
+            20784,
+            22322
+        ],
+        "veryRareItems": [
+            22613,
+            20784,
+            22322
+        ]
+    },
+    "NH": {
+        "tournamentEquipment": [
+            10828,
+            21791,
+            1712,
+            4675,
+            4712,
+            6889,
+            -1,
+            4714,
+            -1,
+            7462,
+            3105,
+            -1,
+            2550,
+            9244
+        ],
+        "tournamentInventory": [
+            {
+                "itemID": 10499,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 2503,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 4151,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 9185,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 1079,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 8850,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 5698,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 2444,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 6685,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 12695,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 6685,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 565,
+                "itemAmount": 5000
+            },
+            {
+                "itemID": 555,
+                "itemAmount": 5000
+            },
+            {
+                "itemID": 560,
+                "itemAmount": 5000
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            }
+        ],
+        "ammoAmount": 10000,
+        "tournamentLevels": [
+            99,
+            99,
+            99,
+            99,
+            99,
+            99,
+            99
+        ],
+        "prayerBlocked": "NONE",
+        "magicBook": "ANCIENT",
+        "commonItems": [
+            11773,
+            13239,
+            12954,
+            19553,
+            21295
+        ],
+        "uncommonItems": [
+            22322,
+            12006,
+            11804
+        ],
+        "rareItems": [
+            22324,
+            21003,
+            22981
+        ],
+        "veryRareItems": [
+            11802,
+            20784
+        ]
+    },
+    "Pure NH": {
+        "tournamentEquipment": [
+            6109,
+            1007,
+            1712,
+            4675,
+            6107,
+            3842,
+            -1,
+            6108,
+            -1,
+            20581,
+            3105,
+            -1,
+            2550,
+            9244
+        ],
+        "tournamentInventory": [
+            {
+                "itemID": 10499,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 2497,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 2440,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 2444,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 9185,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 5698,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 4587,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 6685,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 6685,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 11936,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 565,
+                "itemAmount": 5000
+            },
+            {
+                "itemID": 555,
+                "itemAmount": 5000
+            },
+            {
+                "itemID": 560,
+                "itemAmount": 5000
+            },
+            {
+                "itemID": 2550,
+                "itemAmount": 1
+            }
+        ],
+        "ammoAmount": 10000,
+        "tournamentLevels": [
+            99,
+            99,
+            99,
+            99,
+            99,
+            99,
+            99
+        ],
+        "prayerBlocked": "NONE",
+        "magicBook": "ANCIENT",
+        "commonItems": [
+            11773,
+            13239,
+            12954,
+            19553,
+            21295
+        ],
+        "uncommonItems": [
+            22322,
+            12006,
+            11804
+        ],
+        "rareItems": [
+            22324,
+            21003,
+            22981
+        ],
+        "veryRareItems": [
+            11802,
+            20784
+        ]
+    },
+    "Monk Robes": {
+        "tournamentEquipment": [
+            10828,
+            6570,
+            1725,
+            4151,
+            20199,
+            8850,
+            -1,
+            20202,
+            -1,
+            7462,
+            11840,
+            -1,
+            2550,
+            -1
+        ],
+        "tournamentInventory": [
+            {
+                "itemID": 12695,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 6685,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 5698,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 9075,
+                "itemAmount": 800
+            },
+            {
+                "itemID": 560,
+                "itemAmount": 400
+            },
+            {
+                "itemID": 557,
+                "itemAmount": 2000
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            }
+        ],
+        "ammoAmount": -1,
+        "tournamentLevels": [
+            99,
+            99,
+            99,
+            99,
+            99,
+            99,
+            99
+        ],
+        "prayerBlocked": "PROTECT_MELEE",
+        "magicBook": "LUNAR",
+        "commonItems": [
+            11773,
+            13239,
+            12954,
+            19553,
+            21295
+        ],
+        "uncommonItems": [
+            22322,
+            12006,
+            11804
+        ],
+        "rareItems": [
+            22324,
+            21003,
+            22981
+        ],
+        "veryRareItems": [
+            11802,
+            20784
+        ]
+    },
+    "Range AGS": {
+        "tournamentEquipment": [
+            10828,
+            6570,
+            1712,
+            861,
+            10551,
+            -1,
+            -1,
+            12383,
+            -1,
+            7462,
+            4131,
+            -1,
+            2550,
+            21326
+        ],
+        "tournamentInventory": [
+            {
+                "itemID": 11802,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 12695,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 6685,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 557,
+                "itemAmount": 400
+            },
+            {
+                "itemID": 9075,
+                "itemAmount": 160
+            },
+            {
+                "itemID": 560,
+                "itemAmount": 80
+            }
+        ],
+        "ammoAmount": 2000,
+        "tournamentLevels": [
+            80,
+            80,
+            99,
+            99,
+            99,
+            99,
+            99
+        ],
+        "prayerBlocked": "PROTECT_MELEE",
+        "magicBook": "LUNAR",
+        "commonItems": [
+            11773,
+            19553,
+            4153,
+            6585
+        ],
+        "uncommonItems": [
+            13239,
+            21295
+        ],
+        "rareItems": [
+            21003,
+            22981
+        ],
+        "veryRareItems": [
+            20784,
+            22613
+        ]
+    },
+    "Pure": {
+        "tournamentEquipment": [
+            12639,
+            6570,
+            6585,
+            4151,
+            6107,
+            12608,
+            -1,
+            2497,
+            -1,
+            11133,
+            3105,
+            -1,
+            2550,
+            -1
+        ],
+        "tournamentInventory": [
+            {
+                "itemID": 1215,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 12695,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 6685,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3024,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 3144,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            },
+            {
+                "itemID": 385,
+                "itemAmount": 1
+            }
+        ],
+        "ammoAmount": -1,
+        "tournamentLevels": [
+            75,
+            1,
+            99,
+            99,
+            99,
+            52,
+            99
+        ],
+        "prayerBlocked": "PROTECT_MELEE",
+        "magicBook": "NORMAL",
+        "commonItems": [
+            11773,
+            19553,
+            23389
+        ],
+        "uncommonItems": [
+            12809,
+            21295
+        ],
+        "rareItems": [
+            21003,
+            4153
+        ],
+        "veryRareItems": [
+            20784,
+            11802
+        ]
+    }
+}

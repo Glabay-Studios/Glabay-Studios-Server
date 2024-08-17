@@ -1,0 +1,38 @@
+---
+npc_id: 1672
+common:
+  accessibility: 3
+  items:
+  - name: "coins"
+    minimum: 10000
+    maximum: 60000
+  - name: "blood rune"
+    minimum: 100
+    maximum: 250
+  - name: "death rune"
+    minimum: 100
+    maximum: 250
+  - name: "chaos rune"
+    minimum: 100
+    maximum: 250
+rare:
+  accessibility: 40
+  items:
+  - name: "ahrims staff"
+    minimum: 1
+    maximum: 1
+  - name: "ahrims hood"
+    minimum: 1
+    maximum: 1
+  - name: "ahrims robetop"
+    minimum: 1
+    maximum: 1
+  - name: "ahrims robeskirt"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 300
+  items:
+  - name: "amulet of the damned"
+    minimum: 1
+    maximum: 1

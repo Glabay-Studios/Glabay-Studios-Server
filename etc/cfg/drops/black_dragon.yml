@@ -1,0 +1,71 @@
+---
+npc_id: 259
+constant:
+  accessibility: 0
+  items:
+  - name: "dragon bones"
+    minimum: 1
+    maximum: 1
+  - name: "black dragonhide"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "adamant dart"
+    minimum: 30
+    maximum: 80
+  - name: "adamant javelin"
+    minimum: 45
+    maximum: 85
+  - name: "rune knife"
+    minimum: 5
+    maximum: 65
+  - name: "fire rune"
+    minimum: 100
+    maximum: 600
+  - name: "adamantite bar noted"
+    minimum: 2
+    maximum: 12
+uncommon:
+  accessibility: 2
+  items:
+  - name: "mithril axe"
+    minimum: 1
+    maximum: 1
+  - name: "mithril battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "mithril kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "mithril 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "air rune"
+    minimum: 200
+    maximum: 600
+  - name: "law rune"
+    minimum: 50
+    maximum: 150
+  - name: "blood rune"
+    minimum: 65
+    maximum: 95
+  - name: "death rune"
+    minimum: 40
+    maximum: 120
+  - name: "rune longsword"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 50
+  items:
+  - name: "dragon battleaxe"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 2500
+  items:
+  - name: "draconic visage"
+    minimum: 1
+    maximum: 1

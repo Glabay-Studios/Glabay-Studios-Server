@@ -1,0 +1,80 @@
+---
+npc_id: 3163
+constant:
+  accessibility: 0
+  items:
+  - name: "big bones"
+    minimum: 1
+    maximum: 1
+  - name: "feather"
+    minimum: 1
+    maximum: 900
+common:
+  accessibility: 1
+  items:
+  - name: "black dhide body"
+    minimum: 1
+    maximum: 1
+  - name: "law rune"
+    minimum: 96
+    maximum: 105
+  - name: "rune crossbow"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 18000
+    maximum: 210000
+  - name: "dwarf weed seed"
+    minimum: 3
+    maximum: 3
+  - name: "runite bolts"
+    minimum: 18
+    maximum: 25
+uncommon:
+  accessibility: 15
+  items:
+  - name: "manta ray noted"
+    minimum: 1
+    maximum: 2
+  - name: "mushroom potato"
+    minimum: 1
+    maximum: 3
+  - name: "mind rune"
+    minimum: 500
+    maximum: 601
+  - name: "rune arrow"
+    minimum: 100
+    maximum: 105
+  - name: "dragonstone bolts e"
+    minimum: 5
+    maximum: 15
+  - name: "ranging potion3"
+    minimum: 3
+    maximum: 3
+  - name: "super defence3"
+    minimum: 3
+    maximum: 3
+rare:
+  accessibility: 150
+  items:
+  - name: "godsword shard 1"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 2"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 3"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 700
+  items:
+  - name: "armadyl helmet"
+    minimum: 1
+    maximum: 1
+  - name: "armadyl chestplate"
+    minimum: 1
+    maximum: 1
+  - name: "armadyl chainskirt"
+    minimum: 1
+    maximum: 1

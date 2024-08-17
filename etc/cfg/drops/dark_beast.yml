@@ -1,0 +1,80 @@
+---
+npc_id: 4005
+constant:
+  accessibility: 0
+  items:
+  - name: "big bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "adamant sq shield"
+    minimum: 1
+    maximum: 1
+  - name: "shark"
+    minimum: 1
+    maximum: 5
+  - name: "earth rune"
+    minimum: 100
+    maximum: 300
+  - name: "blood rune"
+    minimum: 60
+    maximum: 80
+  - name: "chaos rune"
+    minimum: 90
+    maximum: 115
+  - name: "coins"
+    minimum: 70000
+    maximum: 150000
+  - name: "cave nightshade"
+    minimum: 1
+    maximum: 5
+  - name: "grimy irit leaf noted"
+    minimum: 1
+    maximum: 3
+  - name: "grimy avantoe noted"
+    minimum: 1
+    maximum: 3
+  - name: "grimy kwuarm noted"
+    minimum: 1
+    maximum: 3
+  - name: "grimy dwarf weed noted"
+    minimum: 1
+    maximum: 3
+uncommon:
+  accessibility: 2
+  items:
+  - name: "rune 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "rune chainbody"
+    minimum: 1
+    maximum: 1
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "rune full helm"
+    minimum: 1
+    maximum: 1
+  - name: "dragon arrowtips"
+    minimum: 30
+    maximum: 80
+  - name: "dragon dart tip"
+    minimum: 30
+    maximum: 80
+  - name: "dragon javelin heads"
+    minimum: 10
+    maximum: 50
+  - name: "cave nightshade"
+    minimum: 3
+    maximum: 6
+  - name: "snape grass noted"
+    minimum: 15
+    maximum: 25
+rare:
+  accessibility: 328
+  items:
+  - name: "dark bow"
+    minimum: 1
+    maximum: 1

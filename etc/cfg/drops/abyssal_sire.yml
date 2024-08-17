@@ -1,0 +1,113 @@
+---
+npc_id: 5890
+constant:
+  accessibility: 0
+  items:
+  - name: "ashes"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "coins"
+    minimum: 10000
+    maximum: 55000
+  - name: "cosmic rune"
+    minimum: 400
+    maximum: 400
+  - name: "pure essence noted"
+    minimum: 650
+    maximum: 650
+  - name: "magic logs noted"
+    minimum: 55
+    maximum: 75
+  - name: "coal noted"
+    minimum: 400
+    maximum: 440
+uncommon:
+  accessibility: 1
+  items:
+  - name: "blood rune"
+    minimum: 160
+    maximum: 210
+  - name: "death rune"
+    minimum: 300
+    maximum: 400
+  - name: "law rune"
+    minimum: 275
+    maximum: 275
+  - name: "snapdragon seed"
+    minimum: 20
+    maximum: 20
+  - name: "law rune"
+    minimum: 5
+    maximum: 5
+  - name: "ranarr seed"
+    minimum: 5
+    maximum: 5
+  - name: "kwuarm noted"
+    minimum: 20
+    maximum: 20
+  - name: "grimy lantadyme noted"
+    minimum: 30
+    maximum: 30
+  - name: "cadantine noted"
+    minimum: 20
+    maximum: 20
+  - name: "dwarf weed noted"
+    minimum: 20
+    maximum: 20
+  - name: "runite ore noted"
+    minimum: 8
+    maximum: 8
+  - name: "runite bar noted"
+    minimum: 7
+    maximum: 7
+  - name: "earth orb noted"
+    minimum: 50
+    maximum: 55
+  - name: "mystic lava staff noted"
+    minimum: 3
+    maximum: 3
+  - name: "mystic air staff noted"
+    minimum: 3
+    maximum: 3
+  - name: "air battlestaff noted"
+    minimum: 8
+    maximum: 8
+  - name: "battlestaff noted"
+    minimum: 15
+    maximum: 15
+  - name: "rune kiteshield noted"
+    minimum: 3
+    maximum: 3
+  - name: "rune full helm noted"
+    minimum: 4
+    maximum: 4
+  - name: "rune platebody noted"
+    minimum: 3
+    maximum: 3
+  - name: "rune sword noted"
+    minimum: 4
+    maximum: 4
+  - name: "saradomin brew3"
+    minimum: 6
+    maximum: 6
+  - name: "super restore4"
+    minimum: 5
+    maximum: 5
+rare:
+  accessibility: 100
+  items:
+  - name: "unsired"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 1000
+  items:
+  - name: "shield left half"
+    minimum: 1
+    maximum: 1
+  - name: "abyssal bludgeon"
+    minimum: 1
+    maximum: 1

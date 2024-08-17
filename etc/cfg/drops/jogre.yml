@@ -1,0 +1,77 @@
+---
+npc_id: 2234
+constant:
+  accessibility: 0
+  items:
+  - name: "jogre bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 3
+  items:
+  - name: "nature rune"
+    minimum: 2
+    maximum: 10
+  - name: "bronze spear"
+    minimum: 1
+    maximum: 1
+  - name: "iron spear"
+    minimum: 1
+    maximum: 1
+  - name: "marrentill seed"
+    minimum: 1
+    maximum: 1
+  - name: "knife"
+    minimum: 1
+    maximum: 1
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 1
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 1
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 2
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 9
+  items:
+  - name: "tarromin seed"
+    minimum: 1
+    maximum: 1
+  - name: "ranarr seed"
+    minimum: 1
+    maximum: 1
+  - name: "toadflax seed"
+    minimum: 1
+    maximum: 1
+  - name: "avantoe seed"
+    minimum: 1
+    maximum: 1
+  - name: "kwuarm seed"
+    minimum: 1
+    maximum: 1
+  - name: "snapdragon seed"
+    minimum: 1
+    maximum: 1
+  - name: "cadantine seed"
+    minimum: 1
+    maximum: 1
+  - name: "lantadyme seed"
+    minimum: 1
+    maximum: 1
+  - name: "dwarf weed seed"
+    minimum: 1
+    maximum: 1
+  - name: "torstol seed"
+    minimum: 1
+    maximum: 1

@@ -1,0 +1,97 @@
+---
+npc_id:
+- 8611
+- 8610
+constant:
+  accessibility: 0
+  items:
+  - name: "wyrm bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "fire rune"
+    minimum: 200
+    maximum: 200
+  - name: "earth rune"
+    minimum: 75
+    maximum: 150
+  - name: "soul rune"
+    minimum: 15
+    maximum: 20
+  - name: "blood rune"
+    minimum: 15
+    maximum: 30
+uncommon:
+  accessibility: 5
+  items:
+  - name: "red dhide chaps"
+    minimum: 1
+    maximum: 1
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 1
+  - name: "earth battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "dragon dagger"
+    minimum: 1
+    maximum: 1
+  - name: "adamant axe"
+    minimum: 1
+    maximum: 1
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 1
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 1
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 1
+  - name: "adamant sq shield"
+    minimum: 1
+    maximum: 1
+  - name: "adamant battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "adamant 2h sword"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 150
+  items:
+  - name: "grimy ranarr weed noted"
+    minimum: 1
+    maximum: 4
+  - name: "grimy dwarf weed noted"
+    minimum: 1
+    maximum: 4
+  - name: "grimy avantoe noted"
+    minimum: 1
+    maximum: 4
+  - name: "grimy irit leaf noted"
+    minimum: 1
+    maximum: 1
+  - name: "dragon scimitar"
+    minimum: 1
+    maximum: 1
+  - name: "dragon plateskirt"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 1250
+  items:
+  - name: "dragon sword"
+    minimum: 1
+    maximum: 1
+  - name: "dragon harpoon"
+    minimum: 1
+    maximum: 1
+  - name: "dragon thrownaxe"
+    minimum: 100
+    maximum: 200

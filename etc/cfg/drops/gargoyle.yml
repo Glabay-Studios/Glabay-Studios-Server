@@ -1,0 +1,80 @@
+---
+npc_id: 1543
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "adamant platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "fire rune"
+    minimum: 300
+    maximum: 550
+  - name: "chaos rune"
+    minimum: 80
+    maximum: 140
+  - name: "death rune"
+    minimum: 80
+    maximum: 120
+  - name: "steel bar noted"
+    minimum: 10
+    maximum: 30
+  - name: "mithril bar noted"
+    minimum: 10
+    maximum: 30
+  - name: "gold bar noted"
+    minimum: 11
+    maximum: 35
+  - name: "pure essence noted"
+    minimum: 100
+    maximum: 300
+  - name: "coins"
+    minimum: 1000
+    maximum: 125000
+uncommon:
+  accessibility: 3
+  items:
+  - name: "rune 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "rune platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "steel 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "adamant boots"
+    minimum: 1
+    maximum: 1
+  - name: "rune full helm"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 25
+  items:
+  - name: "mystic robe top"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe top dark"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe top light"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 78
+  items:
+  - name: "granite maul"
+    minimum: 1
+    maximum: 1
+  - name: "helm of neitiznot"
+    minimum: 1
+    maximum: 1

@@ -1,0 +1,104 @@
+---
+npc_id:
+- 2042
+- 2043
+- 2044
+constant:
+  accessibility: 0
+  items:
+  - name: "zulrahs scales"
+    minimum: 100
+    maximum: 299
+common:
+  accessibility: 1
+  items:
+  - name: "snakeskin noted"
+    minimum: 30
+    maximum: 40
+  - name: "law rune"
+    minimum: 300
+    maximum: 500
+  - name: "green dragonhide noted"
+    minimum: 10
+    maximum: 50
+  - name: "magic logs noted"
+    minimum: 50
+    maximum: 100
+  - name: "coal noted"
+    minimum: 300
+    maximum: 300
+  - name: "runite ore noted"
+    minimum: 20
+    maximum: 20
+  - name: "dragon bones noted"
+    minimum: 30
+    maximum: 30
+  - name: "adamantite bar noted"
+    minimum: 30
+    maximum: 30
+uncommon:
+  accessibility: 2
+  items:
+  - name: "death rune"
+    minimum: 500
+    maximum: 500
+  - name: "chaos rune"
+    minimum: 650
+    maximum: 650
+  - name: "pure essence noted"
+    minimum: 1500
+    maximum: 1500
+  - name: "zulrahs scales"
+    minimum: 100
+    maximum: 500
+  - name: "raw shark noted"
+    minimum: 125
+    maximum: 125
+  - name: "saradomin brew4 noted"
+    minimum: 15
+    maximum: 15
+  - name: "dragon med helm"
+    minimum: 1
+    maximum: 1
+  - name: "grimy toadflax noted"
+    minimum: 30
+    maximum: 30
+  - name: "grimy snapdragon noted"
+    minimum: 30
+    maximum: 30
+  - name: "grimy dwarf weed noted"
+    minimum: 30
+    maximum: 30
+  - name: "grimy torstol noted"
+    minimum: 30
+    maximum: 30
+  - name: "dragon halberd"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 120
+  items:
+  - name: "tanzanite fang"
+    minimum: 1
+    maximum: 1
+  - name: "magic fang"
+    minimum: 1
+    maximum: 1
+  - name: "serpentine visage"
+    minimum: 1
+    maximum: 1
+  - name: "uncut onyx"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 500
+  items:
+  - name: "tanzanite mutagen"
+    minimum: 1
+    maximum: 1
+  - name: "magma mutagen"
+    minimum: 1
+    maximum: 1
+  - name: "jar of swamp"
+    minimum: 1
+    maximum: 1

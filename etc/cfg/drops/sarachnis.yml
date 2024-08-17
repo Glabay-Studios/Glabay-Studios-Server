@@ -1,0 +1,203 @@
+---
+npc_id: 8713
+constant:
+  accessibility: 0
+  items:
+    - name: "red spiders eggs"
+      minimum: 2
+      maximum: 2
+common:
+  accessibility: 1
+  items:
+  - name: "blood rune"
+    minimum: 80
+    maximum: 100
+  - name: "chaos rune"
+    minimum: 175
+    maximum: 200
+  - name: "cosmic rune"
+    minimum: 125
+    maximum: 150
+  - name: "death rune"
+    minimum: 80
+    maximum: 100
+  - name: "soul rune"
+    minimum: 80
+    maximum: 100
+  - name: "mithril ore noted"
+    minimum: 60
+    maximum: 90
+  - name: "red dragonhide noted"
+    minimum: 15
+    maximum: 25
+  - name: "uncut sapphire noted"
+    minimum: 20
+    maximum: 30
+  - name: "coins"
+    minimum: 17000
+    maximum: 25000
+  - name: "dragon bones noted"
+    minimum: 7
+    maximum: 15
+  - name: "red spiders eggs noted"
+    minimum: 25
+    maximum: 35
+  - name: "snape grass noted"
+    minimum: 20
+    maximum: 30
+uncommon:
+  accessibility: 6
+  items:
+  - name: "battlestaff noted"
+    minimum: 8
+    maximum: 10
+  - name: "rune platebody"
+    minimum: 1
+    maximum: 1
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 1
+  - name: "rune 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "mithril arrow"
+    minimum: 450
+    maximum: 600
+  - name: "mithril bolts"
+    minimum: 175
+    maximum: 225
+  - name: "grimy kwuarm noted"
+    minimum: 10
+    maximum: 15
+  - name: "grimy cadantine noted"
+    minimum: 10
+    maximum: 15
+  - name: "grimy dwarf weed noted"
+    minimum: 10
+    maximum: 15
+  - name: "grimy avantoe noted"
+    minimum: 10
+    maximum: 15
+  - name: "grimy lantadyme noted"
+    minimum: 10
+    maximum: 15
+  - name: "grimy ranarr weed noted"
+    minimum: 10
+    maximum: 15
+  - name: "adamantite ore noted"
+    minimum: 30
+    maximum: 40
+  - name: "uncut emerald noted"
+    minimum: 20
+    maximum: 30
+  - name: "onyx bolt tips"
+    minimum: 8
+    maximum: 10
+  - name: "uncut ruby noted"
+    minimum: 20
+    maximum: 30
+  - name: "dragon med helm"
+    minimum: 1
+    maximum: 1
+  - name: "toadflax seed"
+    minimum: 3
+    maximum: 3
+  - name: "irit seed"
+    minimum: 3
+    maximum: 3
+  - name: "belladonna seed"
+    minimum: 3
+    maximum: 3
+  - name: "poison ivy seed"
+    minimum: 3
+    maximum: 3
+  - name: "avantoe seed"
+    minimum: 3
+    maximum: 3
+  - name: "cactus seed"
+    minimum: 3
+    maximum: 3
+  - name: "potato cactus seed"
+    minimum: 3
+    maximum: 3
+  - name: "grimy ranarr weed noted"
+    minimum: 5
+    maximum: 10
+  - name: "grimy snapdragon noted"
+    minimum: 5
+    maximum: 10
+  - name: "grimy torstol noted"
+    minimum: 5
+    maximum: 10
+  - name: "runite ore noted"
+    minimum: 4
+    maximum: 6
+  - name: "uncut diamond noted"
+    minimum: 20
+    maximum: 30
+  - name: "crystal key"
+    minimum: 1
+    maximum: 1
+  - name: "spider carcass noted"
+    minimum: 10
+    maximum: 10
+  - name: "uncut sapphire"
+    minimum: 1
+    maximum: 1
+  - name: "uncut emerald"
+    minimum: 1
+    maximum: 1
+  - name: "snapdragon seed"
+    minimum: 3
+    maximum: 3
+  - name: "cadantine seed"
+    minimum: 3
+    maximum: 3
+  - name: "lantadyme seed"
+    minimum: 3
+    maximum: 3
+  - name: "snape grass seed"
+    minimum: 3
+    maximum: 9
+  - name: "dwarf weed seed"
+    minimum: 3
+    maximum: 3
+  - name: "torstol seed"
+    minimum: 3
+    maximum: 3
+  - name: "uncut ruby"
+    minimum: 1
+    maximum: 1
+  - name: "nature talisman"
+    minimum: 1
+    maximum: 1
+  - name: "uncut diamond"
+    minimum: 1
+    maximum: 1
+  - name: "rune javelin"
+    minimum: 5
+    maximum: 5
+  - name: "rune spear"
+    minimum: 1
+    maximum: 1
+  - name: "shield left half"
+    minimum: 1
+    maximum: 1
+  - name: "dragon spear"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 100
+  items:
+    - name: "red spiders eggs noted"
+      minimum: 175
+      maximum: 250
+very_rare:
+  accessibility: 300
+  items:
+  - name: "sarachnis cudgel"
+    minimum: 1
+    maximum: 1
+  - name: "jar of eyes"
+    minimum: 1
+    maximum: 1

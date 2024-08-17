@@ -1,0 +1,17 @@
+---
+npc_id: 7394
+rare:
+  accessibility: 33
+  items:
+  - name: "mist battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "dust battlestaff"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 102
+  items:
+  - name: "imbued heart"
+    minimum: 1
+    maximum: 1

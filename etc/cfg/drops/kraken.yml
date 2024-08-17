@@ -1,0 +1,71 @@
+---
+npc_id: 494
+common:
+  accessibility: 1
+  items:
+  - name: "rune warhammer"
+    minimum: 1
+    maximum: 1
+  - name: "rune longsword"
+    minimum: 1
+    maximum: 1
+  - name: "water rune"
+    minimum: 500
+    maximum: 1500
+  - name: "chaos rune"
+    minimum: 300
+    maximum: 800
+  - name: "death rune"
+    minimum: 200
+    maximum: 600
+  - name: "blood rune"
+    minimum: 100
+    maximum: 400
+  - name: "coins"
+    minimum: 20000
+    maximum: 300000
+  - name: "shark"
+    minimum: 5
+    maximum: 5
+uncommon:
+  accessibility: 2
+  items:
+  - name: "mystic robe top"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe bottom"
+    minimum: 1
+    maximum: 1
+  - name: "raw shark noted"
+    minimum: 50
+    maximum: 150
+  - name: "raw monkfish noted"
+    minimum: 100
+    maximum: 300
+  - name: "runite bar noted"
+    minimum: 2
+    maximum: 2
+  - name: "grimy snapdragon noted"
+    minimum: 6
+    maximum: 6
+  - name: "diamond noted"
+    minimum: 8
+    maximum: 8
+rare:
+  accessibility: 75
+  items:
+  - name: "casket"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 100
+  items:
+  - name: "kraken tentacle"
+    minimum: 1
+    maximum: 1
+  - name: "jar of dirt"
+    minimum: 1
+    maximum: 1
+  - name: "trident of the seas"
+    minimum: 1
+    maximum: 1

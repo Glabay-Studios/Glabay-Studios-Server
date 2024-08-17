@@ -1,0 +1,77 @@
+---
+npc_id: 2085
+constant:
+  accessibility: 0
+  items:
+  - name: "big bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "mind rune"
+    minimum: 1
+    maximum: 1
+  - name: "banana"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 1000
+    maximum: 5000
+uncommon:
+  accessibility: 2
+  items:
+  - name: "iron platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "iron 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "steel axe"
+    minimum: 1
+    maximum: 1
+  - name: "steel sword"
+    minimum: 1
+    maximum: 1
+  - name: "nature rune"
+    minimum: 6
+    maximum: 6
+  - name: "water rune"
+    minimum: 12
+    maximum: 12
+  - name: "body rune"
+    minimum: 37
+    maximum: 37
+  - name: "law rune"
+    minimum: 3
+    maximum: 3
+  - name: "mithril ore"
+    minimum: 1
+    maximum: 3
+rare:
+  accessibility: 3
+  items:
+  - name: "black kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "mithril mace"
+    minimum: 1
+    maximum: 1
+  - name: "mithril sq shield"
+    minimum: 1
+    maximum: 1
+  - name: "cosmic rune"
+    minimum: 4
+    maximum: 4
+  - name: "death rune"
+    minimum: 3
+    maximum: 3
+  - name: "blood rune"
+    minimum: 2
+    maximum: 2
+  - name: "adamant arrow"
+    minimum: 5
+    maximum: 5
+  - name: "long bone"
+    minimum: 1
+    maximum: 1

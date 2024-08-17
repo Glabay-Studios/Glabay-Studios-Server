@@ -1,0 +1,95 @@
+---
+npc_id: 319
+common:
+  accessibility: 1
+  items:
+  - name: "coins"
+    minimum: 200000
+    maximum: 1500000
+  - name: "uncut sapphire noted"
+    minimum: 10
+    maximum: 30
+  - name: "uncut emerald noted"
+    minimum: 10
+    maximum: 18
+  - name: "uncut ruby noted"
+    minimum: 10
+    maximum: 16
+  - name: "uncut diamond noted"
+    minimum: 10
+    maximum: 16
+  - name: "adamant arrow"
+    minimum: 750
+    maximum: 1250
+  - name: "runite bolts"
+    minimum: 250
+    maximum: 550
+  - name: "onyx bolts e"
+    minimum: 175
+    maximum: 275
+  - name: "mystic robe top"
+    minimum: 1
+    maximum: 1
+  - name: "mystic robe bottom"
+    minimum: 1
+    maximum: 1
+  - name: "tuna potato noted"
+    minimum: 30
+    maximum: 30
+  - name: "adamantite bar noted"
+    minimum: 35
+    maximum: 35
+  - name: "green dragonhide noted"
+    minimum: 100
+    maximum: 100
+  - name: "raw shark noted"
+    minimum: 70
+    maximum: 70
+  - name: "white berries noted"
+    minimum: 120
+    maximum: 200
+  - name: "shield left half noted"
+    minimum: 1
+    maximum: 1
+  - name: "antidoteplusplus4 noted"
+    minimum: 40
+    maximum: 40
+uncommon:
+  accessibility: 12
+  items:
+  - name: "ranarr seed"
+    minimum: 10
+    maximum: 10
+  - name: "pure essence noted"
+    minimum: 2500
+    maximum: 2500
+  - name: "adamantite ore noted"
+    minimum: 125
+    maximum: 125
+  - name: "runite ore noted"
+    minimum: 20
+    maximum: 20
+  - name: "dragon spear"
+    minimum: 1
+    maximum: 1
+  - name: "holy elixir"
+    minimum: 1
+    maximum: 1
+  - name: "spirit shield"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 600
+  items:
+  - name: "spectral sigil"
+    minimum: 1
+    maximum: 1
+  - name: "arcane sigil"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 2000
+  items:
+  - name: "elysian sigil"
+    minimum: 1
+    maximum: 1

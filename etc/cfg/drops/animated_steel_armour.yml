@@ -1,0 +1,14 @@
+---
+npc_id: 2452
+constant:
+  accessibility: 0
+  items:
+  - name: "steel platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "steel platebody"
+    minimum: 1
+    maximum: 1
+  - name: "steel full helm"
+    minimum: 1
+    maximum: 1

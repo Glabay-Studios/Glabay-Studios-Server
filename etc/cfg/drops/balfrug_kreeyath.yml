@@ -1,0 +1,56 @@
+---
+npc_id: 3132
+constant:
+  accessibility: 0
+  items:
+  - name: "ashes"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "adamant arrowpplusplus"
+    minimum: 295
+    maximum: 300
+  - name: "rune platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "adamant platebody"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 1100
+    maximum: 1400
+uncommon:
+  accessibility: 5
+  items:
+  - name: "blood rune"
+    minimum: 150
+    maximum: 300
+  - name: "lantadyme seed"
+    minimum: 5
+    maximum: 25
+  - name: "wine of zamorak noted"
+    minimum: 7
+    maximum: 7
+  - name: "shark"
+    minimum: 3
+    maximum: 6
+rare:
+  accessibility: 300
+  items:
+  - name: "godsword shard 1"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 2"
+    minimum: 1
+    maximum: 1
+  - name: "godsword shard 3"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 700
+  items:
+  - name: "zamorakian spear"
+    minimum: 1
+    maximum: 1

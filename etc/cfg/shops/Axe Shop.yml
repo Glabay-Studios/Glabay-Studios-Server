@@ -1,0 +1,11 @@
+---
+id: 91
+name: "Axe Shop"
+items:
+- name: "bronze axe"
+- name: "iron axe"
+- name: "steel axe"
+- name: "mithril axe"
+- name: "adamant axe"
+- name: "rune axe"
+

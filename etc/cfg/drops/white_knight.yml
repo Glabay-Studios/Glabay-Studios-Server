@@ -1,0 +1,68 @@
+---
+npc_id:
+- 1798
+- 1799
+- 1800
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 5
+  items:
+  - name: "coins"
+    minimum: 1
+    maximum: 200
+  - name: "iron longsword"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 10
+  items:
+  - name: "steel med helm"
+    minimum: 1
+    maximum: 1
+  - name: "mind rune"
+    minimum: 5
+    maximum: 5
+  - name: "water rune"
+    minimum: 25
+    maximum: 25
+  - name: "chaos rune"
+    minimum: 1
+    maximum: 3
+  - name: "nature rune"
+    minimum: 1
+    maximum: 4
+  - name: "mithril arrow"
+    minimum: 5
+    maximum: 30
+rare:
+  accessibility: 50
+  items:
+  - name: "initiate sallet"
+    minimum: 1
+    maximum: 1
+  - name: "initiate hauberk"
+    minimum: 1
+    maximum: 1
+  - name: "initiate cuisse"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 150
+  items:
+  - name: "proselyte sallet"
+    minimum: 1
+    maximum: 1
+  - name: "proselyte hauberk"
+    minimum: 1
+    maximum: 1
+  - name: "proselyte cuisse"
+    minimum: 1
+    maximum: 1
+  - name: "proselyte tasset"
+    minimum: 1
+    maximum: 1

@@ -1,0 +1,53 @@
+---
+npc_id: 4501
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "death rune"
+    minimum: 10
+    maximum: 25
+  - name: "raw lobster noted"
+    minimum: 15
+    maximum: 20
+  - name: "raw shark noted"
+    minimum: 1
+    maximum: 20
+  - name: "coins"
+    minimum: 1000
+    maximum: 2491
+uncommon:
+  accessibility: 6
+  items:
+  - name: "water talisman"
+    minimum: 1
+    maximum: 1
+  - name: "blood rune"
+    minimum: 4
+    maximum: 8
+  - name: "water rune"
+    minimum: 18
+    maximum: 50
+  - name: "earth rune"
+    minimum: 18
+    maximum: 100
+  - name: "raw salmon noted"
+    minimum: 36
+    maximum: 50
+  - name: "raw shark noted"
+    minimum: 8
+    maximum: 15
+  - name: "raw swordfish noted"
+    minimum: 10
+    maximum: 15
+rare:
+  accessibility: 250
+  items:
+  - name: "brine sabre"
+    minimum: 1
+    maximum: 1

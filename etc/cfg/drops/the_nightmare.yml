@@ -1,0 +1,128 @@
+---
+npc_id: 9425
+constant:
+  accessibility: 0
+  items:
+  - name: "big bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "nature rune"
+    minimum: 23
+    maximum: 121
+  - name: "bass noted"
+    minimum: 30
+    maximum: 45
+  - name: "adamantite ore noted"
+    minimum: 20
+    maximum: 100
+  - name: "gold ore noted"
+    minimum: 40
+    maximum: 125
+  - name: "coal noted"
+    minimum: 56
+    maximum: 223
+  - name: "pure essence noted"
+    minimum: 500
+    maximum: 1500
+  - name: "adamant arrow"
+    minimum: 90
+    maximum: 300
+  - name: "uncut emerald noted"
+    minimum: 5
+    maximum: 50
+  - name: "mithril ore noted"
+    minimum: 30
+    maximum: 120
+  - name: "coins"
+    minimum: 300000
+    maximum: 2000000
+uncommon:
+  accessibility: 1
+  items:
+  - name: "rune arrow"
+    minimum: 50
+    maximum: 600
+  - name: "cosmic rune"
+    minimum: 30
+    maximum: 255
+  - name: "death rune"
+    minimum: 50
+    maximum: 300
+  - name: "dragon dart"
+    minimum: 50
+    maximum: 150
+  - name: "blood rune"
+    minimum: 80
+    maximum: 255
+  - name: "soul rune"
+    minimum: 50
+    maximum: 123
+  - name: "uncut ruby noted"
+    minimum: 5
+    maximum: 20
+  - name: "yew logs noted"
+    minimum: 90
+    maximum: 200
+  - name: "magic logs noted"
+    minimum: 5
+    maximum: 100
+  - name: "grimy cadantine noted"
+    minimum: 8
+    maximum: 25
+  - name: "grimy torstol noted"
+    minimum: 8
+    maximum: 25
+  - name: "shark noted"
+    minimum: 20
+    maximum: 90
+  - name: "prayer potion3 noted"
+    minimum: 4
+    maximum: 20
+  - name: "saradomin brew3 noted"
+    minimum: 4
+    maximum: 20
+  - name: "zamorak brew3 noted"
+    minimum: 4
+    maximum: 20
+  - name: "sanfew serum3 noted"
+    minimum: 4
+    maximum: 20
+  - name: "clue scroll master"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 80
+  items:
+  - name: "nightmare staff"
+    minimum: 1
+    maximum: 1
+  - name: "inquisitors great helm"
+    minimum: 1
+    maximum: 1
+  - name: "inquisitors plateskirt"
+    minimum: 1
+    maximum: 1
+  - name: "inquisitors hauberk"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 130
+  items:
+  - name: "inquisitors mace"
+    minimum: 1
+    maximum: 1
+  - name: "eldritch orb"
+    minimum: 1
+    maximum: 1
+  - name: "harmonised orb"
+    minimum: 1
+    maximum: 1
+  - name: "volatile orb"
+    minimum: 1
+    maximum: 1
+  - name: "jar of dreams"
+    minimum: 1
+    maximum: 1

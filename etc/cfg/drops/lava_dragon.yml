@@ -1,0 +1,119 @@
+---
+npc_id: 6593
+constant:
+  accessibility: 0
+  items:
+  - name: "lava dragon bones"
+    minimum: 1
+    maximum: 1
+  - name: "lava scale"
+    minimum: 2
+    maximum: 2
+common:
+  accessibility: 1
+  items:
+  - name: "rune dart"
+    minimum: 60
+    maximum: 250
+  - name: "dragon dart"
+    minimum: 30
+    maximum: 100
+  - name: "rune javelin"
+    minimum: 20
+    maximum: 40
+  - name: "black dragonhide"
+    minimum: 1
+    maximum: 2
+  - name: "fire rune"
+    minimum: 15
+    maximum: 60
+  - name: "coins"
+    minimum: 15855
+    maximum: 135685
+uncommon:
+  accessibility: 2
+  items:
+  - name: "rune knife"
+    minimum: 8
+    maximum: 8
+  - name: "runite bolts"
+    minimum: 30
+    maximum: 30
+  - name: "death rune"
+    minimum: 20
+    maximum: 20
+  - name: "blood rune"
+    minimum: 20
+    maximum: 20
+  - name: "law rune"
+    minimum: 20
+    maximum: 20
+  - name: "onyx bolt tips"
+    minimum: 12
+    maximum: 12
+  - name: "dragon javelin heads"
+    minimum: 15
+    maximum: 15
+  - name: "adamant 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "rune longsword"
+    minimum: 1
+    maximum: 1
+  - name: "lava battlestaff"
+    minimum: 1
+    maximum: 1
+  - name: "rune axe"
+    minimum: 1
+    maximum: 1
+  - name: "adamant platebody"
+    minimum: 1
+    maximum: 1
+  - name: "rune kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "rune med helm"
+    minimum: 1
+    maximum: 1
+  - name: "rune full helm"
+    minimum: 1
+    maximum: 1
+  - name: "grimy guam leaf"
+    minimum: 1
+    maximum: 3
+  - name: "grimy marrentill"
+    minimum: 1
+    maximum: 3
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 3
+  - name: "grimy harralander"
+    minimum: 1
+    maximum: 3
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 3
+  - name: "grimy irit leaf"
+    minimum: 1
+    maximum: 3
+  - name: "grimy avantoe"
+    minimum: 1
+    maximum: 3
+  - name: "grimy kwuarm"
+    minimum: 1
+    maximum: 3
+  - name: "chocolate cake"
+    minimum: 3
+    maximum: 3
+rare:
+  accessibility: 75
+  items:
+  - name: "dragon scimitar"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 2500
+  items:
+  - name: "draconic visage"
+    minimum: 1
+    maximum: 1

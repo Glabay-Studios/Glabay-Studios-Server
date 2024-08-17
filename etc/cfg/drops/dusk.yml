@@ -1,0 +1,143 @@
+---
+npc_id:
+  - 7851
+  - 7854
+  - 7855
+  - 7882
+  - 7883
+  - 7886
+  - 7887
+  - 7888
+  - 7889
+constant:
+  accessibility: 0
+  items:
+  - name: "granite dust"
+    minimum: 50
+    maximum: 100
+common:
+  accessibility: 1
+  items:
+  - name: "rune pickaxe"
+    minimum: 1
+    maximum: 1
+  - name: "rune full helm"
+    minimum: 1
+    maximum: 1
+  - name: "rune platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "rune 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "mushroom potato"
+    minimum: 4
+    maximum: 6
+  - name: "saradomin brew4"
+    minimum: 2
+    maximum: 2
+  - name: "magic potion2"
+    minimum: 1
+    maximum: 1
+  - name: "ranging potion2"
+    minimum: 1
+    maximum: 1
+  - name: "super combat potion2"
+    minimum: 1
+    maximum: 1
+  - name: "prayer potion4"
+    minimum: 1
+    maximum: 2
+  - name: "gold ore noted"
+    minimum: 40
+    maximum: 75
+  - name: "adamantite bar noted"
+    minimum: 25
+    maximum: 40
+  - name: "coal noted"
+    minimum: 180
+    maximum: 250
+  - name: "gold bar noted"
+    minimum: 37
+    maximum: 50
+  - name: "mithril bar noted"
+    minimum: 35
+    maximum: 45
+  - name: "runite ore noted"
+    minimum: 3
+    maximum: 6
+  - name: "runite bar noted"
+    minimum: 3
+    maximum: 5
+  - name: "coins"
+    minimum: 10000
+    maximum: 20000
+  - name: "chaos rune"
+    minimum: 100
+    maximum: 150
+  - name: "coins"
+    minimum: 25000
+    maximum: 25000
+  - name: "crystal key"
+    minimum: 1
+    maximum: 1
+  - name: "death rune"
+    minimum: 60
+    maximum: 100
+  - name: "dragon dart tip"
+    minimum: 15
+    maximum: 25
+  - name: "diamond bolt tips"
+    minimum: 100
+    maximum: 150
+uncommon:
+  accessibility: 10
+  items:
+  - name: "dragon longsword"
+    minimum: 1
+    maximum: 1
+  - name: "adamant boots"
+    minimum: 1
+    maximum: 1
+  - name: "dragon med helm"
+    minimum: 1
+    maximum: 1
+  - name: "dragonstone bolt tips"
+    minimum: 20
+    maximum: 40
+  - name: "onyx bolt tips"
+    minimum: 5
+    maximum: 10
+  - name: "dragon arrowtips"
+    minimum: 50
+    maximum: 150
+  - name: "brimstone key"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 1000
+  items:
+  - name: "granite maul"
+    minimum: 1
+    maximum: 1
+  - name: "granite gloves"
+    minimum: 1
+    maximum: 1
+  - name: "granite ring"
+    minimum: 1
+    maximum: 1
+  - name: "granite hammer"
+    minimum: 1
+    maximum: 1
+  - name: "black tourmaline core"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 3000
+  items:
+  - name: "jar of stone"
+    minimum: 1
+    maximum: 1

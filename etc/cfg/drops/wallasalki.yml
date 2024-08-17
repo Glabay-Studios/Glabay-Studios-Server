@@ -1,0 +1,98 @@
+---
+npc_id: 5938
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 3
+  items:
+  - name: "fire rune"
+    minimum: 5
+    maximum: 5
+  - name: "air rune"
+    minimum: 9
+    maximum: 9
+  - name: "law rune"
+    minimum: 4
+    maximum: 7
+  - name: "mind rune"
+    minimum: 2
+    maximum: 17
+  - name: "water rune"
+    minimum: 4
+    maximum: 12
+  - name: "chaos rune"
+    minimum: 4
+    maximum: 10
+  - name: "cosmic rune"
+    minimum: 1
+    maximum: 10
+  - name: "nature rune"
+    minimum: 5
+    maximum: 9
+  - name: "death rune"
+    minimum: 1
+    maximum: 10
+  - name: "blood rune"
+    minimum: 2
+    maximum: 5
+  - name: "pure essence noted"
+    minimum: 9
+    maximum: 9
+uncommon:
+  accessibility: 35
+  items:
+  - name: "skeletal gloves"
+    minimum: 1
+    maximum: 1
+  - name: "skeletal boots"
+    minimum: 1
+    maximum: 1
+  - name: "lobster"
+    minimum: 1
+    maximum: 1
+  - name: "shark"
+    minimum: 1
+    maximum: 1
+  - name: "grimy tarromin"
+    minimum: 1
+    maximum: 1
+  - name: "adamantite ore"
+    minimum: 1
+    maximum: 2
+rare:
+  accessibility: 75
+  items:
+  - name: "rune spear"
+    minimum: 1
+    maximum: 1
+  - name: "death rune"
+    minimum: 45
+    maximum: 45
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "rune arrow"
+    minimum: 42
+    maximum: 42
+  - name: "silver ore noted"
+    minimum: 10
+    maximum: 100
+  - name: "rune sq shield"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 145
+  items:
+  - name: "skeletal helm"
+    minimum: 1
+    maximum: 1
+  - name: "skeletal top"
+    minimum: 1
+    maximum: 1
+  - name: "skeletal bottoms"
+    minimum: 1
+    maximum: 1

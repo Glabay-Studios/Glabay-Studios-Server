@@ -1,0 +1,57 @@
+---
+npc_id:
+- 2212
+- 2244
+- 3161
+- 3168
+common:
+  accessibility: 1
+  items:
+  - name: "air rune"
+    minimum: 11
+    maximum: 13
+  - name: "water rune"
+    minimum: 5
+    maximum: 9
+  - name: "nature rune"
+    minimum: 4
+    maximum: 9
+  - name: "pure essence noted"
+    minimum: 23
+    maximum: 23
+uncommon:
+  accessibility: 12
+  items:
+  - name: "mind rune"
+    minimum: 5
+    maximum: 5
+  - name: "fire rune"
+    minimum: 7
+    maximum: 7
+  - name: "body rune"
+    minimum: 5
+    maximum: 12
+  - name: "chaos rune"
+    minimum: 1
+    maximum: 6
+  - name: "astral rune"
+    minimum: 3
+    maximum: 3
+  - name: "law rune"
+    minimum: 2
+    maximum: 2
+  - name: "death rune"
+    minimum: 2
+    maximum: 2
+  - name: "blood rune"
+    minimum: 2
+    maximum: 2
+  - name: "antipoison3"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 128
+  items:
+  - name: "dragon boots"
+    minimum: 1
+    maximum: 1

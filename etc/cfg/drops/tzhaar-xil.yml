@@ -1,0 +1,47 @@
+---
+npc_id: 2167
+constant:
+  accessibility: 0
+  items:
+  - name: "tokkul"
+    minimum: 100
+    maximum: 150
+common:
+  accessibility: 1
+  items:
+  - name: "uncut sapphire"
+    minimum: 1
+    maximum: 1
+  - name: "uncut emerald"
+    minimum: 1
+    maximum: 1
+  - name: "uncut ruby"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 10
+  items:
+  - name: "uncut diamond"
+    minimum: 1
+    maximum: 1
+  - name: "toktz xil ul"
+    minimum: 10
+    maximum: 30
+rare:
+  accessibility: 128
+  items:
+  - name: "toktz xil ak"
+    minimum: 1
+    maximum: 1
+  - name: "toktz xil ek"
+    minimum: 1
+    maximum: 1
+  - name: "obsidian cape"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 1024
+  items:
+  - name: "uncut onyx"
+    minimum: 1
+    maximum: 1

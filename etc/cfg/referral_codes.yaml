@@ -1,0 +1,248 @@
+---
+
+- code: "vihtic"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "nes"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "artz"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "eggy"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "fpk merk"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "runescapeog"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "fewb"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "sprad"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "effigy"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "jetman"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "lanors"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "didyscape"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "sizure"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "mickey"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "frimb"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "ceraxy"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "fergle"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "sohan"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "slapped"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "gnars"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "wet wizard"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "derm"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "beast k"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+- code: "boomepickill"
+  rewards:
+  - name: coins
+    amount: 1500000
+  - name: youtube mystery box
+    amount: 1
+  - id: 2528 # lamp
+    amount: 1
+  - id: 11937
+    amount: 100
+  - id: 7968
+    amount: 1
+  - id: 7629
+    amount: 1
+  - id: 21046
+    amount: 2

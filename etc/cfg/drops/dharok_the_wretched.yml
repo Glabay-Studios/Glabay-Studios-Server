@@ -1,0 +1,38 @@
+---
+npc_id: 1673
+common:
+  accessibility: 3
+  items:
+  - name: "coins"
+    minimum: 10000
+    maximum: 60000
+  - name: "blood rune"
+    minimum: 100
+    maximum: 250
+  - name: "death rune"
+    minimum: 100
+    maximum: 250
+  - name: "chaos rune"
+    minimum: 100
+    maximum: 250
+rare:
+  accessibility: 40
+  items:
+  - name: "dharoks helm"
+    minimum: 1
+    maximum: 1
+  - name: "dharoks greataxe"
+    minimum: 1
+    maximum: 1
+  - name: "dharoks platebody"
+    minimum: 1
+    maximum: 1
+  - name: "dharoks platelegs"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 300
+  items:
+  - name: "amulet of the damned"
+    minimum: 1
+    maximum: 1

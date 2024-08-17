@@ -1,0 +1,53 @@
+---
+npc_id: 7278
+constant:
+  accessibility: 0
+  items:
+  - name: "ashes"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "death rune"
+    minimum: 100
+    maximum: 200
+  - name: "blood rune"
+    minimum: 55
+    maximum: 130
+  - name: "chaos rune"
+    minimum: 125
+    maximum: 250
+  - name: "rune 2h sword"
+    minimum: 1
+    maximum: 1
+  - name: "lobster"
+    minimum: 2
+    maximum: 6
+  - name: "coins"
+    minimum: 24000
+    maximum: 118252
+uncommon:
+  accessibility: 3
+  items:
+  - name: "adamant kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "adamant platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "rune full helm"
+    minimum: 1
+    maximum: 2
+rare:
+  accessibility: 35
+  items:
+  - name: "rune boots"
+    minimum: 1
+    maximum: 2
+very_rare:
+  accessibility: 140
+  items:
+  - name: "dragon boots"
+    minimum: 1
+    maximum: 1

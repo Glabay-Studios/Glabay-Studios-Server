@@ -1,0 +1,103 @@
+---
+npc_id:
+- 970
+- 975
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "bronze spear"
+    minimum: 1
+    maximum: 1
+  - name: "iron spear"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 3000
+    maximum: 3000
+  - name: "cactus seed"
+    minimum: 1
+    maximum: 1
+  - name: "steel arrow"
+    minimum: 15
+    maximum: 35
+  - name: "harpoon noted"
+    minimum: 1
+    maximum: 1
+  - name: "lobster pot"
+    minimum: 1
+    maximum: 1
+  - name: "fishing bait"
+    minimum: 50
+    maximum: 50
+  - name: "feather"
+    minimum: 20
+    maximum: 80
+  - name: "raw sardine"
+    minimum: 5
+    maximum: 5
+  - name: "raw herring"
+    minimum: 4
+    maximum: 4
+  - name: "raw lobster"
+    minimum: 1
+    maximum: 1
+  - name: "water rune"
+    minimum: 15
+    maximum: 70
+  - name: "uncut sapphire"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 3
+  items:
+  - name: "runite bar"
+    minimum: 1
+    maximum: 1
+  - name: "nature rune"
+    minimum: 5
+    maximum: 67
+  - name: "uncut ruby"
+    minimum: 1
+    maximum: 1
+  - name: "uncut emerald"
+    minimum: 1
+    maximum: 1
+  - name: "opal bolt tips"
+    minimum: 10
+    maximum: 15
+  - name: "raw tuna"
+    minimum: 1
+    maximum: 1
+  - name: "mithril javelin"
+    minimum: 1
+    maximum: 3
+  - name: "mithril spear"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 10
+  items:
+  - name: "rune spear"
+    minimum: 1
+    maximum: 1
+  - name: "death rune"
+    minimum: 45
+    maximum: 45
+  - name: "rune battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "rune arrow"
+    minimum: 42
+    maximum: 42
+  - name: "silver ore noted"
+    minimum: 10
+    maximum: 100
+  - name: "rune sq shield"
+    minimum: 1
+    maximum: 1

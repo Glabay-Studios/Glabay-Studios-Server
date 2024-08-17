@@ -1,0 +1,38 @@
+---
+npc_id: 1677
+common:
+  accessibility: 7
+  items:
+  - name: "coins"
+    minimum: 10000
+    maximum: 60000
+  - name: "death rune"
+    minimum: 100
+    maximum: 250
+  - name: "blood rune"
+    minimum: 100
+    maximum: 250
+  - name: "chaos rune"
+    minimum: 100
+    maximum: 250
+rare:
+  accessibility: 50
+  items:
+  - name: "veracs flail"
+    minimum: 1
+    maximum: 1
+  - name: "veracs helm"
+    minimum: 1
+    maximum: 1
+  - name: "veracs brassard"
+    minimum: 1
+    maximum: 1
+  - name: "veracs plateskirt"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 300
+  items:
+  - name: "amulet of the damned"
+    minimum: 1
+    maximum: 1

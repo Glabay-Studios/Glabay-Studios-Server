@@ -1,0 +1,132 @@
+CREATE TABLE `hs_users` (
+  `id` int(10) NOT NULL,
+  `username` varchar(40) CHARACTER SET utf8 COLLATE utf8_unicode_ci NOT NULL,
+  `rights` int(1) NOT NULL DEFAULT 0,
+  `mode` tinyint(1) NOT NULL DEFAULT 0,
+  `total_level` int(11) NOT NULL DEFAULT 0,
+  `overall_xp` bigint(20) NOT NULL,
+  `attack_xp` int(11) NOT NULL,
+  `defence_xp` int(11) NOT NULL,
+  `strength_xp` int(11) NOT NULL,
+  `constitution_xp` int(11) NOT NULL,
+  `ranged_xp` int(11) NOT NULL,
+  `prayer_xp` int(11) NOT NULL,
+  `magic_xp` int(11) NOT NULL,
+  `cooking_xp` int(11) NOT NULL,
+  `woodcutting_xp` int(11) NOT NULL,
+  `fletching_xp` int(11) NOT NULL,
+  `fishing_xp` int(11) NOT NULL,
+  `firemaking_xp` int(11) NOT NULL,
+  `crafting_xp` int(11) NOT NULL,
+  `smithing_xp` int(11) NOT NULL,
+  `mining_xp` int(11) NOT NULL,
+  `herblore_xp` int(11) NOT NULL,
+  `agility_xp` int(11) NOT NULL,
+  `thieving_xp` int(11) NOT NULL,
+  `slayer_xp` int(11) NOT NULL,
+  `farming_xp` int(11) NOT NULL,
+  `runecrafting_xp` int(11) NOT NULL,
+  `hunter_xp` int(11) NOT NULL,
+  `construction_xp` int(11) NOT NULL,
+  `summoning_xp` int(11) NOT NULL,
+  `dungeoneering_xp` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
+
+
+ALTER TABLE `hs_users` ADD PRIMARY KEY (`id`);
+
+
+CREATE TABLE `fx_sites` (
+  `id` int(11) NOT NULL,
+  `title` varchar(255) NOT NULL,
+  `url` varchar(255) NOT NULL,
+  `site_id` varchar(255) NOT NULL,
+  `active` tinyint(1) NOT NULL DEFAULT 1
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `fx_sites`
+--
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Database: `u117435772_vote`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `fx_sites`
+--
+
+CREATE TABLE `fx_sites` (
+  `id` int(11) NOT NULL,
+  `title` varchar(255) NOT NULL,
+  `url` varchar(255) NOT NULL,
+  `site_id` varchar(255) NOT NULL,
+  `active` tinyint(1) NOT NULL DEFAULT 1
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `fx_sites`
+--
+
+INSERT INTO `fx_sites` (`id`, `title`, `url`, `site_id`, `active`) VALUES
+(2, 'Rune-Locus (1 point)', 'http://www.runelocus.com/top-rsps-list/vote-{sid}/?id2={incentive}', '46194', 1),
+(6, 'TopG (1 Point)', 'https://topg.org/Runescape/in-{sid}-{incentive}', '517107', 1),
+(8, 'RSPS100 (1 Point)', 'http://rsps100.com/vote/{sid}/{incentive}', '1757', 1),
+(9, 'Not Required (0 points)', 'https://www.rsps-list.com/index.php?a=in&u={sid}&id={incentive}', 'Xeros', 1);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `fx_votes`
+--
+
+CREATE TABLE `fx_votes` (
+  `id` int(11) NOT NULL,
+  `username` varchar(255) NOT NULL,
+  `callback_date` timestamp NULL DEFAULT NULL,
+  `started` timestamp NOT NULL DEFAULT current_timestamp(),
+  `ip_address` varchar(255) DEFAULT NULL,
+  `site_id` int(11) NOT NULL,
+  `uid` varchar(255) NOT NULL,
+  `claimed` tinyint(1) NOT NULL DEFAULT 0
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+--
+-- Indexes for table `fx_sites`
+--
+ALTER TABLE `fx_sites`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `fx_votes`
+--
+ALTER TABLE `fx_votes`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `fx_sites`
+--
+ALTER TABLE `fx_sites`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+
+--
+-- AUTO_INCREMENT for table `fx_votes`
+--
+ALTER TABLE `fx_votes`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19807;

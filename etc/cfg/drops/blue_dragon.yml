@@ -1,0 +1,65 @@
+---
+npc_id: 268
+constant:
+  accessibility: 0
+  items:
+  - name: "dragon bones"
+    minimum: 1
+    maximum: 1
+  - name: "blue dragonhide"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "steel battleaxe"
+    minimum: 1
+    maximum: 1
+  - name: "mithril axe"
+    minimum: 1
+    maximum: 1
+  - name: "mithril spear"
+    minimum: 1
+    maximum: 1
+  - name: "steel platelegs"
+    minimum: 1
+    maximum: 1
+  - name: "mithril kiteshield"
+    minimum: 1
+    maximum: 1
+  - name: "grimy ranarr weed"
+    minimum: 1
+    maximum: 1
+  - name: "adamantite ore noted"
+    minimum: 1
+    maximum: 1
+uncommon:
+  accessibility: 2
+  items:
+  - name: "adamant full helm"
+    minimum: 1
+    maximum: 1
+  - name: "water rune"
+    minimum: 125
+    maximum: 125
+  - name: "nature rune"
+    minimum: 25
+    maximum: 25
+  - name: "fire rune"
+    minimum: 75
+    maximum: 75
+  - name: "law rune"
+    minimum: 15
+    maximum: 15
+  - name: "bass"
+    minimum: 1
+    maximum: 1
+  - name: "rune dagger"
+    minimum: 1
+    maximum: 1
+rare:
+  accessibility: 80
+  items:
+  - name: "dragon longsword"
+    minimum: 1
+    maximum: 1

@@ -1,0 +1,65 @@
+---
+npc_id: 6618
+constant:
+  accessibility: 0
+  items:
+  - name: "bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "shark"
+    minimum: 1
+    maximum: 1
+  - name: "anchovy pizza noted"
+    minimum: 8
+    maximum: 28
+  - name: "potato with cheese"
+    minimum: 3
+    maximum: 5
+  - name: "prayer potion4"
+    minimum: 1
+    maximum: 1
+  - name: "coins"
+    minimum: 50000
+    maximum: 225000
+  - name: "silver ore noted"
+    minimum: 40
+    maximum: 40
+  - name: "uncut sapphire noted"
+    minimum: 4
+    maximum: 4
+  - name: "uncut emerald noted"
+    minimum: 6
+    maximum: 6
+uncommon:
+  accessibility: 3
+  items:
+  - name: "red dragonhide noted"
+    minimum: 10
+    maximum: 30
+  - name: "onyx bolt tips"
+    minimum: 12
+    maximum: 12
+rare:
+  accessibility: 100
+  items:
+  - name: "fedora"
+    minimum: 1
+    maximum: 1
+  - name: "archaic emblem tier 1"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 100
+  items:
+  - name: "malediction ward"
+    minimum: 1
+    maximum: 1
+  - item: 4185
+    maximum: 3
+    minimum: 2
+  - item: 6792
+    maximum: 3
+    minimum: 2

@@ -1,0 +1,92 @@
+---
+npc_id: 2265
+constant:
+  accessibility: 0
+  items:
+  - name: "dagannoth bones"
+    minimum: 1
+    maximum: 1
+common:
+  accessibility: 1
+  items:
+  - name: "adamant axe"
+    minimum: 1
+    maximum: 1
+  - name: "iron arrow"
+    minimum: 250
+    maximum: 650
+  - name: "steel arrow"
+    minimum: 50
+    maximum: 150
+  - name: "runite crossbow u"
+    minimum: 1
+    maximum: 1
+  - name: "sapphire bolt tips"
+    minimum: 10
+    maximum: 25
+  - name: "coins"
+    minimum: 50000
+    maximum: 785000
+  - name: "bronze arrow"
+    minimum: 100
+    maximum: 150
+  - name: "shark"
+    minimum: 3
+    maximum: 5
+uncommon:
+  accessibility: 2
+  items:
+  - name: "iron knife"
+    minimum: 250
+    maximum: 500
+  - name: "steel knife"
+    minimum: 50
+    maximum: 100
+  - name: "mithril knife"
+    minimum: 30
+    maximum: 100
+  - name: "runite bolts"
+    minimum: 10
+    maximum: 30
+  - name: "red dhide vamb"
+    minimum: 1
+    maximum: 1
+  - name: "archer helm"
+    minimum: 1
+    maximum: 1
+  - name: "yew logs noted"
+    minimum: 100
+    maximum: 100
+  - name: "maple logs noted"
+    minimum: 125
+    maximum: 150
+  - name: "feather"
+    minimum: 200
+    maximum: 800
+rare:
+  accessibility: 10
+  items:
+  - name: "spined helm"
+    minimum: 1
+    maximum: 1
+  - name: "spined body"
+    minimum: 1
+    maximum: 1
+  - name: "spined chaps"
+    minimum: 1
+    maximum: 1
+  - name: "spined boots"
+    minimum: 1
+    maximum: 1
+  - name: "spined gloves"
+    minimum: 1
+    maximum: 1
+very_rare:
+  accessibility: 50
+  items:
+  - name: "dragon axe"
+    minimum: 1
+    maximum: 1
+  - name: "archers ring"
+    minimum: 1
+    maximum: 1
